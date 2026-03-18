@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CourtDecision",
+  "type": "object",
+  "required": ["id", "court_name", "case_number", "decision_date"],
+  "properties": {
+    "id": { "type": "string" },
+    "court_name": { "type": "string" },
+    "case_number": { "type": "string" },
+    "decision_date": { "type": "string", "format": "date" },
+    "summary": { "type": "string" },
+    "referenced_articles": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}

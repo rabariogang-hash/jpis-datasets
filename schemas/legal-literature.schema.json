@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LegalLiterature",
+  "type": "object",
+  "required": ["id", "title"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "author": { "type": "string" },
+    "publication_year": { "type": "integer" },
+    "referenced_articles": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}

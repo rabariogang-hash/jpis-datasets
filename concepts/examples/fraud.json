@@ -1,0 +1,7 @@
+{
+  "id": "fraud",
+  "type": "legal_concept",
+  "definition": "Namjerna obmana radi pribavljanja protupravne imovinske koristi.",
+  "related_articles": ["kz_bih_239"],
+  "related_concepts": ["intent", "property_damage"]
+}

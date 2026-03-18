@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "LawArticle",
+  "type": "object",
+  "required": ["id", "law_id", "article_number", "content"],
+  "properties": {
+    "id": { "type": "string" },
+    "law_id": { "type": "string" },
+    "article_number": { "type": "string" },
+    "title": { "type": "string" },
+    "content": { "type": "string" },
+    "paragraphs": { "type": "array", "items": { "type": "string" } },
+    "keywords": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}
