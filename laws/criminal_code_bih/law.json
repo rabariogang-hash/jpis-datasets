@@ -2,8 +2,20 @@
   "id": "criminal_code_bih",
   "title": "Krivični zakon Bosne i Hercegovine",
   "short_title": "KZ BiH",
-  "jurisdiction": "BiH",
+  "jurisdiction": "bih",
   "type": "law",
   "official_gazette": "Službeni glasnik BiH",
-  "status": "active"
+  "status": "active",
+  "source": {
+    "type": "official_gazette",
+    "name": "Parlamentarna skupština Bosne i Hercegovine",
+    "url": "https://www.parlament.ba/law/DownloadDocument?langTag=bs&lawDocumentId=ddc77cbe-f364-4a43-a7a5-96a72fe85ae3",
+    "notes": "Neslužbeni prečišćeni tekst"
+  },
+  "metadata": {
+    "language": "bs",
+    "document_kind": "consolidated_text",
+    "source_pages": 112,
+    "dataset_stage": "metadata_ready"
+  }
 }
