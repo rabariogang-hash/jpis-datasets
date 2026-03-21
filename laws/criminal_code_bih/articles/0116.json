@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:116",
+  "law_id": "criminal_code_bih",
+  "article_number": "116",
+  "title": "Prestanak mjera sigurnosti i pravnih posljedica osude na osnovu sudske odluke",
+  "content_path": "../article-text/0116.txt",
+  "paragraphs": [
+    "(1)  Sud može odlučiti da prestane primjena mjere sigurnosti zabrane vršenja poziva, djelatnosti\nili dužnosti ako su protekle tri godine od dana njenog izricanja.",
+    "(2) Sud može odrediti da prestane pravna posljedica osude koja se sastoji u zabrani sticanja\nodređenog prava kad proteknu tri godine od dana izdržane, zastarjele ili oproštene kazne.",
+    "(3) Pri ocjeni hoće li odrediti prestanak primjene mjere sigurnosti, odnosno pravne posljedice\nosude, sud će uzeti u obzir ponašanje osuđenog poslije osude, njegovu spremnost da naknadi\nštetu prouzrokovanu krivičnim djelom i da vrati imovinsku korist pribavljenu krivičnim djelom,\nkao  i druge okolnosti koje ukazuju na opravdanost prestanka primjene mjere sigurnosti,\nodnosno pravne posljedice osude.",
+    "(4) Prestankom pravne posljedice osude ne dira se u prava trećih osoba koja se zasnivaju na\nosudi."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0116",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:210a",
+  "law_id": "criminal_code_bih",
+  "article_number": "210a",
+  "title": "Nedozvoljen promet akciznih proizvoda",
+  "content_path": "../article-text/0210a.txt",
+  "paragraphs": [
+    "(1) Ko nezakonito proizvede, stavi u promet odnosno proda ili prodaje proizvode koji nisu\nobilježeni kontrolnim  i poreznim markicama na način propisan poreznim zakonodavstvom\nBosne i Hercegovine kaznit će se kaznom zatvora od šest mjeseci do pet godina.",
+    "(2) Proizvodi iz stava (1) ovog člana bit će oduzeti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0210a",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

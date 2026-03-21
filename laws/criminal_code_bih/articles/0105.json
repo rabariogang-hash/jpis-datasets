@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:105",
+  "law_id": "criminal_code_bih",
+  "article_number": "105",
+  "title": "Evidencija o izrečenim odgojnim mjerama",
+  "content_path": "../article-text/0105.txt",
+  "paragraphs": [
+    "(1) Evidenciju o izrečenim odgojnim mjerama vode nadležni organi socijalne zaštite na temelju\npropisa koje donosi organ nadležno za poslove  socijalne  zaštite u  Federaciji Bosne  i\nHercegovine, Republici Srpskoj ili Brčko Distriktu Bosne i Hercegovine.",
+    "(2) Podaci o izrečenim odgojnim mjerama mogu se dati samo sudu, tužilaštvu, organima\nunutrašnjih poslova i organima socijalne zaštite u vezi s krivičnim postupkom koji se vodi\nprotiv osoba kojima su izrečene odgojne mjere."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0105",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

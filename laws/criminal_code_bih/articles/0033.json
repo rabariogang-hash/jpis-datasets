@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:33",
+  "law_id": "criminal_code_bih",
+  "article_number": "33",
+  "title": "Sadržaj krivice",
+  "content_path": "../article-text/0033.txt",
+  "paragraphs": [
+    "(1) Krivica postoji ako je počinilac u vrijeme izvršenja krivičnog djela bio uračunljiv i pri\ntome postupao s umišljajem.",
+    "(2) Krivica za krivično djelo postoji i ako je počinilac postupao iz nehata, ako je to zakonom\nizričito predviđeno."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0033",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

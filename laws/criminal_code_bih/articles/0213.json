@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:213",
+  "law_id": "criminal_code_bih",
+  "article_number": "213",
+  "title": "Nedopuštena proizvodnja",
+  "content_path": "../article-text/0213.txt",
+  "paragraphs": [
+    "(1) Ko proizvede ili preradi robu čija je proizvodnja ili prerađivanje zabranjeno propisima\nBosne  i Hercegovine  ili međunarodnim pravom, ako takvim djelom nije učinjeno  drugo\nkrivično djelo za koje je propisana teža kazna, kaznit će se novčanom kaznom ili kaznom\nzatvora do jedne godine.",
+    "(2) Roba iz stava 1. ovog člana i sredstva za njenu proizvodnju ili preradbu će se oduzeti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0213",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:131",
+  "law_id": "criminal_code_bih",
+  "article_number": "131",
+  "title": "Kazne za pravne osobe",
+  "content_path": "../article-text/0131.txt",
+  "paragraphs": [
+    "Pravnim osobama se za krivična djela mogu izreći ove kazne:",
+    "a) novčana kazna;",
+    "b) kazna oduzimanja imovine;",
+    "c) kazna prestanka pravne osobe."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0131",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:25",
+  "law_id": "criminal_code_bih",
+  "article_number": "25",
+  "title": "Krajnja nužda",
+  "content_path": "../article-text/0025.txt",
+  "paragraphs": [
+    "(1) Nije krivično djelo ono djelo koje je učinjeno u krajnjoj nuždi.",
+    "(2) Krajnja nužda postoji kad je djelo učinjeno da učinitelj od sebe  ili drugog otkloni\nistovremenu ili direktno predstojeću neskrivljenu opasnost koja se na drugi način nije mogla\notkloniti, a pritom učinjeno zlo nije veće od zla koje je prijetilo.",
+    "(3) Učinitelj koji sam izazove opasnost ali iz nehata, ili prekorači granice krajnje nužde, može\nse blaže kazniti, a ako je prekoračenje učinjeno pod osobito olakšavajućim okolnostima, a može\nse i osloboditi od kazne.",
+    "(4) Nema krajnje nužde ako je učinitelj bio dužan izložiti se opasnosti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0025",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:110",
+  "law_id": "criminal_code_bih",
+  "article_number": "110",
+  "title": "Osnova oduzimanja imovinske koristi pribavljene krivičnim djelom",
+  "content_path": "../article-text/0110.txt",
+  "paragraphs": [
+    "(1) Niko ne može zadržati imovinsku korist, prihod, profit ili drugu korist iz imovinske\nkoristi pribavljenu krivičnom djelom.",
+    "(2) Imovinska korist, prihod, profit ili drugu korist iz imovinske koristi iz stava 1. ovog\nčlana oduzet će se sudskom odlukom kojom je utvrđeno da je krivično djelo učinjeno, pod\nuvjetima propisanim ovim zakonom."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0110",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

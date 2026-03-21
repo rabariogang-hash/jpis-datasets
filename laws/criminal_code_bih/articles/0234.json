@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:234",
+  "law_id": "criminal_code_bih",
+  "article_number": "234",
+  "title": "Lažno prijavljivanje",
+  "content_path": "../article-text/0234.txt",
+  "paragraphs": [
+    "(1) Ko prijavi neku određenu osobu da je učinila krivično djelo propisano zakonom Bosne i\nHercegovine, a zna da ta osoba nije učinitelj, kaznit će se kaznom zatvora od šest mjeseci do\npet godina.",
+    "(2) Kaznom iz stava 1. ovog člana kaznit će se ko podmetanjem tragova krivičnog djela ili na\ndrugi način izazove pokretanje krivičnog postupka zbog krivičnog djela propisanog zakonom\nBosne i Hercegovine protiv osobe za koju zna da nije učinitelj.",
+    "(3) Ko sam sebe prijavi da je učinio krivično djelo propisano zakonom Bosne i Hercegovine,\niako ga nije učinio, kaznit će se novčanom kaznom ili kaznom zatvora do šest mjeseci.",
+    "(4) Kaznom iz stava 3. ovog člana kaznit će se ko prijavi da je učinjeno krivično djelo\npropisano zakonom Bosne i Hercegovine, iako zna da to djelo nije učinjeno."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0234",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

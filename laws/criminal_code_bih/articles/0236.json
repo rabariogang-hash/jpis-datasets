@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:236",
+  "law_id": "criminal_code_bih",
+  "article_number": "236",
+  "title": "Sprječavanje dokazivanja",
+  "content_path": "../article-text/0236.txt",
+  "paragraphs": [
+    "(1) Ko svjedoka ili vještaka u sudskom, prekršajnom, upravnom ili disciplinskom postupku\npred institucijama Bosne  i Hercegovine, silom, prijetnjom  ili drugim oblikom prisile,  ili\nobećanjem dara ili kakve druge koristi navede na lažan iskaz, kaznit će se kaznom zatvora od\nšest mjeseci do pet godina.",
+    "(2) Ko s ciljem da spriječi ili znatno oteža dokazivanje u sudskom, prekršajnom, upravnom ili\ndisciplinskom postupku pred institucijama Bosne i Hercegovine, sakrije, ošteti, uništi ili učini\nneupotrebljivim tuđi predmet ili ispravu koja služi dokazivanju, kaznit će se novčanom kaznom\nili kaznom zatvora do tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0236",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

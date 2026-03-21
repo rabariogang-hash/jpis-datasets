@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:68",
+  "law_id": "criminal_code_bih",
+  "article_number": "68",
+  "title": "Svrha mjera sigurnosti",
+  "content_path": "../article-text/0068.txt",
+  "paragraphs": [
+    "Svrha mjera sigurnosti je da se otklone stanja ili uvjeti koji mogu utjecati da učinitelj ubuduće\nučini krivična djela."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0068",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

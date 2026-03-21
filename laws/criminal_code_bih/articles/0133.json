@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:133",
+  "law_id": "criminal_code_bih",
+  "article_number": "133",
+  "title": "Kazna oduzimanja imovine",
+  "content_path": "../article-text/0133.txt",
+  "paragraphs": [
+    "(1) Kazna oduzimanja imovine se može izreći za krivična djela s propisanom kaznom zatvora\nod pet godina ili težom kaznom.",
+    "(2) Pravnoj osobi se može oduzeti najmanje polovina imovine ili veći dio imovine ili\ncjelokupna imovina.",
+    "(3) U slučaju stečajnog postupka kao posljedice izrečene kazne oduzimanja imovine,\npovjeritelji se mogu namiriti iz oduzete stečajne mase."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0133",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

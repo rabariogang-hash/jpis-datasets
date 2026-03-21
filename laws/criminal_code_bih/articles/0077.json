@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:77",
+  "law_id": "criminal_code_bih",
+  "article_number": "77",
+  "title": "Svrha odgojnih preporuka",
+  "content_path": "../article-text/0077.txt",
+  "paragraphs": [
+    "Svrha odgojnih preporuka je:",
+    "a) da se ne pokreće krivični postupak prema maloljetnom učinitelju krivičnog djela;",
+    "b) i da se primjenom odgojnih preporuka utječe na maloljetnika da ubuduće ne učini krivična\n    djela."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0077",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

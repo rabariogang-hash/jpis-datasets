@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:140",
+  "law_id": "criminal_code_bih",
+  "article_number": "140",
+  "title": "Oduzimanje imovinske koristi od pravne osobe",
+  "content_path": "../article-text/0140.txt",
+  "paragraphs": [
+    "Ukoliko pravna osoba pribavi imovinsku korist učinjenim krivičnim djelom, imovinska korist\npribavljena krivičnim djelom će se oduzeti od pravne osobe."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0140",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

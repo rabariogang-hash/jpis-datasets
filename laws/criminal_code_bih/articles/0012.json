@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:12",
+  "law_id": "criminal_code_bih",
+  "article_number": "12",
+  "title": "Isključenje primjene krivičnog zakonodavstva Bosne i Hercegovine prema djeci",
+  "content_path": "../article-text/0012.txt",
+  "paragraphs": [
+    "Krivično zakonodavstvo Bosne i Hercegovine ne primjenjuje se prema djetetu."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0012",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

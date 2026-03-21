@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:107",
+  "law_id": "criminal_code_bih",
+  "article_number": "107",
+  "title": "Granice izvršenja kazni",
+  "content_path": "../article-text/0107.txt",
+  "paragraphs": [
+    "Osoba prema kojoj se izvršava kazna lišava se prava ili se ograničava u pravima, u skladu sa\nzakonom, samo u granicama nužnim da bi se ostvarila svrha pojedinih kazni."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0107",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

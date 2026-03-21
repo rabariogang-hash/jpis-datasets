@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:6",
+  "law_id": "criminal_code_bih",
+  "article_number": "6",
+  "title": "Svrha krivičnopravnih sankcija",
+  "content_path": "../article-text/0006.txt",
+  "paragraphs": [
+    "Svrha krivičnopravnih sankcija je:",
+    "a) zaštita društva od izvršenja krivičnih djela preventivnim uticanjem na druge da poštuju\npravni sistem i ne počine krivična djela te sprečavanjem počinioca da počini krivična djela kao\ni podsticanje njegovog preodgoja;",
+    "b) zaštita i satisfakcija žrtve krivičnog djela."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0006",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

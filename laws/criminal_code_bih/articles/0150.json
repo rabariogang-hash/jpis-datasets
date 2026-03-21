@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:150",
+  "law_id": "criminal_code_bih",
+  "article_number": "150",
+  "title": "Uskraćivanje biračkog prava",
+  "content_path": "../article-text/0150.txt",
+  "paragraphs": [
+    "Ko u obavljanju povjerene mu dužnosti u vezi s izborima za institucije Bosne i Hercegovine,\ndrugoga u namjeri da ga spriječi u ostvarenju njegovog biračkog prava protuzakonito ne uvede\nu birački popis ili ga izbriše iz biračkog popisa ili mu na drugi uskrati biračko pravo, kaznit će\nse novčanom kaznom ili kaznom zatvora do tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0150",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

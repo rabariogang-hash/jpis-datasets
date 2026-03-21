@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:121a",
+  "law_id": "criminal_code_bih",
+  "article_number": "121a",
+  "title": "Podaci iz kaznene evidencije",
+  "content_path": "../article-text/0121a.txt",
+  "paragraphs": [
+    "(1) Podaci iz kaznene evidencije nisu javni podaci.",
+    "(2) Građanin ima pravo tražiti i dobiti podatke iz kaznene evidencije o sebi ako su mu ti\npodaci potrebni za ostvarivanje prava ili interesa.",
+    "(3) Zamjena izrečene novčane kazne radom za opće dobro na slobodi ili kaznom zatvora, kao i\nzamjena izrečene kazne zatvora radom za opće dobro na slobodi ili novčanom kaznom, upisuju\nse u kaznenu evidenciju."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0121a",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

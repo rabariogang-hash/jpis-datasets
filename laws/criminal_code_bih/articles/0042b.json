@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:42b",
+  "law_id": "criminal_code_bih",
+  "article_number": "42b",
+  "title": "Kazna dugotrajnog zatvora",
+  "content_path": "../article-text/0042b.txt",
+  "paragraphs": [
+    "(1) Za najteže oblike teških krivičnih djela počinjenih s umišljajem može se propisati kazna\n dugotrajnog zatvora u trajanju od 21 do 45 godina.",
+    "(2) Kazna dugotrajnog zatvora nikad se ne može propisati kao jedina glavna kazna za\n pojedino krivično djelo.",
+    "(3) Kazna dugotrajnog zatvora ne može se izreči počiniocu koji u vrijeme izvršenja krivičnog\n djela nije navršio 21 godinu života.",
+    "(4) Kazna dugotrajnog zatvora izriče se samo na pune godine.\n (5) Ako je izrečena kazna dugotrajnog zatvora, pomilovanje se može mogu se dati tek nakon\n izdržavanja tri petine te kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0042b",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

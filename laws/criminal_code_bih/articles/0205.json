@@ -1,0 +1,20 @@
+{
+  "id": "criminal_code_bih:205",
+  "law_id": "criminal_code_bih",
+  "article_number": "205",
+  "title": "Krivotvorenje novca",
+  "content_path": "../article-text/0205.txt",
+  "paragraphs": [
+    "(1) Ko načini lažan novac s ciljem da ga stavi u opticaj kao pravi, ili ko preinači pravi novac s\nciljem da ga stavi u opticaj, ili ko lažan novac stavi u opticaj, kaznit će se kaznom zatvora od\njedne do deset godina.",
+    "(2) Kaznom iz stava 1. ovog člana kaznit će se ko pribavlja lažan novac s ciljem da ga stavi u\nopticaj kao pravi.",
+    "(3) Ako je usljed krivičnog djela iz stava 1. i 2. ovog člana došlo do poremećaja u privredi\nBosne i Hercegovine, učinitelj će se kazniti kaznom zatvora najmanje pet godina.",
+    "(4) Ko lažan novac koji je primio kao pravi stavi u opticaj, ili ko zna da je lažan novac načinjen\nili da je lažan novac stavljen u opticaj, pa to ne prijavi, kaznit će se novčanom kaznom ili\nkaznom zatvora do jedne godine.",
+    "(5) Lažan novac će se oduzeti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0205",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

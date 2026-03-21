@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:96",
+  "law_id": "criminal_code_bih",
+  "article_number": "96",
+  "title": "Kazna maloljetničkog zatvora",
+  "content_path": "../article-text/0096.txt",
+  "paragraphs": [
+    "(1) Kazna maloljetničkog zatvora ne može biti kraća od jedne ni duža od deset godina, a izriče\nse na pune godine ili na pola godine.",
+    "(2) Pri odmjeravanju kazne starijem maloljetniku za krivično djelo sud ne može izreći kaznu\nmaloljetničkog zatvora u trajanju dužem od kazne zatvora propisane za to krivično djelo, ali\nsud nije vezan za najmanju propisanu mjeru te kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0096",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

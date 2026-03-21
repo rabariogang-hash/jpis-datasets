@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:122",
+  "law_id": "criminal_code_bih",
+  "article_number": "122",
+  "title": "Odgovornost pravne osobe",
+  "content_path": "../article-text/0122.txt",
+  "paragraphs": [
+    "(1) Ova glava ovog zakona propisuje odgovornost pravne osobe, izuzimajući Bosnu  i\nHercegovinu, Federaciju Bosne  i Hercegovine, Republiku Srpsku, Brčko Distrikt Bosne  i\nHercegovine, kanton, grad, općinu i mjesnu zajednicu, za krivično djelo koje je učinitelj učinio\nu ime, za račun ili u korist pravne osobe.",
+    "(2) Ova glava ovog zakona propisuje kazne i druge krivičnopravne sankcije koje se mogu izreći\npravnoj osobi, kao i pravne posljedice osude pravne osobe za krivično djelo.",
+    "(3) Pod uvjetima propisanim zakonom, za određene pravne osobe može biti isključena  ili\nograničena primjena pojedinih kazni ili drugih krivičnopravnih sankcija koje se mogu izreći\npravnim osobama.",
+    "(4) Krivični postupak protiv pravnih osoba vodi se po odredbama Zakona o krivičnom\npostupku Bosne i Hercegovine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0122",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

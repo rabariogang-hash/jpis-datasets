@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:38",
+  "law_id": "criminal_code_bih",
+  "article_number": "38",
+  "title": "Pravna zabluda",
+  "content_path": "../article-text/0038.txt",
+  "paragraphs": [
+    "Učinitelj krivičnog djela koji iz opravdanih razloga nije znao da je to djelo zabranjeno, može\n  se blaže kazniti ili osloboditi od kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0038",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

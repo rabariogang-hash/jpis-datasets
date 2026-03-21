@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:141",
+  "law_id": "criminal_code_bih",
+  "article_number": "141",
+  "title": "Pravne posljedice osude pravne osobe",
+  "content_path": "../article-text/0141.txt",
+  "paragraphs": [
+    "(1) Pravne posljedice osude pravne osobe za krivično djelo su:",
+    "a) zabrana rada na osnovi dozvole, ovlašćenja ili koncesije, izdanih od organa strane\n       države,",
+    "b) zabrana rada na osnovi dozvole, ovlašćenja ili koncesije, izdanih od institucija Bosne i\n       Hercegovine.",
+    "(2) Pravne posljedice osude pravne osobe za krivično djelo mogu nastupiti i kada je pravnoj\nosobi za učinjeno krivično djelo izrečena novčana kazna."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0141",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

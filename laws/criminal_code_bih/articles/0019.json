@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:19",
+  "law_id": "criminal_code_bih",
+  "article_number": "19",
+  "title": "Nezastarivost krivičnog gonjenja i izvršenja kazne",
+  "content_path": "../article-text/0019.txt",
+  "paragraphs": [
+    "Krivično gonjenje i izvršenje kazne ne zastarijeva za krivična djela genocida, zločina protiv\nčovječnosti te ratnih zločina, kao ni za krivična djela za koja po međunarodnom pravu\nzastarjelost ne može nastupiti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0019",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

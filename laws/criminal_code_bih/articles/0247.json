@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:247",
+  "law_id": "criminal_code_bih",
+  "article_number": "247",
+  "title": "Dogovor za učinjenje krivičnih djela",
+  "content_path": "../article-text/0247.txt",
+  "paragraphs": [
+    "Ko s drugim dogovori učinjenje krivičnog djela propisanog zakonom Bosne i Hercegovine za\nkoje se može izreći kazna zatvora tri godine ili teža kazna, ako za dogovor učinjenja takvog\npojedinog krivičnog djela nije propisana teža kazna, kaznit će se novčanom kaznom ili kaznom\nzatvora do jedne godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0247",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

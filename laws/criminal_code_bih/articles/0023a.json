@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:23a",
+  "law_id": "criminal_code_bih",
+  "article_number": "23a",
+  "title": "Beznačajno djelo",
+  "content_path": "../article-text/0023a.txt",
+  "paragraphs": [
+    "Nije krivično djelo ono djelo koje, iako sadrži obilježja krivičnog djela određena zakonom,\nzbog prirode i težine djela, ili načina izvršenja djela, ili neznatnosti ili nepostojanja štetnih\nposljedica, odnosno  pribavljene imovinske  koristi  i  niskog  stepena  krivice  počinioca,\npredstavlja beznačajno djelo."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0023a",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

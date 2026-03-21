@@ -1,0 +1,20 @@
+{
+  "id": "criminal_code_bih:124",
+  "law_id": "criminal_code_bih",
+  "article_number": "124",
+  "title": "Osnovi odgovornosti pravne osobe",
+  "content_path": "../article-text/0124.txt",
+  "paragraphs": [
+    "Za krivično djelo koje je učinitelj učinio u ime, za račun ili u korist pravne osobe, odgovorna\nje pravna osoba:",
+    "a) kada smisao učinjenog krivičnog djela proizlazi iz zaključka, naloga ili odobrenja\n   rukovodećih ili nadzornih organa pravne osobe;",
+    "b)  ili kada su rukovodeći ili nadzorni organi pravne osobe uticali na učinitelja ili mu\n   omogućili da učini krivično djelo;",
+    "c)  ili kada pravna osoba raspolaže protupravno ostvarenom imovinskom koristi ili koristi\n   predmete nastale krivičnim djelom;",
+    "d)  ili kada su rukovodeći ili nadzorni organi pravne osobe propustili dužni nadzor nad\n   zakonitošću rada radnika."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0124",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

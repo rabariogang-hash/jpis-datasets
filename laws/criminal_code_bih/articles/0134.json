@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:134",
+  "law_id": "criminal_code_bih",
+  "article_number": "134",
+  "title": "Kazna prestanka pravne osobe",
+  "content_path": "../article-text/0134.txt",
+  "paragraphs": [
+    "(1) Kazna prestanka pravne osobe može se izreći ako je djelatnost pravne osobe u cijelosti ili\nu pretežnoj mjeri korištena za učinjenje krivičnih djela.",
+    "(2) Uz kaznu prestanka pravne osobe, može se izreći i kazna oduzimanja imovine.",
+    "(3) Uz izrečenu kaznu prestanka pravne osobe, sud će predložiti otvaranje postupka\nlikvidacije.",
+    "(4) Iz imovine pravne osobe kojoj je izrečena kazna prestanka pravne osobe mogu se isplatiti\npovjeritelji."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0134",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

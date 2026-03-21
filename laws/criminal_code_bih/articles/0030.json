@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:30",
+  "law_id": "criminal_code_bih",
+  "article_number": "30",
+  "title": "Podstrekavanje",
+  "content_path": "../article-text/0030.txt",
+  "paragraphs": [
+    "(1) Ko drugog s umišljajem podstrekava da učini krivično djelo kaznit će se kao da ga je sam\nučinio.",
+    "(2) Ko drugog s umišljajem podstrekava na učinjenje krivičnog djela za koje se po zakonu može\nizreći kazna zatvora tri godine ili teža kazna, a krivično djelo ne bude ni pokušano, kaznit će se\nkao za pokušaj krivičnog djela.",
+    "(3) Kao podstrekavanje na izvršenje krivičnog djela smatra se naročito: upućivanje molbe,\nubjeđivanje  ili nagovaranje, prikazivanje koristi od izvršenja krivičnog djela, davanje  ili\nobećavanje poklona, zloupotreba odnosa podređenosti ili zavisnosti, dovođenje ili održavanje\nlica u stanju stvarne ili pravne zablude."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0030",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

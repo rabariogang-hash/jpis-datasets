@@ -1,0 +1,20 @@
+{
+  "id": "criminal_code_bih:69",
+  "law_id": "criminal_code_bih",
+  "article_number": "69",
+  "title": "Vrste mjera sigurnosti",
+  "content_path": "../article-text/0069.txt",
+  "paragraphs": [
+    "Učiniteljima krivičnih djela mogu se izreći ove mjere sigurnosti:",
+    "a) obavezno psihijatrijsko liječenje;",
+    "b) obavezno liječenje od ovisnosti;",
+    "c) zabrana vršenja poziva, djelatnosti ili dužnosti;",
+    "d) oduzimanje predmeta."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0069",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

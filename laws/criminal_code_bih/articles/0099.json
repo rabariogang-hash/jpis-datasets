@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:99",
+  "law_id": "criminal_code_bih",
+  "article_number": "99",
+  "title": "Zastarjelost izvršenja kazne maloljetničkog zatvora",
+  "content_path": "../article-text/0099.txt",
+  "paragraphs": [
+    "Kazna maloljetničkog zatvora neće se izvršiti kad od dana pravomoćnosti presude kojom je\nkazna izrečena protekne:",
+    "a) deset godina ako je izrečena kazna maloljetničkog zatvora preko pet godina;",
+    "b) pet godina ako je izrečena kazna maloljetničkog zatvora preko tri godine;",
+    "c) tri godine ako je izrečena kazna maloljetničkog zatvora do tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0099",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:199",
+  "law_id": "criminal_code_bih",
+  "article_number": "199",
+  "title": "Uništenje i uklanjanje znakova koji služe sigurnosti zračnog saobraćaja",
+  "content_path": "../article-text/0199.txt",
+  "paragraphs": [
+    "Ko uništi, ošteti ili ukloni znak koji služi sigurnosti zračnog saobraćaja, kaznit će se novčanom\nkaznom ili kaznom zatvora do tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0199",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

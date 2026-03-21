@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:231a",
+  "law_id": "criminal_code_bih",
+  "article_number": "231a",
+  "title": "Neprijavljivanje mjesta masovne grobnice",
+  "content_path": "../article-text/0231a.txt",
+  "paragraphs": [
+    "Ko zna mjesto gdje se nalazi mjesto masovne grobnice, pa to ne prijavi, kazniće se kaznom\nzatvora do tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0231a",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:152",
+  "law_id": "criminal_code_bih",
+  "article_number": "152",
+  "title": "Prijevara pri glasanju",
+  "content_path": "../article-text/0152.txt",
+  "paragraphs": [
+    "Ko na izborima za institucije Bosne i Hercegovine ili pri glasanju o opozivu predstavnika u\ninstitucijama Bosne i Hercegovine ili na referendumu u Bosni i Hercegovini, ponovo glasa,\nglasa umjesto drugoga pod njegovim imenom, kaznit će se kaznom zatvora od tri mjeseca do\npet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0152",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

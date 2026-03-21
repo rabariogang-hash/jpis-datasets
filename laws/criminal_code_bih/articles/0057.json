@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:57",
+  "law_id": "criminal_code_bih",
+  "article_number": "57",
+  "title": "Uračunavanje pritvora i kazne izdržane u inostranstvu",
+  "content_path": "../article-text/0057.txt",
+  "paragraphs": [
+    "Pritvor, lišenje slobode u toku ekstradicijskog postupka, kao i kazna koju je učinitelj izdržao po\npresudi inostranog suda uračunat će se u kaznu koju izrekne domaći sud za isto krivično djelo,\na ako kazne nisu iste vrste, uračunavanje će se izvršiti po ocjeni suda."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0057",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

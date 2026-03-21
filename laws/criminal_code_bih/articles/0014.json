@@ -1,0 +1,23 @@
+{
+  "id": "criminal_code_bih:14",
+  "law_id": "criminal_code_bih",
+  "article_number": "14",
+  "title": "Zastarjelost krivičnog gonjenja",
+  "content_path": "../article-text/0014.txt",
+  "paragraphs": [
+    "(1) Ako u ovom zakonu nije drukčije propisano, krivično gonjenje ne može se poduzeti kad\nod učinjenja krivičnog djela protekne:",
+    "a) tridesetpet godina za krivično djelo s propisanom kaznom dugotrajnog zatvora;",
+    "b) dvadeset godina za krivično djelo s propisanom kaznom zatvora preko deset godina;",
+    "c) petnaest godina za krivično djelo s propisanom kaznom zatvora preko pet godina;",
+    "d) deset godina za krivično djelo s propisanom kaznom zatvora preko tri godine;",
+    "e) pet godine za krivično djelo s propisanom kaznom zatvora preko jedne godine;",
+    "f) tri godine za krivično djelo s propisanom kaznom zatvora do jedne godine ili novčanom\nkaznom.",
+    "(2) Ako je za krivično djelo propisano više kazni, rok zastarjelosti određuje se po najtežoj\npropisanoj kazni."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0014",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

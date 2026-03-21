@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:58",
+  "law_id": "criminal_code_bih",
+  "article_number": "58",
+  "title": "Svrha uvjetne osude",
+  "content_path": "../article-text/0058.txt",
+  "paragraphs": [
+    "Svrha uvjetne osude je da se učinitelju krivičnog djela uputi upozorenje uz prijetnju kaznom\n(uvjetna osuda) kojim se omogućava ostvarenje svrhe krivičnopravnih sankcija izricanjem\nkazne bez njezinog izvršenja, kad izvršenje kazne nije nužno radi krivičnopravne zaštite."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0058",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

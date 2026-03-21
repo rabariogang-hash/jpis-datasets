@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:241",
+  "law_id": "criminal_code_bih",
+  "article_number": "241",
+  "title": "Ometanje rada pravosuđa",
+  "content_path": "../article-text/0241.txt",
+  "paragraphs": [
+    "(1) Ko koristi fizičku silu, prijetnju, zastrašivanje ili obećava, nudi ili daje nedopuštenu korist,\nkako bi naveo na davanje lažanog iskaza ili spriječio davanje iskaza ili izvođenje dokaza u\nkrivičnom postupku koji se vodi po zakonu Bosne i Hercegovine, kaznit će se kaznom zatvora\nod jedne do deset godina.",
+    "(2) Ko koristi fizičku silu, prijetnju  ili zastrašivanje kako bi spriječio sudiju, tužitelja  ili\nslužbenu osobu organa za provođenje zakona da vrše službenu dužnost u vezi s krivičnim\npostupkom koji se vodi po zakonu Bosne i Hercegovine, kaznit će se kaznom zatvora najmanje\ntri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0241",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:210b",
+  "law_id": "criminal_code_bih",
+  "article_number": "210b",
+  "title": "Nedozvoljeno skladištenje robe",
+  "content_path": "../article-text/0210b.txt",
+  "paragraphs": [
+    "(1) Ko uskladišti robu na koju se plaća porez po poreznom zakonodavstvu Bosne i\nHercegovine u prostoriji koja nije registrirana za tu namjenu u skladu sa zakonom  ili ko",
+    "dozvoli da se u njegovoj prostoriji uskladišti roba, a prostorija nije za to registrirana, kaznit će\nse novčanom kaznom ili kaznom zatvora do tri godine.",
+    "(2) Kaznom iz stava (1) ovog člana kaznit će se i onaj ko u prostoriji registriranoj u skladu sa\nzakonom  za  skladištenje  robe  uskladišti  robu na  koju  se  plaća  porez po poreznom\nzakonodavstvu Bosne i Hercegovine za koju ne postoji propisana dokumentacija o porijeklu\nrobe i plaćenom porezu."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0210b",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

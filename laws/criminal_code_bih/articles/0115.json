@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:115",
+  "law_id": "criminal_code_bih",
+  "article_number": "115",
+  "title": "Početak i trajanje pravnih posljedica osude",
+  "content_path": "../article-text/0115.txt",
+  "paragraphs": [
+    "(1) Pravne posljedice osude nastupaju danom pravomoćnosti presude.",
+    "(2) Pravne posljedice osude koje se sastoje u zabrani sticanja određenih prava traju najduže\ndeset godina od dana izdržane, oproštene ili zastarjele kazne, ako za pojedine pravne posljedice\nnije zakonom propisano kraće trajanje.",
+    "(3) Pravne posljedice osude prestaju brisanjem osude."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0115",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

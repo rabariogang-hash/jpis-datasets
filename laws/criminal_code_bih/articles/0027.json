@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:27",
+  "law_id": "criminal_code_bih",
+  "article_number": "27",
+  "title": "Nepodobni pokušaj",
+  "content_path": "../article-text/0027.txt",
+  "paragraphs": [
+    "Učinitelj koji pokuša učiniti krivično djelo nepodobnim sredstvom  ili prema nepodobnom\npredmetu, može se osloboditi od kazne ili se može blaže kazniti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0027",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

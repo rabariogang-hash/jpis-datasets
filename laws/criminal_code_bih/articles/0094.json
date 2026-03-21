@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:94",
+  "law_id": "criminal_code_bih",
+  "article_number": "94",
+  "title": "Ponovno odlučivanje o odgojnim mjerama",
+  "content_path": "../article-text/0094.txt",
+  "paragraphs": [
+    "(1) Ako je od pravomoćnosti odluke kojom je izrečena odgojna mjera pojačanog nadzora ili\nzavodska odgojna mjera proteklo više od jedne godine, a izvršenje nije započeto, sud će\nponovno odlučiti o potrebi izvršenja izrečene mjere. Pri tome sud može odlučiti da se ranije\nizrečena mjera izvrši, ne izvrši ili da se zamijeni nekom drugom mjerom.",
+    "(2) Odgojna mjera upućivanja u disciplinski centar za maloljetnike neće se izvršiti ako je\nproteklo više od šest mjeseci od pravomoćnosti odluke kojom je ova mjera izrečena a njeno\nizvršenje nije započeto."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0094",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

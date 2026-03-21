@@ -1,0 +1,21 @@
+{
+  "id": "criminal_code_bih:59",
+  "law_id": "criminal_code_bih",
+  "article_number": "59",
+  "title": "Uvjetna osuda",
+  "content_path": "../article-text/0059.txt",
+  "paragraphs": [
+    "(1) Uvjetnom osudom sud učinitelju krivičnog djela utvrđuje kaznu i istodobno određuje da se\nona neće izvršiti ako osuđeni za vrijeme koje odredi sud, a koje ne može biti kraće od jedne ni\nduže od pet godina (vrijeme provjeravanja), ne učini novo krivično djelo.",
+    "(2) Pri odlučivanju hoće li izreći uvjetnu osudu sud će, vodeći računa o svrsi uvjetne osude,\nposebno uzeti u obzir ličnost učinitelja, njegov raniji život, njegovo ponašanje poslije učinjenog\nkrivičnog djela, stepen krivice i druge okolnosti pod kojima je krivično djelo učinjeno.",
+    "(3) Uvjetna osuda se može izreći kad je učinitelju utvrđena kazna zatvora do dvije godine ili\nnovčana kazna.",
+    "(4) Uvjetna osuda se ne može izreći za krivična djela za koja se ni ublažavanjem kazne ne\nmože izreći kazna zatvora manja od jedne godine.",
+    "(5) Ako je učinitelju utvrđena i kazna zatvora i novčana kazna, uvjetna osuda se može izreći za\nobje kazne ili samo za kaznu zatvora.",
+    "(6) Mjere sigurnosti, izrečene uz uvjetnu osudu, izvršavaju se."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0059",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

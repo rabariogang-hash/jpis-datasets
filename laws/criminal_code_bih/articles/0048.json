@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:48",
+  "law_id": "criminal_code_bih",
+  "article_number": "48",
+  "title": "Opća pravila za odmjeravanje kazne",
+  "content_path": "../article-text/0048.txt",
+  "paragraphs": [
+    "(1) Sud će učinitelju krivičnog djela odmjeriti kaznu u granicama koje su zakonom propisane\nza to krivično djelo, imajući u vidu svrhu kažnjavanja i uzimajući u obzir sve okolnosti koje\nutječu da kazna bude manja ili veća (olakšavajuće i otežavajuće okolnosti), a osobito: stepen\nkrivice, pobude iz kojih je djelo učinjeno, jačinu ugrožavanja ili povrede zaštićenog dobra,\nokolnosti pod kojima je djelo učinjeno, raniji život učinitelja, njegove osobne prilike i njegovo\ndržanje nakon učinjenog krivičnog djela, kao  i druge okolnosti koje se odnose na osobu\nučinitelja.",
+    "(2) Kad sud odmjerava kaznu učinitelju za krivično djelo učinjeno u povratu, posebno će uzeti\nu obzir je li ranije djelo iste vrste kao i novo djelo, jesu li oba djela učinjena iz istih pobuda i\nkoliko je vremena proteklo od ranije osude, odnosno od izdržane ili oproštene kazne.",
+    "(3) Pri odmjeravanju novčane kazne, sud će uzeti u obzir i imovno stanje učinitelja, vodeći pri\ntome računa o visini njegove plate, njegovim drugim prihodima, njegovoj imovini i o njegovim\nobiteljskim obavezama."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0048",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

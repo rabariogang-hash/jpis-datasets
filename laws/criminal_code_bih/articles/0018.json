@@ -1,0 +1,21 @@
+{
+  "id": "criminal_code_bih:18",
+  "law_id": "criminal_code_bih",
+  "article_number": "18",
+  "title": "Tok i prekid zastarijevanja izvršenja kazne i mjera sigurnosti",
+  "content_path": "../article-text/0018.txt",
+  "paragraphs": [
+    "(1)  Zastarijevanje izvršenja kazne počinje od dana pravomoćnosti presude kojom je kazna\nizrečena, a u slučaju opoziva uvjetne osude, od dana pravomoćnosti odluke o opozivu uvjetne\nosude.",
+    "(2) Zastarijevanje ne teče za vrijeme za koje se po zakonu izvršenje kazne ne može poduzeti.",
+    "(3)  Zastarijevanje se prekida svakom radnjom nadležnog organa koja se poduzima radi\nizvršenja kazne.",
+    "(4) Sa svakim prekidom zastarijevanje počinje ponovno teći.",
+    "(5)  Zastarjelost izvršenja kazne nastupa u svakom slučaju kad protekne dvaput onoliko\nvremena koliko se po zakonu traži za zastarjelost izvršenja kazne.",
+    "(6) Odredbe stava 2. do 5. ovog člana primjenjuju se i na zastarjelost izvršenja mjera sigurnosti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0018",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

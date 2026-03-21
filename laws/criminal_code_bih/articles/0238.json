@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:238",
+  "law_id": "criminal_code_bih",
+  "article_number": "238",
+  "title": "Kršenje zakona od strane sudije",
+  "content_path": "../article-text/0238.txt",
+  "paragraphs": [
+    "Sudija Ustavnog suda Bosne i Hercegovine ili Suda Bosne i Hercegovine, koji s ciljem da\n  drugom pribavi kakvu korist ili da mu nanese kakvu štetu, donese nezakonitu odluku ili na",
+    "drugi način prekrši zakon u vršenju svoje službene dužnosti, kaznit će se kaznom zatvora od\nšest mjeseci do pet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0238",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

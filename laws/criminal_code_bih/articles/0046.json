@@ -1,0 +1,25 @@
+{
+  "id": "criminal_code_bih:46",
+  "law_id": "criminal_code_bih",
+  "article_number": "46",
+  "title": "Novčana kazna",
+  "content_path": "../article-text/0046.txt",
+  "paragraphs": [
+    "(1) Novčana kazna se izriče u dnevnim iznosima, a ako to nije moguće može se izreći u\nodređenom iznosu.",
+    "(2) Ako se novčana kazna izriče u dnevnim iznosima, može iznositi najmanje pet a najviše\ntristošestdeset dnevnih iznosa, a za krivična djela učinjena iz koristoljublja najviše hiljadu\npetsto dnevnih iznosa, osim u slučajevima propisanim ovim zakonom.",
+    "(3) Ako se novčana kazna izriče u određenom iznosu, najniži iznos ne može biti manji od 500\nKM a najviši iznos ne može  biti veći od 100.000 KM, a za krivična djela učinjena iz\nkoristoljublja iznos ne može biti veći od 1.000.000 KM, osim u slučajevima propisanim ovim\nzakonom.",
+    "(4) Prilikom izricanja novčane kazne za krivična djela učinjena iz koristoljublja, sud može\nizreći novčanu kaznu u većem iznosu od najvišeg iznosa propisanog u stavu 2. i 3. ovog člana,\nukoliko vrijednost protupravne imovinske koristi koju je učinitelj pribavio krivičnim djelom\nprelazi iznos od 1.000.000 KM. U tom slučaju, učinitelju se može izreči novčana kazna u iznosu\nkoji ne može biti veći od dvostrukog iznosa od vrijednosti protupravne imovinske koristi koju\nje pribavio krivičnim djelom zbog kojeg mu se izriče novčana kazna.",
+    "(5)  Broj  dnevnih  iznosa  novčane  kazne  određuje  sud  primjenjujući  opća  pravila o\nodmjeravanju kazne. Visinu dnevnog iznosa sud određuje tako što uzima u obzir visinu\ndnevnog dohotka učinitelja prema iznosu njegove tromjesečne neto plate  i njegove druge",
+    "dohotke, kao i obiteljske obaveze. Prilikom određivanja visine iznosa sud se oslanja na podatke\nkoji u trenutku izricanja kazne nisu stariji od šest mjeseci.",
+    "(6) Podatke iz prethodnih stavova ovog člana koji sudu nisu poznati osigurava optuženi u roku\nkoji odredi sud, a najkasnije do završetka glavnog pretresa u krivičnom postupku. Ako do\nzavršetka glavnog pretresa u krivičnom postupku sudu nisu poznate okolnosti bitne za\nodređivanje visine dnevnog iznosa novčane kazne, novčana kazna se izriče u određenom\niznosu, pri čemu se primjenjuju opća pravila za odmjeravanje kazne.",
+    "(7)  Najniži dnevni iznos novčane kazne iznosi jednu šestdesetinu a najviše jednu trećinu zadnje\nzvanično objavljene prosječne mjesečne neto plate zaposlenih u Bosni i Hercegovini, koju\nobjavljuje Agencija za statistiku Bosne i Hercegovine.",
+    "(8) U presudi se određuje rok plaćanja novčane kazne, koji ne može biti kraći od petnaest dana\nni duži od šest mjeseci, ali u opravdanim slučajevima sud može dopustiti da osuđeni isplati\nnovčanu kaznu i u otplatama, s tim da rok isplate ne može biti duži od jedne godine.",
+    "(9) Novčane kazne izrečene  i naplaćene po ovom zakonu su prihod budžeta Bosne  i\nHercegovine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0046",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

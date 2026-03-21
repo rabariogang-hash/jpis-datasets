@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:84",
+  "law_id": "criminal_code_bih",
+  "article_number": "84",
+  "title": "Izbor odgojne mjere",
+  "content_path": "../article-text/0084.txt",
+  "paragraphs": [
+    "Pri izboru odgojne mjere sud će uzeti u obzir godine života maloljetnika, stepen njegove\nduševne razvijenosti, njegova psihička svojstva, njegove sklonosti, pobude iz kojih je krivično\ndjelo učinio, dotadašnji odgoj, sredinu i prilike u kojima je živio, težinu krivičnog djela te da li\nmu je ranije bila izrečena odgojna mjera ili kazna i sve druge okolnosti koje mogu biti od\nutjecaja na izricanje odgojne mjere."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0084",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:76",
+  "law_id": "criminal_code_bih",
+  "article_number": "76",
+  "title": "Uvjeti primjene odgojnih preporuka",
+  "content_path": "../article-text/0076.txt",
+  "paragraphs": [
+    "(1) Prema maloljetnom učinitelju krivičnog djela mogu se primijeniti odgojne preporuke za\nkrivična djela s propisanom novčanom kaznom ili kaznom zatvora do tri godine.",
+    "(2) Odgojne preporuke prema maloljetniku može primijeniti nadležni tužitelj ili sudija za\nmaloljetnike.",
+    "(3) Uvjeti primjene odgojnih preporuka su: priznanje krivičnog djela od strane maloljetnika i\nnjegova izražena spremnost za pomirenjem s oštećenim."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0076",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

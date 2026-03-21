@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:100",
+  "law_id": "criminal_code_bih",
+  "article_number": "100",
+  "title": "Izricanje krivičnopravnih sankcija punoljetnim osobama za krivična djela koja su učinile kao maloljetnici",
+  "content_path": "../article-text/0100.txt",
+  "paragraphs": [
+    "(1) Punoljetnoj osobi koja je navršila dvadeset i jednu godinu života ne može se suditi za\nkrivično djelo koje je učinila kao mlađi maloljetnik.",
+    "(2) Ako punoljetna osoba u vrijeme suđenja nije navršila dvadeset i jednu godinu života, može\njoj se suditi samo za krivična djela s propisanom kaznom zatvora težom od pet godina. Takvoj\nosobi sud može izreći samo odgovarajuću zavodsku odgojnu mjeru, s tim da će pri ocjeni hoće\nli izreći ovu mjeru sud uzeti u obzir sve okolnosti slučaja, a naročito težinu učinjenog djela,\nvrijeme koje je proteklo od njegovog učinjenja, vladanje učinitelja, kao i svrhu te odgojne\nmjere.",
+    "(3) Punoljetnoj osobi može se za krivično djelo koje je učinila kao stariji maloljetnik izreći\nodgovarajuća zavodska odgojna mjera, a pod uvjetima iz člana 96. (Kazna maloljetničkog\nzatvora) ovog zakona i kazna maloljetničkog zatvora. Pri ocjeni hoće li  i koju će od ovih\nsankcija izreći, sud će uzeti u obzir sve okolnosti slučaja, a naročito težinu učinjenog djela,\nvrijeme koje je proteklo od njegovog učinjenja, vladanje učinitelja, kao i svrhu koju treba\npostići ovim sankcijama.",
+    "(4)  Izuzetno od odredbe stava 3. ovog člana, punoljetnoj osobi koja je u vrijeme suđenja\nnavršila dvadeset i jednu godinu života, sud može umjesto kazne maloljetničkog zatvora izreći\nkaznu zatvora  ili uvjetnu osudu. Kazna zatvora izrečena u ovom slučaju ima u pogledu\nrehabilitacije, brisanja osude  i pravnih posljedica osude  isti pravni učinak kao  i kazna\nmaloljetničkog zatvora."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0100",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:130",
+  "law_id": "criminal_code_bih",
+  "article_number": "130",
+  "title": "Opšti razlozi za ublažavanje kazne pravnoj osobi ili oslobađanje od kazne",
+  "content_path": "../article-text/0130.txt",
+  "paragraphs": [
+    "(1) Pravna osoba čiji rukovodeći ili nadzorni organ dobrovoljno prijavi učinitelja nakon što je\nkrivično djelo učinjeno, može se blaže kazniti.",
+    "(2) Pravna osoba čiji rukovodeći ili nadzorni organ po učinjenom krivičnom djelu odluči da se\nvrati protupravno ostvarena imovinska korist ili otklone prouzrokovane štetne posljedice ili\nsaopšte podaci o osnovanosti odgovornosti drugih pravnih osoba, može se osloboditi kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0130",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

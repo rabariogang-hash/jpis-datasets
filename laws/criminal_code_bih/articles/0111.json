@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:111",
+  "law_id": "criminal_code_bih",
+  "article_number": "111",
+  "title": "Način oduzimanja imovinske koristi pribavljene krivičnim djelom",
+  "content_path": "../article-text/0111.txt",
+  "paragraphs": [
+    "(1) Od učinitelja će se oduzeti novac, predmeti od vrijednosti i svaka druga imovinska korist\nkoja je pribavljena krivičnim djelom, a ako oduzimanje nije moguće, učinitelj će se obavezati\nna isplatu novčanog iznosa srazmjernog pribavljenoj imovinskoj koristi. Imovinska korist\npribavljena krivičnim djelom oduzet će se od osobe na koju je prenesena bez naknade ili uz\nnaknadu koja ne odgovara stvarnoj vrijednosti, ako je ona znala ili mogla znati da je imovinska\nkorist pribavljena krivičnim djelom.",
+    "(2) Kada je imovinska korist pribavljena krivičnim djelom sjedinjena s imovinom stečenom na\nzakoniti način, takva imovina će biti predmet oduzimanja ali u mjeri koja ne premašuje\nprocijenjenu vrijednost imovinske koristi pribavljene krivičnim djelom.",
+    "(3) Prihod ili druge koristi iz imovinske koristi pribavljene krivičnim djelom, ili iz imovine u\nkoju je imovinska korist pribavljena krivičnim djelom pretvorena ili iz imovine s kojom je\nimovinska korist pribavljena krivičnim djelom sjedinjena, su predmet mjera navedenih u ovom\nčlanu na isti način i u istoj mjeri kao i imovinska korist pribavljena krivičnim djelom."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0111",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

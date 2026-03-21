@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:2",
+  "law_id": "criminal_code_bih",
+  "article_number": "2",
+  "title": "Osnova i granice krivičnopravne prinude",
+  "content_path": "../article-text/0002.txt",
+  "paragraphs": [
+    "(1) Krivična djela i krivičnopravne sankcije se propisuju samo za ona ponašanja kojima se tako\nugrožavaju ili povrjeđuju osobne slobode i prava čovjeka te druga prava i društvene vrijednosti\nzajamčene i zaštićene Ustavom Bosne i Hercegovine i međunarodnim pravom, da se njihova\nzaštita ne bi mogla ostvariti bez krivičnopravne prinude.",
+    "(2) Propisivanje krivičnih djela  i vrste  i raspona krivičnopravnih sankcija zasniva se na\nneophodnosti primjene krivičnopravne prinude i njenoj srazmjernosti jačini opasnosti za osobne\nslobode i prava čovjeka, te druge osnovne vrijednosti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0002",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

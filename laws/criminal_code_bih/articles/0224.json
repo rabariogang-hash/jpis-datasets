@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:224",
+  "law_id": "criminal_code_bih",
+  "article_number": "224",
+  "title": "Nesavjestan rad u službi",
+  "content_path": "../article-text/0224.txt",
+  "paragraphs": [
+    "(1) Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja svjesnim kršenjem\nzakona, drugih propisa ili općeg akta ili propuštanjem dužnosti nadzora, očigledno nesavjesno\npostupi u vršenju dužnosti, pa usljed toga nastupi teža povreda prava drugog ili imovinska šteta\nkoja prelazi iznos od 1.000 KM, kaznit će se kaznom zatvora od tri mjeseca do pet godina.",
+    "(2) Ako je usljed krivičnog djela iz stava 1. ovog člana došlo do teške povrede prava drugog ili\nje nastupila imovinska šteta koja prelazi iznos od 10.000 KM, učinitelj će se kazniti kaznom\nzatvora od jedne do deset godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0224",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

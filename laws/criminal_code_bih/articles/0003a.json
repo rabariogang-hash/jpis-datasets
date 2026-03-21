@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:3a",
+  "law_id": "criminal_code_bih",
+  "article_number": "3a",
+  "title": "Načelo krivice",
+  "content_path": "../article-text/0003a.txt",
+  "paragraphs": [
+    "Niko ne može biti kažnjen niti se prema njemu mogu izreći druge krivičnopravne sankcije ako\nnije kriv za počinjeno krivično djelo."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0003a",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

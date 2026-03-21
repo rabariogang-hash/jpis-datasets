@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:17",
+  "law_id": "criminal_code_bih",
+  "article_number": "17",
+  "title": "Zastarjelost izvršenja sporednih kazni i mjera sigurnosti",
+  "content_path": "../article-text/0017.txt",
+  "paragraphs": [
+    "(1) Zastarjelost izvršenja novčane kazne kao sporedne kazne nastupa kad protekne dvije\ngodine od dana pravomoćnosti presude kojom je ta kazna izrečena.",
+    "(2)  Zastarjelost  izvršenja  mjere  sigurnosti obaveznog  psihijatrijskog  liječenja  i mjere\nsigurnosti oduzimanja predmeta nastupa kad protekne pet godina od dana pravomoćnosti\nodluke kojom su te mjere izrečene.",
+    "(3) Zastarjelost izvršenja mjere sigurnosti zabrane vršenja poziva, djelatnosti  ili dužnosti\nnastupa kad protekne onoliko vremena koliko je sud odredio za trajanje te mjere."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0017",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:123",
+  "law_id": "criminal_code_bih",
+  "article_number": "123",
+  "title": "Primjena ovog zakona prema mjestu učinjenja krivičnog djela u vezi s odgovornošću pravnih osoba",
+  "content_path": "../article-text/0123.txt",
+  "paragraphs": [
+    "(1) Domaća i strana pravna osoba je, u skladu s ovim zakonom, odgovorna za krivična djela\nučinjena na teritoriji Bosne i Hercegovine.",
+    "(2) Domaća i strana pravna osoba koja ima sjedište na teritoriji Bosne i Hercegovine ili u njoj\nobavlja svoju djelatnost je, u skladu s ovim zakonom, odgovorna za krivično djelo učinjeno\nizvan Bosne i Hercegovine, ako je krivično djelo učinjeno protiv Bosne i Hercegovine, njenih\ndržavljana ili domaćih pravnih osoba.",
+    "(3) Domaća pravna osoba je, u skladu s ovim zakonom, odgovorna za krivično djelo učinjeno\nizvan Bosne i Hercegovine protiv strane države, stranih državljana ili stranih pravnih osoba,\npod uslovima iz člana 9. (Primjena krivičnog zakonodavstva Bosne i Hercegovine za krivična\ndjela učinjena izvan Bosne i Hercegovine) ovog zakona."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0123",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

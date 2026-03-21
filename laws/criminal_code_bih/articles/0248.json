@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:248",
+  "law_id": "criminal_code_bih",
+  "article_number": "248",
+  "title": "Pripremanje krivičnog djela",
+  "content_path": "../article-text/0248.txt",
+  "paragraphs": [
+    "Ko nabavi ili pripremi sredstva ili ukloni prepreke ili poduzme kakvu drugu radnju koja stvara\nuvjete za neposredno učinjenje, ali nije dio učinjenja krivičnog djela propisanog zakonom\nBosne i Hercegovine za koje se može izreći kazna zatvora tri godine ili teža kazna, ukoliko za\npripremanje pojedinog krivičnog djela nije propisana teža kazna, kaznit će se novčanom\nkaznom ili kaznom zatvora do tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0248",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

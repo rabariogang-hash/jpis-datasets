@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:54",
+  "law_id": "criminal_code_bih",
+  "article_number": "54",
+  "title": "Produženo krivično djelo",
+  "content_path": "../article-text/0054.txt",
+  "paragraphs": [
+    "(1) Odredbe ovog zakona o sticaju krivičnih djela neće se primijeniti kada učinilac učini\nproduženo krivično djelo.",
+    "(2) Produženo krivično djelo je učinjeno kad je učinilac s umišljajem učinio više istih  ili\nistovrsnih krivičnih djela koja s obzirom na način učinjenja, njihovu vremensku povezanost i\ndruge stvarne okolnosti koje ih povezuju čine jedinstvenu cjelinu.",
+    "(3) Kada se radi o produženom krivičnom djelu istih zakonskih obilježja, sud će izabrati vrstu\ni mjeru kazne koja je propisana za to krivično djelo. Ako se radi o istovrsnim krivičnim djelima,\nsud će izabrati vrstu i mjeru kazne koja je propisana za najteže od tih djela."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0054",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

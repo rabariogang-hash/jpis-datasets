@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:8",
+  "law_id": "criminal_code_bih",
+  "article_number": "8",
+  "title": "Primjena krivičnog zakonodavstva prema svakome ko na teritoriji Bosne i Hercegovine počini krivično djelo",
+  "content_path": "../article-text/0008.txt",
+  "paragraphs": [
+    "(1) Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema svakome ko počini\nkrivično djelo na teritoriji Bosne i Hercegovine.",
+    "(2) Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema svakome ko počini\nkrivično djelo na domaćem plovilu, bez obzira gdje se plovilo nalazilo u vrijeme izvršenja\nkrivičnog djela.",
+    "(3) Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema svakome ko počini\nkrivično djelo u domaćem civilnom zrakoplovu dok leti ili u domaćem vojnom zrakoplovu,\nbez obzira gdje se zrakoplov nalazio u vrijeme izvršenja krivičnog djela."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0008",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

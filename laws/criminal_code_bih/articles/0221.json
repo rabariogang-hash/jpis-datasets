@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:221",
+  "law_id": "criminal_code_bih",
+  "article_number": "221",
+  "title": "Pronevjera u službi",
+  "content_path": "../article-text/0221.txt",
+  "paragraphs": [
+    "(1) Ko s ciljem da sebi  ili drugom pribavi protupravnu imovinsku korist prisvoji novac,\nvrijednosne papire ili druge pokretne stvari koje su mu povjerene u službi ili uopće na položaju\nu institucijama Bosne i Hercegovine, kaznit će se kaznom zatvora od šest mjeseci do pet godina.",
+    "(2) Ako je krivičnim djelom iz stava 1. ovog člana pribavljena imovinska korist u iznosu koji\nprelazi 10.000 KM, učinitelj će se kazniti kaznom zatvora od jedne do deset godina.",
+    "(3) Ako je krivičnim djelom iz stava 1. ovog člana pribavljena imovinska korist u iznosu koji\nprelazi 50.000 KM, učinitelj će se kazniti kaznom zatvora najmanje tri godine.",
+    "(4) Novac, vrijednosni papiri ili druge pokretne stvari, te pribavljena korist bit će oduzeti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0221",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

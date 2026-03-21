@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:3",
+  "law_id": "criminal_code_bih",
+  "article_number": "3",
+  "title": "Načelo zakonitosti",
+  "content_path": "../article-text/0003.txt",
+  "paragraphs": [
+    "(1) Krivična djela i krivičnopravne sankcije propisuju se samo zakonom.",
+    "(2) Nikome ne može biti izrečena kazna ili druga krivičnopravna sankcija za djelo koje, prije\nnego što je učinjeno, nije bilo zakonom ili međunarodnim pravom propisano kao krivično djelo\ni za koje zakonom nije bila propisana kazna."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0003",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

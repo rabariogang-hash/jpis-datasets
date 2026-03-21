@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:101",
+  "law_id": "criminal_code_bih",
+  "article_number": "101",
+  "title": "Izricanje odgojnih mjera mlađim punoljetnim osobama",
+  "content_path": "../article-text/0101.txt",
+  "paragraphs": [
+    "(1) Učinitelju koji je kao punoljetan učinio krivično djelo, a u vrijeme suđenja nije navršio\ndvadeset i jednu godinu života, sud može izreći odgovarajuću zavodsku odgojnu mjeru ako se,\ns obzirom na njegovu ličnost i okolnosti pod kojima je krivično djelo učinio, može očekivati da\nće se i odgojnom mjerom postići svrha koja bi se ostvarila izricanjem kazne.",
+    "(2) Mlađoj punoljetnoj osobi kojoj  je izrečena odgojna mjera sud može, pod uvjetima\npropisanim ovim zakonom, izreći sve mjere sigurnosti propisane ovim zakonom, osim mjere\nsigurnosti zabrane vršenja poziva, djelatnosti ili dužnosti.",
+    "(3) Izrečena odgojna mjera može trajati najviše dok učinitelj ne navrši dvadeset i tri godine\nživota."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0101",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

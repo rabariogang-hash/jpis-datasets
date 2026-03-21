@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:11",
+  "law_id": "criminal_code_bih",
+  "article_number": "11",
+  "title": "Primjena krivičnog zakonodavstva Bosne i Hercegovine na pravna lica",
+  "content_path": "../article-text/0011.txt",
+  "paragraphs": [
+    "Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se na pravna lica u skladu s glavom\nXIV (Odgovornost pravnih lica za krivična djela) ovog zakona i drugim zakonima Bosne i\nHercegovine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0011",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

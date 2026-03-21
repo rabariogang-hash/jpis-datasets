@@ -1,0 +1,21 @@
+{
+  "id": "criminal_code_bih:171",
+  "law_id": "criminal_code_bih",
+  "article_number": "171",
+  "title": "Genocid",
+  "content_path": "../article-text/0171.txt",
+  "paragraphs": [
+    "Ko u cilju da potpuno ili djelimično istrijebi nacionalnu, etničku, rasnu ili vjersku skupinu\nljudi naredi učinjenje ili učini koje od ovih djela:",
+    "a) ubijanje pripadnika skupine ljudi;",
+    "b) nanošenje teške tjelesne ozljede ili duševne povrede pripadnicima skupine ljudi;",
+    "c) smišljeno nametanje skupini ljudi ili zajednici takvih životnih uvjeta koji bi mogli\n    posljedovati njenim potpunim ili djelomičnim istrebljenjem;",
+    "d) uvođenje mjera kojima je cilj sprječavanje rađanja unutar skupine ljudi;",
+    "e) prisilno preseljenje djece iz te u drugu skupinu ljudi, kaznit će se kaznom zatvora najmanje\n    deset godina ili kaznom dugotrajnog zatvora."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0171",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

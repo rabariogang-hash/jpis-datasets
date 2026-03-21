@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:25a",
+  "law_id": "criminal_code_bih",
+  "article_number": "25a",
+  "title": "Sila i prijetnja",
+  "content_path": "../article-text/0025a.txt",
+  "paragraphs": [
+    "(1) Nije krivično djelo ono djelo koje je počinjeno pod dejstvom neodoljive sile.",
+    "(2) Počinilac koji je počinio krivično djelo pod dejstvom odoljive sile ili prijetnje može se\nblaže kazniti.",
+    "(3) U slučaju iz stava (1) ovog člana, počiniocem krivičnog djela smatrat će se lice koje je\nprimijenilo neodoljivu silu."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0025a",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:112",
+  "law_id": "criminal_code_bih",
+  "article_number": "112",
+  "title": "Zaštita oštećenog",
+  "content_path": "../article-text/0112.txt",
+  "paragraphs": [
+    "(1) Ako je oštećenom u krivičnom postupku dosuđen imovinskopravni zahtjev, sud će izreći\noduzimanje  imovinske  koristi  ukoliko  ona  prelazi  dosuđeni  imovinskopravni  zahtjev\noštećenog.",
+    "(2) Oštećeni koji je u krivičnom postupku u pogledu svog imovinskopravnog zahtjeva upućen\nna parnični postupak, može tražiti da se namiri iz iznosa oduzete vrijednosti, ako pokrene\nparnični postupak u roku od šest mjeseci od dana pravomoćnosti odluke kojom je upućen na\nparnični postupak i ako u roku od tri mjeseca od dana pravomoćnosti odluke kojom je utvrđen\nnjegov zahtjev zatraži namirenje iz oduzete vrijednosti.",
+    "(3) Oštećeni  koji u krivičnom postupku  nije  istaknuo imovinskopravni  zahtjev, može\nzahtijevati namirenje iz oduzete vrijednosti, ako je radi utvrđenja svog zahtjeva pokrenuo\nparnični postupak u roku od  tri mjeseca od dana saznanja za presudu kojom se oduzima\nimovinska korist, a najdalje u roku od dvije godine od pravomoćnosti odluke o oduzimanju\nimovinske koristi i ako u roku od tri mjeseca od dana pravomoćnosti odluke kojom je utvrđen\nnjegov zahtjev zatraži namirenje iz oduzete vrijednosti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0112",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

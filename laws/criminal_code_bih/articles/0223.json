@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:223",
+  "law_id": "criminal_code_bih",
+  "article_number": "223",
+  "title": "Posluga u službi",
+  "content_path": "../article-text/0223.txt",
+  "paragraphs": [
+    "Ko se neovlašteno posluži novcem, vrijednosnim papirom ili drugim pokretnim stvarima koje\nsu mu povjerene u službi ili uopće na radu u institucijama Bosne i Hercegovine, ili te stvari\ndrugom neovlašteno da na poslugu, kaznit će se kaznom zatvora od šest mjeseci do pet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0223",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

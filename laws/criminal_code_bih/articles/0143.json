@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:143",
+  "law_id": "criminal_code_bih",
+  "article_number": "143",
+  "title": "Zakoni koji propisuju krivična djela pravnih osoba",
+  "content_path": "../article-text/0143.txt",
+  "paragraphs": [
+    "Pravne osobe mogu biti odgovorne za krivična djela iz ovog zakona i za druga krivična djela\npropisana zakonom Bosne i Hercegovine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0143",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

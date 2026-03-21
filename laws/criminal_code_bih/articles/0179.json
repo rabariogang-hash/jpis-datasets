@@ -1,0 +1,22 @@
+{
+  "id": "criminal_code_bih:179",
+  "law_id": "criminal_code_bih",
+  "article_number": "179",
+  "title": "Povrede zakona ili običaja rata",
+  "content_path": "../article-text/0179.txt",
+  "paragraphs": [
+    "(1) Ko za vrijeme rata ili oružanog sukoba naredi da se povrijede zakoni ili običaji rata ili ih\nsam povrijedi, kaznit će se kaznom zatvora najmanje deset godina ili kaznom dugotrajnog\nzatvora.",
+    "(2) Povrede zakona ili običaja rata iz stava 1. ovog člana uključuju:",
+    "a) upotrebu bojnih otrova ili drugih ubojnih sredstava s ciljem izazivanja nepotrebne patnje;",
+    "b) bezobzirno razaranje gradova, naselja ili sela ili pustošenje koje nije opravdano vojnim\npotrebama;",
+    "c) napad  ili bombardovanje bilo kojim sredstvima nebranjenih gradova, sela, nastambi  ili\nzgrada;",
+    "d)  pljenidbu,  uništavanje   ili  namjerno  oštećenje  ustanova  namijenjenih  vjerskim,\ndobrotvornim ili obrazovnim potrebama, nauci i umjetnosti, istorijskih spomenika i naučnih i\numjetničkih djela;",
+    "e) pljačku javne ili privatne imovine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0179",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

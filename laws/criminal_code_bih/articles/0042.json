@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:42",
+  "law_id": "criminal_code_bih",
+  "article_number": "42",
+  "title": "Kazna zatvora",
+  "content_path": "../article-text/0042.txt",
+  "paragraphs": [
+    "(1) Kazna zatvora ne može biti kraća od 30 dana ni duža od 20 godina.",
+    "(2) Kazna zatvora izriče se na pune godine i mjesece, a do šest mjeseci i na pune dane.",
+    "(3) Kazna zatvora iz ovog člana ne može se izreći maloljetnicima. Maloljetnicima se može\n izreči kazna maloljetničkog zatvora, pod uslovima propisanim glavom X (Pravila o odgojnim\n preporukama, odgojnim mjerama   i o  kažnjavanju  maloljetnika) ovog  zakona. Kazna\n maloljetničkog zatvora po svojoj svrsi, prirodi, trajanju i načinu izvršenja jeste posebna kazna\n lišenja slobode."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0042",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

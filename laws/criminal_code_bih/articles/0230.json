@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:230",
+  "law_id": "criminal_code_bih",
+  "article_number": "230",
+  "title": "Neprijavljivanje krivičnog djela ili učinitelja",
+  "content_path": "../article-text/0230.txt",
+  "paragraphs": [
+    "(1) Ko zna za učinitelja krivičnog djela za koje se po zakonu Bosne i Hercegovine može izreći\nkazna dugotrajnog zatvora, ili ko samo zna da je takvo djelo učinjeno, pa to ne prijavi, iako od\ntakve prijave ovisi blagovremeno otkrivanje učinitelja ili krivičnog djela, kaznit će se novčanom\nkaznom ili kaznom zatvora do tri godine.",
+    "(2) Kaznom iz stava 1. ovog člana kaznit će se službena ili odgovorna osoba koja ne prijavi\nkrivično djelo za koje je saznala u vršenju svoje dužnosti, ako se za to krivično djelo po zakonu\nBosne i Hercegovine može izreći kazna zatvora pet godina ili teža kazna.",
+    "(3) Za krivično djelo iz stava 1. i 2. ovog člana neće se kazniti osoba kojoj je učinitelj bračni\npartner, osoba koja živi s njim u vanbračnoj zajednici, srodnik po krvi u pravoj liniji, brat ili\nsestra, usvojitelj  ili usvojenik  i njihov bračni partner  ili osoba s kojom žive u vanbračnoj\nzajednici, ili koja je branitelj, ljekar ili vjerski ispovjednik učinitelja."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0230",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

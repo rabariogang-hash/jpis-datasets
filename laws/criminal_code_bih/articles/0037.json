@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:37",
+  "law_id": "criminal_code_bih",
+  "article_number": "37",
+  "title": "Stvarna zabluda",
+  "content_path": "../article-text/0037.txt",
+  "paragraphs": [
+    "(1) Nije kriv počinilac koji počini djelo u neotklonjivoj stvarnoj zabludi.",
+    "(2) Stvarna zabluda je neotklonjiva ako počinilac u vrijeme izvršenja krivičnog djela nije bio\nsvjestan nekog njegovog zakonom propisanog obilježja, ili je pogrešno smatrao da postoje\nokolnosti prema kojima bi, da su one stvarno postojale, to djelo činile dozvoljenim.",
+    "(3) Ako je učinitelj bio u stvarnoj zabludi iz nehata, postojaće krivično djelo učinjeno iz\nnehata, ako zakon za to krivično djelo propisuje kažnjavanje i za nehat."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0037",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

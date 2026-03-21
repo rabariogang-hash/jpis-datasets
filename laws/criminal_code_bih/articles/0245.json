@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:245",
+  "law_id": "criminal_code_bih",
+  "article_number": "245",
+  "title": "Nedozvoljeno korištenje prava radiodifuzije",
+  "content_path": "../article-text/0245.txt",
+  "paragraphs": [
+    "(1) Ko bez odobrenja ovlaštenog distributera enkriptiranog satelitskog signala, proizvodi ili\nobavlja montažu, mijenja, uvozi, izvozi, prodaje, iznajmljuje ili na drugi način stavlja u promet\nmaterijalni ili nematerijalni uređaj ili sistem za dekodiranje takvog signala, ako zna ili mora\nznati da taj uređaj ili sistem pretežno služi za dekodiranje enkriptiranog satelitskog signala,\nkaznit će novčanom kaznom ili kaznom zatvora do tri godine.",
+    "(2) Ako je učinjenjem krivičnog djela iz stava 1. ovog člana pribavljena znatna imovinska\nkorist  ili je prouzrokovana znatna šteta, a učinitelj je postupao s ciljem pribavljanja takve\nimovinske koristi ili prouzrokovanja takve štete, kaznit će se kaznom zatvora od šest mjeseci\ndo pet godina.",
+    "(3) Predmeti koji su bili namijenjeni ili upotrijebljeni za učinjenje krivičnog djela ili su nastali\nkrivičnim djelom iz stavka 1. i 2. ovog člana, oduzet će se i uništiti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0245",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

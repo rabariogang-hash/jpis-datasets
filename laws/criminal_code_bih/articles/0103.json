@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:103",
+  "law_id": "criminal_code_bih",
+  "article_number": "103",
+  "title": "Učinak kazne na odgojne mjere",
+  "content_path": "../article-text/0103.txt",
+  "paragraphs": [
+    "(1) Ako  za  vrijeme  trajanja odgojne mjere sud  izrekne  starijem  maloljetniku kaznu\nmaloljetničkog zatvora, odgojna mjera prestaje kad maloljetnik započne izdržavanje te kazne.",
+    "(2) Ako za vrijeme trajanja odgojne mjere sud izrekne punoljetnoj osobi kaznu maloljetničkog\nzatvora ili kaznu zatvora najmanje godinu dana, odgojna mjera prestaje kada ta osoba započne\nizdržavanje kazne.",
+    "(3) Ako za vrijeme trajanja odgojne mjere sud izrekne punoljetnoj osobi kaznu zatvora u\nkraćem trajanju od jedne godine, sud će u presudi odlučiti hoće li se po izdržanoj kazni nastaviti\nizvršenje izrečene odgojne mjere ili će se ta mjera ukinuti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0103",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

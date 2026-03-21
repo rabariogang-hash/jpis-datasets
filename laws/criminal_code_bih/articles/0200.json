@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:200",
+  "law_id": "criminal_code_bih",
+  "article_number": "200",
+  "title": "Zloupotreba telekomunikacionih znakova",
+  "content_path": "../article-text/0200.txt",
+  "paragraphs": [
+    "Ko zlonamjerno ili bez potrebe otpravi međunarodno ugovoreni znak za pozivanje u pomoć ili\nznak da prijeti opasnost, ili ko telekomunikacionim znakom obmane da postoji sigurnost, ili ko\nzloupotrijebi međunarodno ugovoreni telekomunikacioni znak, kaznit će se kaznom zatvora od\nšest mjeseci do pet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0200",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

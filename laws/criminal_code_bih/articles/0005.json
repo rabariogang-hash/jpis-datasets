@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:5",
+  "law_id": "criminal_code_bih",
+  "article_number": "5",
+  "title": "Vrste krivičnopravnih sankcija",
+  "content_path": "../article-text/0005.txt",
+  "paragraphs": [
+    "Krivičnopravne sankcije su: kazne, uvjetna osuda, mjere sigurnosti i odgojne mjere."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0005",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

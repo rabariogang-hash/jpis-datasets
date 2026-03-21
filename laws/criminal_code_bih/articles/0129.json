@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:129",
+  "law_id": "criminal_code_bih",
+  "article_number": "129",
+  "title": "Saučesništvo pravnih osoba",
+  "content_path": "../article-text/0129.txt",
+  "paragraphs": [
+    "(1) U slučaju da dvije ili više pravnih osoba saučestvuje pri učinjenju krivičnog djela, svaka je\nodgovorna prema članu 124. (Osnove odgovornosti pravne osobe) ovog zakona.",
+    "(2) Pri saučesništvu pravnih osoba iz stava 1. ovog člana, svaka pravna osoba odgovara kao\nda je jedina pravna osoba odgovorna za krivično djelo."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0129",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

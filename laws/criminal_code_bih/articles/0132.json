@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:132",
+  "law_id": "criminal_code_bih",
+  "article_number": "132",
+  "title": "Novčana kazna za pravne osobe",
+  "content_path": "../article-text/0132.txt",
+  "paragraphs": [
+    "(1) Novčana kazna koja se izriče pravnoj osobi ne može biti manja od 5.000 KM niti veća od\n5.000.000 KM.",
+    "(2) Ako  je krivičnim djelom pravne osobe prouzrokovana drugom imovinska  šteta  ili\npribavljena protupravna imovinska korist, najveća mjera izrečene novčane kazne može iznositi\ndvostruki iznos te štete, odnosno koristi.",
+    "(3) Ako se novčana kazna ne plati u roku koji je utvrden presudom, bez odgađanja će se provesti\npostupak prinudne naplate."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0132",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

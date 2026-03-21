@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:83",
+  "law_id": "criminal_code_bih",
+  "article_number": "83",
+  "title": "Odgojne mjere",
+  "content_path": "../article-text/0083.txt",
+  "paragraphs": [
+    "Maloljetnom učinitelju krivičnog djela mogu se izreći ove odgojne mjere:",
+    "a) disciplinska mjera upućivanja u disciplinski centar za maloljetnike;",
+    "b) mjere pojačanog nadzora: od strane roditelja, usvojitelja ili staratelja; u drugoj obitelji; ili\n   od strane nadležnog organa socijalne zaštite;",
+    "c) zavodske mjere: upućivanje u odgojnu ustanovu, u odgojno-popravni dom ili u drugu\n   ustanovu za osposobljavanje."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0083",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

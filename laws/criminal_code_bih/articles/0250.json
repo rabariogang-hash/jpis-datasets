@@ -1,0 +1,20 @@
+{
+  "id": "criminal_code_bih:250",
+  "law_id": "criminal_code_bih",
+  "article_number": "250",
+  "title": "Organizirani kriminal",
+  "content_path": "../article-text/0250.txt",
+  "paragraphs": [
+    "(1) Ko učini krivično djelo propisano zakonom Bosne i Hercegovine kao pripadnik grupe za\norganizirani kriminal, ako za pojedino krivično djelo nije propisana teža kazna, kaznit će se\nkaznom zatvora najmanje tri godine.",
+    "(2) Ko kao pripadnik grupe za organizirani kriminal učini krivično djelo propisano zakonom\nBosne i Hercegovine za koje se može izreći kazna zatvora pet godina ili teža kazna, ako za\npojedino krivično djelo nije propisana teža kazna, kaznit će se kaznom zatvora najmanje pet\ngodina.",
+    "(3) Ko organizira ili bilo kako rukovodi grupom za organizirani kriminal koja zajedničkim\ndjelovanjem učini ili pokuša krivično djelo propisano zakonom Bosne i Hercegovine, kaznit će\nse kaznom zatvora najmanje deset godina ili dugotrajnim zatvorom.",
+    "(4) Ko postane pripadnik grupe za organizirani kriminal koja zajedničkim djelovanjem učini ili\npokuša krivično djelo propisano zakonom Bosne i Hercegovine, ako za pojedino krivično djelo\nnije propisana teža kazna, kaznit će se kaznom zatvora najmanje jednu godinu.",
+    "(5) Pripadnik grupe za organizirani kriminal iz stava 1. do 4. ovog člana koji otkrije tu grupu,\nmože se osloboditi od kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0250",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

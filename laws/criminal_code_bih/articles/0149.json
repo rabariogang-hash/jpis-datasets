@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:149",
+  "law_id": "criminal_code_bih",
+  "article_number": "149",
+  "title": "Nedozvoljeno korištenje ličnih podataka",
+  "content_path": "../article-text/0149.txt",
+  "paragraphs": [
+    "Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja bez pristanka pojedinca\nprotivno uvjetima propisanim u zakonu, prikuplja, obrađuje ili koristi njegove lične podatke ili\nte podatke koristi suprotno zakonom dozvoljenoj svrsi njihova prikupljanja, kaznit će se\nnovčanom kaznom ili kaznom zatvora do šest mjeseci."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0149",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

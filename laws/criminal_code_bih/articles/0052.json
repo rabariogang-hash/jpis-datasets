@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:52",
+  "law_id": "criminal_code_bih",
+  "article_number": "52",
+  "title": "Poseban slučaj oslobođenja od kazne za krivična djela počinjena iz nehata",
+  "content_path": "../article-text/0052.txt",
+  "paragraphs": [
+    "Sud može osloboditi od kazne učinitelja krivičnog djela učinjenog iz nehata, kad posljedice\ndjela tako teško pogađaju učinitelja da izricanje kazne u takvom slučaju očigledno ne bi\nodgovaralo svrsi kažnjavanja."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0052",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

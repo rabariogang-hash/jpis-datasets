@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:60",
+  "law_id": "criminal_code_bih",
+  "article_number": "60",
+  "title": "Obaveze učinitelja kojem je izrečena uvjetna osuda",
+  "content_path": "../article-text/0060.txt",
+  "paragraphs": [
+    "(1) Sud može u uvjetnoj osudi odrediti ispunjavanje slijedećih obaveza: da će osuđeni vratiti\nimovinsku korist pribavljenu krivičnim djelom, da će nadoknaditi štetu koju je prouzrokovao\nkrivičnim djelom, ili ispunjavanje druge obaveze predviđene krivičnim zakonodavstvom Bosne\ni Hercegovine.",
+    "(2) Rok za ispunjenje obaveza iz stava 1. ovog člana utvrđuje sud u okviru određenog vremena\nprovjeravanja."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0060",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

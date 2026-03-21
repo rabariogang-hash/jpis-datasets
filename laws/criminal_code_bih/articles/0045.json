@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:45",
+  "law_id": "criminal_code_bih",
+  "article_number": "45",
+  "title": "Opoziv uvjetnog otpusta",
+  "content_path": "../article-text/0045.txt",
+  "paragraphs": [
+    "(1)Sud će opozvati uvjetni otpust ako osuđeni za vrijeme uvjetnog otpusta učini jedno ili više\nkrivičnih djela za koja mu je izrečena kazna zatvora preko jedne godine ili teža kazna.\n(2)Sud može opozvati uvjetni otpust ako osuđeni na uvjetnom otpustu učini jedno ili više\nkrivičnih djela za koja je izrečena kazna zatvora do jedne godine. Prilikom odlučivanja da li\nda opozove uvjetni otpust, sud naročito uzima u obzir sličnost učinjenih djela, njihov značaj,\nmotive iz kojih su učinjena, kao i druge okolnosti koje ukazuju na prikladnost opoziva\nuvjetnog otpusta.",
+    "(3)Prilikom izricanja opoziva uvjetnog otpusta, sud izriče kaznu uzimajući ranije izrečenu\nkaznu kao već utvrđenu. Dio kazne koji je osuđeni izdržao prema ranijoj presudi uračunava se\nu izdržavanje naknadne kazne, ali se vrijeme provedeno na uvjetnom otpustu ne uračunava.",
+    "(4)Odredbe stavova 1. do 3. ovog člana primjenjuju se i kada se osuđenom na uvjetnom\notpustu sudi za krivično djelo učinjeno prije njegovog uvjetnog otpusta.",
+    "(5)Ako je osuđeni na uvjetnom otpustu osuđen na kaznu zatvora do jedne godine i ako sud ne\nopozove uvjetni otpust, vrijeme uvjetnog otpusta se produžava za vrijeme koje je osuđeni\nproveo na izdržavanju kazne zatvora."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0045",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

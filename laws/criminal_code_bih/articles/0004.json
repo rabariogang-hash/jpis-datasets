@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:4",
+  "law_id": "criminal_code_bih",
+  "article_number": "4",
+  "title": "Vremensko važenje krivičnog zakona",
+  "content_path": "../article-text/0004.txt",
+  "paragraphs": [
+    "(1) Na učinitelja krivičnog djela primjenjuje se zakon koji je bio na snazi u vrijeme učinjenja\nkrivičnog djela.",
+    "(2) Ako se poslije učinjenja krivičnog djela jednom ili više puta izmijeni zakon, primijenit će\nse zakon koji je blaži za učinitelja."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0004",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

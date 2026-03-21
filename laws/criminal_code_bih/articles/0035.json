@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:35",
+  "law_id": "criminal_code_bih",
+  "article_number": "35",
+  "title": "Umišljaj",
+  "content_path": "../article-text/0035.txt",
+  "paragraphs": [
+    "(1) Krivično djelo može biti učinjeno s direktnim ili eventualnim umišljajem.",
+    "(2) Učinitelj postupa s direktnim umišljajem kada je bio svjestan svog djela i htio njegovo\nučinjenje.",
+    "(3) Učinitelj postupa s eventualnim umišljajem kada je bio svjestan da zbog njegovog činjenja\nili nečinjenja može nastupiti zabranjena posljedica, ali je pristao na njeno nastupanje."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0035",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

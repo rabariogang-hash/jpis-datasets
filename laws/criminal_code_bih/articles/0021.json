@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:21",
+  "law_id": "criminal_code_bih",
+  "article_number": "21",
+  "title": "Način učinjenja krivičnog djela",
+  "content_path": "../article-text/0021.txt",
+  "paragraphs": [
+    "(1) Krivično djelo može se učiniti činjenjem ili nečinjenjem.",
+    "(2) Krivično djelo je učinjeno nečinjenjem kad je učinitelj koji je pravno obavezan spriječiti\nnastupanje zakonom opisane posljedice krivičnog djela to propustio  učiniti, a takvo  je\npropuštanje po djelovanju i značenju jedanko učinjenju tog krivičnog djela činjenjem."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0021",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

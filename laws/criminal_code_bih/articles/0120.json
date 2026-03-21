@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:120",
+  "law_id": "criminal_code_bih",
+  "article_number": "120",
+  "title": "Učinak amnestije i pomilovanja na prava trećih osoba",
+  "content_path": "../article-text/0120.txt",
+  "paragraphs": [
+    "Davanjem amnestije ili pomilovanja ne utječe se na prava trećih osoba koja se zasnivaju na\nosudi."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0120",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

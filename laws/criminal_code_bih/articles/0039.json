@@ -1,0 +1,20 @@
+{
+  "id": "criminal_code_bih:39",
+  "law_id": "criminal_code_bih",
+  "article_number": "39",
+  "title": "Svrha kažnjavanja",
+  "content_path": "../article-text/0039.txt",
+  "paragraphs": [
+    "Svrha kažnjavanja je:",
+    "a) da se izrazi društvena osuda učinjenog krivičnog djela;",
+    "b) da se utječe na učinitelja da ubuduće ne čini krivična djela i podstakne njegov preodgoj;",
+    "c) da se utječe na ostale da ne čine krivična djela;",
+    "d) i da se utječe na svijest građana o pogibeljnosti krivičnih djela i o pravednosti kažnjavanja\n      učinitelja."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0039",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

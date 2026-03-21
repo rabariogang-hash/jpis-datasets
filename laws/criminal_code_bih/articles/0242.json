@@ -1,0 +1,21 @@
+{
+  "id": "criminal_code_bih:242",
+  "law_id": "criminal_code_bih",
+  "article_number": "242",
+  "title": "Zloupotreba autorskih prava",
+  "content_path": "../article-text/0242.txt",
+  "paragraphs": [
+    "(1) Osoba koja pod svojim imenom ili pod imenom drugoga, objavi, prikaže, izvede, prenese\nili na drugi način saopći javnosti tuđe djelo koje se u skladu sa zakonom Bosne i Hercegovine\nsmatra autorskim djelom ili dozvoli da se to učini, kaznit će novčanom kaznom ili kaznom\nzatvora do tri godine.",
+    "(2) Kaznom iz stava 1. ovog člana kaznit će se ko bez navođenja imena ili pseudonima autora\nobjavi, prikaže, izvede, prenese ili na drugi način saopći javnosti tuđe djelo iz stava 1. ovog\nčlana na kojem je označeno ime ili pseudonim autora, ili na nedozvoljen način unese dijelove\ntuđeg djela iz stava 1. ovog člana u svoje autorsko djelo ili dozvoli da se to učini.",
+    "(3) Osoba koja uništi, izobliči, nagardi ili na drugi način bez odobrenja autora, izmijeni tuđe\ndjelo iz stava 1. ovog člana, kaznit će novčanom kaznom ili kaznom zatvora do tri godine.",
+    "(4) Kaznom iz stava 1. ovog člana kaznit će se ko bez navođenja imena  ili pseudonima\numjetnika izvođača, osim ako umjetnik izvođač želi ostati anoniman, objavi, prikaže, prenese\nili na drugi način saopći javnosti njegovu izvedbu.",
+    "(5) Kaznom iz stava 3. ovog člana kaznit će se ko uništi, izobliči, nagrdi, sakati ili na drugi\nnačin bez odobrenja umjetnika izvođača, izmijeni snimljenu izvedbu umjetnika izvođača.",
+    "(6) Ako je učinjenjem krivičnog djela iz stava 1. do 5. ovog člana pribavljena znatna imovinska\nkorist  ili je prouzrokovana znatna šteta, a učinitelj je postupao s ciljem pribavljanja takve\nimovinske koristi ili prouzrokovanja takve štete, kaznit će se kaznom zatvora od šest mjeseci\ndo pet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0242",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

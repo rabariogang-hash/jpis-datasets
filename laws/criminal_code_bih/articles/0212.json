@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:212",
+  "law_id": "criminal_code_bih",
+  "article_number": "212",
+  "title": "Nedopuštena trgovina",
+  "content_path": "../article-text/0212.txt",
+  "paragraphs": [
+    "(1) Ko neovlašteno prodaje, kupuje ili vrši razmjenu robe ili predmeta čiji je promet zabranjen\nili ograničen propisima Bosne i Hercegovine ili međunarodnim pravom, ako takvim djelom nije\nučinjeno drugo krivično djelo za koje je propisana teža kazna, kaznit će se kaznom zatvora od\njedne do deset godina.",
+    "(2) Roba i predmeti iz stava 1. ovog člana oduzet će se."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0212",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

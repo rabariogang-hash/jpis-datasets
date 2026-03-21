@@ -1,0 +1,21 @@
+{
+  "id": "criminal_code_bih:15",
+  "law_id": "criminal_code_bih",
+  "article_number": "15",
+  "title": "Tok i prekid zastarjelosti krivičnog gonjenja",
+  "content_path": "../article-text/0015.txt",
+  "paragraphs": [
+    "(1)  Zastarijevanje krivičnog gonjenja počinje od dana kad  je krivično  djelo učinjeno.\nZastarijevanje krivičnog gonjenja za krivična djela trajnog karaktera počinje teći u\ntrenutku prestanka protupravnog stanja.",
+    "(2) Zastarijevanje ne teče za vrijeme za koje se po zakonu krivično gonjenje ne može poduzeti\nili nastaviti.",
+    "(3) Zastarijevanje se prekida svakom procesnom radnjom koja se poduzima radi gonjenja\nučinitelja zbog učinjenog krivičnog djela.",
+    "(4) Zastarijevanje se prekida i kad učinitelj, u vrijeme dok teče rok zastarjelosti, učini isto tako\nteško ili teže krivično djelo.",
+    "(5) Sa svakim prekidom zastarijevanje počinje ponovno teći.",
+    "(6) Zastarjelost krivičnog gonjenja nastupa u svakom slučaju kad protekne dvaput onoliko\nvremena koliko se po zakonu traži za zastarjelost krivičnog gonjenja."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0015",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

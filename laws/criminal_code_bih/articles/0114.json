@@ -1,0 +1,24 @@
+{
+  "id": "criminal_code_bih:114",
+  "law_id": "criminal_code_bih",
+  "article_number": "114",
+  "title": "Vrste pravnih posljedica osude",
+  "content_path": "../article-text/0114.txt",
+  "paragraphs": [
+    "(1) Pravne posljedice osude koje se odnose na prestanak ili gubitak određenih prava jesu:",
+    "a)  prestanak vršenja određenih poslova ili funkcija u organima vlasti, privrednim\n       društvima ili u drugim pravnim osobama;",
+    "b) prestanak zaposlenja ili prestanak vršenja određenog zvanja, poziva ili zanimanja;",
+    "c) oduzimanje dozvola ili odobrenja koja se izdaju odlukom organa vlasti ili statusa koji\n      se priznaje odlukom organa vlasti;",
+    "d) oduzimanje odlikovanja.",
+    "(2) Pravne posljedice osude koje se sastoje u zabrani sticanja određenih prava jesu:",
+    "a) zabrana obavljanja određenih poslova ili funkcija u organima vlasti, privrednim\n       društvima, ili u drugim pravnim osobama;",
+    "b) zabrana sticanja određenih zvanja, poziva ili zanimanja, ili unapređenja u službi;",
+    "c) zabrana sticanja dozvola ili odobrenja koja se izdaju odlukom organa vlasti ili statusa\n     koji se priznaje odlukom organa vlasti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0114",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:144",
+  "law_id": "criminal_code_bih",
+  "article_number": "144",
+  "title": "Kazne za krivična djela",
+  "content_path": "../article-text/0144.txt",
+  "paragraphs": [
+    "(1) Za krivična djela s propisanom novčanom kaznom ili kaznom zatvora do tri godine, pravna\nosoba će se kazniti novčanom kaznom do 850.000 KM ili do deseterostrukog iznosa štete\nprouzrokovane ili imovinske koristi pribavljene krivičnim djelom.",
+    "(2) Za krivična djela s propisanom kaznom zatvora preko tri godine, pravna osoba će se kazniti\nnovčanom  kaznom  najmanje  2.500.000 KM   ili  do  dvadeseterostrukog  iznosa  štete\nprouzrokovane ili imovinske koristi pribavljene krivičnim djelom.",
+    "(3) Za krivična djela s propisanom kaznom zatvora od pet godina ili težom kaznom, pravnoj\nosobi se umjesto novčane kazne može izreći kazna oduzimanja imovine.",
+    "(4) Za krivična djela iz stava 1. ovog člana, pravnoj osobi se umjesto novčane kazne može\nizreći kazna prestanka pravne osobe, pod uvjetima člana 134. (Kazna prestanka pravne osobe)\novog zakona."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0144",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

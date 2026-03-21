@@ -1,0 +1,29 @@
+{
+  "id": "criminal_code_bih:201",
+  "law_id": "criminal_code_bih",
+  "article_number": "201",
+  "title": "Terorizam",
+  "content_path": "../article-text/0201.txt",
+  "paragraphs": [
+    "(1) Ko počini teroristički čin s ciljem ozbiljnog zastrašivanja stanovništva  ili prisiljavanja\norgana vlasti Bosne i Hercegovine, vlade druge zemlje ili međunarodne organizacije, da što\nizvrši  ili ne izvrši,  ili s ciljem ozbiljne destabilizacije  ili uništavanja osnovnih političkih,\nustavnih, privrednih ili društvenih struktura Bosne i Hercegovine, druge zemlje ili međunarodne\norganizacije, kaznit će kaznom zatvora najmanje pet godina.",
+    "(2) Ako je usljed krivičnog djela iz stava 1. ovog člana nastupila smrt jedne ili više osoba,\nučinitelj će se kazniti kaznom zatvora najmanje osam godina.",
+    "(3) Ako je pri učinjenju krivičnog djela iz stava 1. ovog člana učinitelj neku osobu s umišljajem\nlišio života, kaznit će se kaznom zatvora najmanje deset godina ili kaznom dugotrajnog zatvora.",
+    "(4) Ko nabavi ili pripremi sredstvo ili ukloni prepreku ili preduzme neku drugu radnju kojom\nstvori uslove za izvršenje krivičnog djela iz stava (1) ovog člana kaznit će se kaznom zatvora\nod jedne do deset godina.",
+    "(5)  Teroristički čin, u smislu ovog člana, podrazumijeva koju od sljedećih radnji, koja s\nobzirom na svoju prirodu  ili  kontekst može  ozbiljno  oštetiti državu  ili međunarodnu\norganizaciju:",
+    "a) napad na život osobe koji može prouzrokovati njezinu smrt;",
+    "b) napad na fizički integritet osobe;",
+    "c)  protupravno  zatvaranje,  držanje  zatvorenom   ili  na  drugi  način  oduzimanje   ili\n       ograničavanje slobode kretanja druge osobe, s ciljem da nju ili nekoga drugoga prisili\n      da što izvrši, ne izvrši ili trpi (otmica) ili uzimanje talaca;",
+    "d) nanošenje velike štete objektima Bosne i Hercegovine, vlade druge države ili javnim\n       objektima, transportnom sistemu, objektima infrastrukture uključujući informacioni\n       sistem, fiksnoj platformi koja se nalazi u kontinentalnom pojasu, javnom mjestu ili\n       privatnoj imovini, za koju štetu je vjerovatno da će ugroziti ljudski život ili dovesti do\n       znatne privredne štete;",
+    "e) otmica zrakoplova, broda ili drugog sredstva javnog saobraćaja ili za prevoz roba;",
+    "f)   proizvodnja,   posjedovanje,   sticanje,   prevoz,   snabdijevanje,   korištenje    ili\n       osposobljavanje za korištenje oružja, eksploziva, nuklearnog, biološkog ili hemijskog\n       oružja ili radioaktivnog materijala, kao i istraživanje i razvoj biološkog i hemijskog\n       oružja ili radioaktivnog materijala;",
+    "g) ispuštanje opasnih materija ili izazivanje požara, eksplozija ili poplava s posljedicom\n       ugrožavanja ljudskih života;",
+    "h) ometanje  ili zaustavljanje snabdijevanja vodom, električnom energijom  ili drugim\n      osnovnim prirodnim resursomu s posljedicom ugrožavanja ljudskih života;",
+    "i) prijetnja učinjenjem kojeg djela iz tačke a. do h. ovog stava."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0201",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

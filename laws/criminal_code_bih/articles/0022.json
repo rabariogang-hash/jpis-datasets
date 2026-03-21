@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:22",
+  "law_id": "criminal_code_bih",
+  "article_number": "22",
+  "title": "Vrijeme učinjenja krivičnog djela",
+  "content_path": "../article-text/0022.txt",
+  "paragraphs": [
+    "Krivično djelo je učinjeno u vrijeme kad je učinitelj radio ili bio dužan raditi, bez obzira na to\nkad je posljedica činjenja ili nečinjenja nastupila."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0022",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

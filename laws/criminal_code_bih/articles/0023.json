@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:23",
+  "law_id": "criminal_code_bih",
+  "article_number": "23",
+  "title": "Mjesto učinjenja krivičnog djela",
+  "content_path": "../article-text/0023.txt",
+  "paragraphs": [
+    "(1) Krivično djelo je učinjeno kako u mjestu gdje je učinitelj radio ili je bio dužan raditi, tako i\nu mjestu gdje je posljedica činjenja ili nečinjenja potpuno ili djelomično nastupila.",
+    "(2) Krivično djelo je u slučaju kažnjivog pokušaja učinjeno kako u mjestu gdje je učinitelj radio\nili je bio dužan raditi, tako i u mjestu gdje je prema njegovom umišljaju posljedica njegovog\nčinjenja ili nečinjenja potpuno ili djelomično trebala nastupiti.",
+    "(3) Krivično djelo je u slučaju saučesništva učinjeno u mjestu utvrđenom u stavu 1. ovog člana\ni u mjestu gdje je saučesnik radio ili je bio dužan raditi ili u mjestu gdje je prema umišljaju\nsaučesnika posljedica njegovog činjenja ili nečinjenja trebala nastupiti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0023",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

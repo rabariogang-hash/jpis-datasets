@@ -1,0 +1,20 @@
+{
+  "id": "criminal_code_bih:232",
+  "law_id": "criminal_code_bih",
+  "article_number": "232",
+  "title": "Pomoć učinitelju poslije učinjenog krivičnog djela",
+  "content_path": "../article-text/0232.txt",
+  "paragraphs": [
+    "(1) Ko krije učinitelja krivičnog djela propisanog zakonom Bosne  i Hercegovine  ili mu\nprikrivanjem oruđa, tragova ili na drugi način pomaže da ne bude otkriven, ili ko krije osobu\nosuđenu po zakonu Bosne i Hercegovine ili poduzima što drugo čime se ide za tim da se ne\nizvrši izrečena kazna, mjera sigurnosti ili odgojna zavodska mjera propisana zakonom Bosne i\nHercegovine, kaznit će se novčanom kaznom ili kaznom zatvora do jedne godine.",
+    "(2) Ko pruži pomoć učinitelju krivičnog djela za koje se po zakonu Bosne i Hercegovine može\nizreći kazna zatvora tri godine ili teža kazna, kaznit će se kaznom zatvora od šest mjeseci do\npet godina.",
+    "(3) Ko pruži pomoć učinitelju krivičnog djela za koje je zakonom Bosne  i Hercegovine\npropisana kazna dugotrajnog zatvora, kaznit će se kaznom zatvora od jedne do deset godina.",
+    "(4) Kazna izrečena za krivično djelo iz stava 1. ovog člana ne može biti teža ni po vrsti ni po\nvisini od kazne izrečene za krivično djelo u pogledu kojeg je pružena pomoć.",
+    "(5) Za krivično djelo iz stava 1. do 3. ovog člana neće se kazniti osoba kojoj je učinitelj bračni\npartner, osoba koja živi s njim u vanbračnoj zajednici, srodnik po krvi u pravoj liniji, brat ili\nsestra, usvojitelj ili usvojenik ili njihov bračni partner ili osoba s kojom žive u vanbračnoj\nzajednici, ili koja je branitelj, ljekar ili vjerski ispovjednik učinitelja."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0232",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

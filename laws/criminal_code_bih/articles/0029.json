@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:29",
+  "law_id": "criminal_code_bih",
+  "article_number": "29",
+  "title": "Saučiniteljstvo",
+  "content_path": "../article-text/0029.txt",
+  "paragraphs": [
+    "Ako više osoba, učestvovanjem u učinjenju krivičnog djela ili preduzimajući što drugo čime se\nna odlučujući način doprinosi učinjenju krivičnog djela, zajednički učine krivično djelo, svaka\nod njih kaznit će se kaznom propisanom za to krivično djelo."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0029",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

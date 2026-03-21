@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:145b",
+  "law_id": "criminal_code_bih",
+  "article_number": "145b",
+  "title": "Oštećenje ili rušenje vjerskih objekata",
+  "content_path": "../article-text/0145b.txt",
+  "paragraphs": [
+    "Ko ošteti, učini neupotrebljivim ili sruši vjerski objekat kaznit če se kaznom zatvora od šest\nmjeseci do pet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0145b",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

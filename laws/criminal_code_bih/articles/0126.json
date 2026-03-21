@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:126",
+  "law_id": "criminal_code_bih",
+  "article_number": "126",
+  "title": "Odgovornost pri promjeni statusa pravne osobe",
+  "content_path": "../article-text/0126.txt",
+  "paragraphs": [
+    "(1) Pravna osoba u stečaju može biti odgovorna za krivično djelo bez obzira je li krivično djelo\nučinjeno prije početka stečajnog postupka ili u međuvremenu, ali se pravnoj osobi u stečaju ne\nizriče kazna, već se izriče mjera sigurnosti oduzimanja predmeta ili se oduzima imovinska\nkorist pribavljena krivičnim djelom.",
+    "(2) Kada  je do prestanka pravne osobe došlo  prije pravosnažnog okončanja krivičnog\npostupka, a u krivičnom je postupku utvrđena odgovornost te pravne osobe, kazne i ostale\nkrivičnopravne sankcije izriču se pravnoj osobi koja je pravni sljednik pravne osobe kojoj je\nutvrđena krivična odgovornost, ako su njezini rukovodeći ili nadzorni organi prije prestanka\npravne osobe znali za učinjeno krivično djelo.",
+    "(3) Pravnoj osobi koja je pravni sljednik pravne osobe kojoj je utvrđena odgovornost, izriče se\nmjera sigurnosti oduzimanja predmeta ili se oduzima imovinska korist pribavljena krivičnim\ndjelom, ako su njezini rukovodeći ili nadzorni organi znali za učinjeno krivično djelo.",
+    "(4) Ako je do prestanka pravne osobe došlo po pravosnažno okončanom krivičnom postupku,\nizrečena krivičnopravna sankcija se izvršava po odredbama stava 2. i 3. ovog člana."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0126",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:149a",
+  "law_id": "criminal_code_bih",
+  "article_number": "149a",
+  "title": "Nezakonito uskraćivanje identifikacionih dokumenata",
+  "content_path": "../article-text/0149a.txt",
+  "paragraphs": [
+    "Ko s ciljem ograničavanja slobode kretanja  ili ispoljavanja  vlasti nad drugom osobom\nnezakonito uskrati drugome njegovu ličnu ili putnu ispravu kaznit će se kaznom zatvora od šest\nmjeseci do pet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0149a",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

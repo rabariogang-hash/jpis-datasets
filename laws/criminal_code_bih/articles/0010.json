@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:10",
+  "law_id": "criminal_code_bih",
+  "article_number": "10",
+  "title": "Primjena krivičnog zakonodavstva Bosne i Hercegovine prema maloljetnicima",
+  "content_path": "../article-text/0010.txt",
+  "paragraphs": [
+    "Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema maloljetnicima u skladu s\nglavom X (Pravila o odgojnim preporukama, odgojnim mjerama i o kažnjavanju maloljetnika)\novog zakona i drugim zakonima Bosne i Hercegovine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0010",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

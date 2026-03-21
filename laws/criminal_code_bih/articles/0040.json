@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:40",
+  "law_id": "criminal_code_bih",
+  "article_number": "40",
+  "title": "Vrste kazni",
+  "content_path": "../article-text/0040.txt",
+  "paragraphs": [
+    "Počiniocu krivičnog djela koji je kriv mogu se izreći:\n  a) kazna zatvora;\n  b) kazna dugotrajnog zatvora;\n  c) novčana kazna."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0040",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

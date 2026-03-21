@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:36",
+  "law_id": "criminal_code_bih",
+  "article_number": "36",
+  "title": "Nehat",
+  "content_path": "../article-text/0036.txt",
+  "paragraphs": [
+    "(1) Krivično djelo može biti učinjeno iz svjesnog ili nesvjesnog nehata.",
+    "(2) Učinitelj postupa iz svjesnog nehata kada je bio svjestan da zbog njegovog činjenja ili\nnečinjenja može nastupiti zabranjena posljedica, ali je olahko držao da ona neće nastupiti ili da\nće je moći spriječiti.",
+    "(3)  Učinitelj postupa  iz nesvjesnog nehata kad  učinitelj  nije  bio  svjestan mogućnosti\nnastupanja zabranjene  posljedice, iako  je prema okolnostima  i prema svojim osobnim\nsvojstvima bio dužan i mogao biti svjestan te mogućnosti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0036",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

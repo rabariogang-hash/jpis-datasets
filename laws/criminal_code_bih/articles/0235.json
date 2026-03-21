@@ -1,0 +1,20 @@
+{
+  "id": "criminal_code_bih:235",
+  "law_id": "criminal_code_bih",
+  "article_number": "235",
+  "title": "Davanje lažnog iskaza",
+  "content_path": "../article-text/0235.txt",
+  "paragraphs": [
+    "(1) Svjedok,  vještak, prevoditelj  ili tumač  koji u sudskom, prekršajnom, upravnom  ili\ndisciplinskom postupku pred institucijama Bosne i Hercegovine da lažan iskaz, kaznit će se\nnovčanom kaznom ili kaznom zatvora do tri godine.",
+    "(2) Kaznom iz stava 1. ovog člana kaznit će se stranka koja prilikom izvođenja dokaza\nsasušanjem  stranaka u parničnom  ili upravnom  postupku  pred  institucijama Bosne  i\nHercegovine, da lažan iskaz, a na tom je iskazu zasnovana odluka donesena u tom postupku.",
+    "(3) Ako je lažan iskaz dat u krivičnom postupku, učinitelj će se kazniti kaznom zatvora od šest\nmjeseci do pet godina.",
+    "(4) Ako su usljed krivičnog djela iz stava 3. ovog člana nastupile osobito teške posljedice za\nokrivljenog, učinitelj će se kazniti kaznom zatvora od jedne do deset godina.",
+    "(5) Ako učinitelj dobrovoljno opozove svoj lažan iskaz prije nego što je donesena konačna\nodluka, kaznit će se novčanom kaznom  ili kaznom zatvora do šest mjeseci, a može se  i\nosloboditi od kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0235",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

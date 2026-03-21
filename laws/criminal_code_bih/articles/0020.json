@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:20",
+  "law_id": "criminal_code_bih",
+  "article_number": "20",
+  "title": "Krivično djelo",
+  "content_path": "../article-text/0020.txt",
+  "paragraphs": [
+    "Krivično djelo je protupravno djelo koje je zakonom propisano kao krivično djelo, čija su\nobilježja propisana zakonom i za koje je zakonom propisana krivičnopravna sankcija."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0020",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

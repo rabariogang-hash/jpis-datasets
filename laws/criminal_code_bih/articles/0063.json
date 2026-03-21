@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:63",
+  "law_id": "criminal_code_bih",
+  "article_number": "63",
+  "title": "Opoziv uvjetne osude zbog neispunjenja izrečenih obaveza",
+  "content_path": "../article-text/0063.txt",
+  "paragraphs": [
+    "(1) Sud će opozvati uvjetnu osudu i izreći izvršenje izrečene kazne ako osuđeni u određenom\nvremenu provjeravanja ne ispuni izrečenu obavezu u slučajevima kada je mogao ispuniti tu\nobavezu.",
+    "(2) U slučaju nemogućnosti ispunjavanja izrečene obaveze, sud može produžiti rok za\nispunjenje  te obaveze  ili  je  zamijeniti drugom odgovarajućom obavezom predviđenom\nkrivičnim zakonodavstvom Bosne  i Hercegovine,  ili može osuđenog osloboditi ispunjenja\nizrečene obaveze."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0063",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:74",
+  "law_id": "criminal_code_bih",
+  "article_number": "74",
+  "title": "Oduzimanje predmeta",
+  "content_path": "../article-text/0074.txt",
+  "paragraphs": [
+    "(1) Predmeti koji su na bilo koji način, u cjelini ili djelimično, upotrijebljeni ili su bili\nnamijenjeni da budu upotrijebljeni za počinjenje krivičnog djela  ili koji su nastali\npočinjenjem krivičnog djela bit će oduzeti ako su vlasništvo počinioca.",
+    "(2) Predmeti iz stava (1) ovog člana bit će oduzeti i kad nisu vlasništvo počinioca, ali\ntime se ne dira u prava trećih lica na naknadu štete od počinilaca."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0074",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

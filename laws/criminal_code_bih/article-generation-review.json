@@ -1,0 +1,2222 @@
+{
+  "law_id": "criminal_code_bih",
+  "article_count": 277,
+  "items": [
+    {
+      "article_number": "1",
+      "title": "Osnovni pojmovi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0001.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0001.txt",
+      "paragraph_count": 46,
+      "content_preview": "(1)  Krivično zakonodavstvo Bosne i Hercegovine sačinjavaju krivičnopravne odredbe\nsadržane u ovom zakonu i u drugim zakonima Bosne i Hercegovine.\n\n(2) Teritorija Bosne i Hercegovine je suhozemna teritorija, obalno more i vodene površine\nunutar njeni"
+    },
+    {
+      "article_number": "2",
+      "title": "Osnova i granice krivičnopravne prinude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0002.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0002.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Krivična djela i krivičnopravne sankcije se propisuju samo za ona ponašanja kojima se tako\nugrožavaju ili povrjeđuju osobne slobode i prava čovjeka te druga prava i društvene vrijednosti\nzajamčene i zaštićene Ustavom Bosne i Hercegovine i međunar"
+    },
+    {
+      "article_number": "3",
+      "title": "Načelo zakonitosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0003.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0003.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Krivična djela i krivičnopravne sankcije propisuju se samo zakonom.\n\n(2) Nikome ne može biti izrečena kazna ili druga krivičnopravna sankcija za djelo koje, prije\nnego što je učinjeno, nije bilo zakonom ili međunarodnim pravom propisano kao krivi"
+    },
+    {
+      "article_number": "3a",
+      "title": "Načelo krivice",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0003a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0003a.txt",
+      "paragraph_count": 1,
+      "content_preview": "Niko ne može biti kažnjen niti se prema njemu mogu izreći druge krivičnopravne sankcije ako\nnije kriv za počinjeno krivično djelo."
+    },
+    {
+      "article_number": "4",
+      "title": "Vremensko važenje krivičnog zakona",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0004.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0004.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Na učinitelja krivičnog djela primjenjuje se zakon koji je bio na snazi u vrijeme učinjenja\nkrivičnog djela.\n\n(2) Ako se poslije učinjenja krivičnog djela jednom ili više puta izmijeni zakon, primijenit će\nse zakon koji je blaži za učinitelja."
+    },
+    {
+      "article_number": "4a",
+      "title": "Suđenje ili kažnjavanje za krivična djela prema općim načelima međunarodnog prava",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0004a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0004a.txt",
+      "paragraph_count": 1,
+      "content_preview": "Članovi 3. i 4. ovog zakona ne sprečavaju suđenje ili kažnjavanje bilo kojeg lica za bilo koje\nčinjenje ili nečinjenje koje je u vrijeme kada je počinjeno predstavljalo krivično djelo u skladu\ns općim načelima međunarodnog prava."
+    },
+    {
+      "article_number": "5",
+      "title": "Vrste krivičnopravnih sankcija",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0005.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0005.txt",
+      "paragraph_count": 1,
+      "content_preview": "Krivičnopravne sankcije su: kazne, uvjetna osuda, mjere sigurnosti i odgojne mjere."
+    },
+    {
+      "article_number": "6",
+      "title": "Svrha krivičnopravnih sankcija",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0006.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0006.txt",
+      "paragraph_count": 3,
+      "content_preview": "Svrha krivičnopravnih sankcija je:\n\na) zaštita društva od izvršenja krivičnih djela preventivnim uticanjem na druge da poštuju\npravni sistem i ne počine krivična djela te sprečavanjem počinioca da počini krivična djela kao\ni podsticanje njegovog preo"
+    },
+    {
+      "article_number": "7",
+      "title": "Ograničenja u izvršenju krivičnopravnih sankcija",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0007.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0007.txt",
+      "paragraph_count": 1,
+      "content_preview": "Učinitelju krivičnog djela u izvršenju krivičnopravne sankcije mogu biti oduzeta ili ograničena\nodređena prava samo u mjeri koja odgovara prirodi i sadržini te sankcije i samo na način kojim\nse osigurava poštivanje osobe učinitelja i njegovo ljudsko "
+    },
+    {
+      "article_number": "8",
+      "title": "Primjena krivičnog zakonodavstva prema svakome ko na teritoriji Bosne i Hercegovine počini krivično djelo",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0008.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0008.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema svakome ko počini\nkrivično djelo na teritoriji Bosne i Hercegovine.\n\n(2) Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema svakome ko počini\nkrivično djelo na domaćem p"
+    },
+    {
+      "article_number": "9",
+      "title": "Primjena krivičnog zakonodavstva Bosne i Hercegovine za krivična djela počinjena izvan Bosne i Hercegovine",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0009.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0009.txt",
+      "paragraph_count": 9,
+      "content_preview": "(1) Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema svakome ko izvan\nnjene\nteritorije počini:\n\na) bilo koje krivično djelo protiv integriteta Bosne i Hercegovine iz glave XVI (Krivična djela\nprotiv integriteta Bosne i Hercegovine) ovo"
+    },
+    {
+      "article_number": "10",
+      "title": "Primjena krivičnog zakonodavstva Bosne i Hercegovine prema maloljetnicima",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0010.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0010.txt",
+      "paragraph_count": 1,
+      "content_preview": "Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se prema maloljetnicima u skladu s\nglavom X (Pravila o odgojnim preporukama, odgojnim mjerama i o kažnjavanju maloljetnika)\novog zakona i drugim zakonima Bosne i Hercegovine."
+    },
+    {
+      "article_number": "11",
+      "title": "Primjena krivičnog zakonodavstva Bosne i Hercegovine na pravna lica",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0011.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0011.txt",
+      "paragraph_count": 1,
+      "content_preview": "Krivično zakonodavstvo Bosne i Hercegovine primjenjuje se na pravna lica u skladu s glavom\nXIV (Odgovornost pravnih lica za krivična djela) ovog zakona i drugim zakonima Bosne i\nHercegovine."
+    },
+    {
+      "article_number": "12",
+      "title": "Isključenje primjene krivičnog zakonodavstva Bosne i Hercegovine prema djeci",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0012.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0012.txt",
+      "paragraph_count": 1,
+      "content_preview": "Krivično zakonodavstvo Bosne i Hercegovine ne primjenjuje se prema djetetu."
+    },
+    {
+      "article_number": "13",
+      "title": "Primjena općeg dijela ovog zakona",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0013.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0013.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Odredbe općeg dijela ovog zakona primjenjuju se prema učiniteljima svih krivičnih djela\npropisanih u zakonima Bosne i Hercegovine.\n\n(2) Odredbe općeg dijela ovog zakona primjenjuju se prema maloljetnicima, osim ako\nzakonom nije drugačije propisan"
+    },
+    {
+      "article_number": "14",
+      "title": "Zastarjelost krivičnog gonjenja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0014.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0014.txt",
+      "paragraph_count": 8,
+      "content_preview": "(1) Ako u ovom zakonu nije drukčije propisano, krivično gonjenje ne može se poduzeti kad\nod učinjenja krivičnog djela protekne:\n\na) tridesetpet godina za krivično djelo s propisanom kaznom dugotrajnog zatvora;\n\nb) dvadeset godina za krivično djelo s "
+    },
+    {
+      "article_number": "15",
+      "title": "Tok i prekid zastarjelosti krivičnog gonjenja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0015.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0015.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1)  Zastarijevanje krivičnog gonjenja počinje od dana kad  je krivično  djelo učinjeno.\nZastarijevanje krivičnog gonjenja za krivična djela trajnog karaktera počinje teći u\ntrenutku prestanka protupravnog stanja.\n\n(2) Zastarijevanje ne teče za vrije"
+    },
+    {
+      "article_number": "16",
+      "title": "Zastarjelost izvršenja kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0016.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0016.txt",
+      "paragraph_count": 7,
+      "content_preview": "Ako u ovom zakonu nije drukčije propisano, izrečena kazna neće se izvršiti kad od dana\npravomoćnosti presude kojom je kazna izrečena protekne:\n\na) tridesetpet godina ako je izrečena kazna dugotrajnog zatvora;\n\nb) dvadeset godina ako je izrečena kazna"
+    },
+    {
+      "article_number": "17",
+      "title": "Zastarjelost izvršenja sporednih kazni i mjera sigurnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0017.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0017.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Zastarjelost izvršenja novčane kazne kao sporedne kazne nastupa kad protekne dvije\ngodine od dana pravomoćnosti presude kojom je ta kazna izrečena.\n\n(2)  Zastarjelost  izvršenja  mjere  sigurnosti obaveznog  psihijatrijskog  liječenja  i mjere\nsi"
+    },
+    {
+      "article_number": "18",
+      "title": "Tok i prekid zastarijevanja izvršenja kazne i mjera sigurnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0018.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0018.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1)  Zastarijevanje izvršenja kazne počinje od dana pravomoćnosti presude kojom je kazna\nizrečena, a u slučaju opoziva uvjetne osude, od dana pravomoćnosti odluke o opozivu uvjetne\nosude.\n\n(2) Zastarijevanje ne teče za vrijeme za koje se po zakonu iz"
+    },
+    {
+      "article_number": "19",
+      "title": "Nezastarivost krivičnog gonjenja i izvršenja kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0019.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0019.txt",
+      "paragraph_count": 1,
+      "content_preview": "Krivično gonjenje i izvršenje kazne ne zastarijeva za krivična djela genocida, zločina protiv\nčovječnosti te ratnih zločina, kao ni za krivična djela za koja po međunarodnom pravu\nzastarjelost ne može nastupiti."
+    },
+    {
+      "article_number": "20",
+      "title": "Krivično djelo",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0020.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0020.txt",
+      "paragraph_count": 1,
+      "content_preview": "Krivično djelo je protupravno djelo koje je zakonom propisano kao krivično djelo, čija su\nobilježja propisana zakonom i za koje je zakonom propisana krivičnopravna sankcija."
+    },
+    {
+      "article_number": "21",
+      "title": "Način učinjenja krivičnog djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0021.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0021.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Krivično djelo može se učiniti činjenjem ili nečinjenjem.\n\n(2) Krivično djelo je učinjeno nečinjenjem kad je učinitelj koji je pravno obavezan spriječiti\nnastupanje zakonom opisane posljedice krivičnog djela to propustio  učiniti, a takvo  je\npro"
+    },
+    {
+      "article_number": "22",
+      "title": "Vrijeme učinjenja krivičnog djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0022.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0022.txt",
+      "paragraph_count": 1,
+      "content_preview": "Krivično djelo je učinjeno u vrijeme kad je učinitelj radio ili bio dužan raditi, bez obzira na to\nkad je posljedica činjenja ili nečinjenja nastupila."
+    },
+    {
+      "article_number": "23",
+      "title": "Mjesto učinjenja krivičnog djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0023.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0023.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Krivično djelo je učinjeno kako u mjestu gdje je učinitelj radio ili je bio dužan raditi, tako i\nu mjestu gdje je posljedica činjenja ili nečinjenja potpuno ili djelomično nastupila.\n\n(2) Krivično djelo je u slučaju kažnjivog pokušaja učinjeno ka"
+    },
+    {
+      "article_number": "23a",
+      "title": "Beznačajno djelo",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0023a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0023a.txt",
+      "paragraph_count": 1,
+      "content_preview": "Nije krivično djelo ono djelo koje, iako sadrži obilježja krivičnog djela određena zakonom,\nzbog prirode i težine djela, ili načina izvršenja djela, ili neznatnosti ili nepostojanja štetnih\nposljedica, odnosno  pribavljene imovinske  koristi  i  nisk"
+    },
+    {
+      "article_number": "24",
+      "title": "Nužna odbrana",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0024.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0024.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Nije krivično djelo ono djelo koje je učinjeno u nužnoj odbrani.\n\n(2) Nužna je ona odbrana koja je neophodno potrebna da učinitelj od sebe ili drugog odbije\nistovremeni ili direktno predstojeći protupravni napad, a koja je srazmjerna napadu.\n\n(3)"
+    },
+    {
+      "article_number": "25",
+      "title": "Krajnja nužda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0025.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0025.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Nije krivično djelo ono djelo koje je učinjeno u krajnjoj nuždi.\n\n(2) Krajnja nužda postoji kad je djelo učinjeno da učinitelj od sebe  ili drugog otkloni\nistovremenu ili direktno predstojeću neskrivljenu opasnost koja se na drugi način nije mogl"
+    },
+    {
+      "article_number": "25a",
+      "title": "Sila i prijetnja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0025a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0025a.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Nije krivično djelo ono djelo koje je počinjeno pod dejstvom neodoljive sile.\n\n(2) Počinilac koji je počinio krivično djelo pod dejstvom odoljive sile ili prijetnje može se\nblaže kazniti.\n\n(3) U slučaju iz stava (1) ovog člana, počiniocem krivičn"
+    },
+    {
+      "article_number": "26",
+      "title": "Pokušaj",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0026.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0026.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko s umišljajem započne činjenje krivičnog djela, ali ga ne dovrši, kaznit će se za pokušaj\nkrivičnog djela ako se za to krivično djelo može izreći kazna zatvora tri godine ili teža kazna, a\nza pokušaj drugog krivičnog djela kad zakon izričito pr"
+    },
+    {
+      "article_number": "27",
+      "title": "Nepodobni pokušaj",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0027.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0027.txt",
+      "paragraph_count": 1,
+      "content_preview": "Učinitelj koji pokuša učiniti krivično djelo nepodobnim sredstvom  ili prema nepodobnom\npredmetu, može se osloboditi od kazne ili se može blaže kazniti."
+    },
+    {
+      "article_number": "28",
+      "title": "Dobrovoljni odustanak",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0028.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0028.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Učinitelj koji je pokušao učiniti krivično djelo, ali je dobrovoljno odustao od kažnjivog\npokušaja, može se osloboditi od kazne.\n\n(2) U slučaju dobrovoljnog odustanka od kažnjivog pokušaja učinitelj će se kazniti za one\nradnje koje čine neko drug"
+    },
+    {
+      "article_number": "29",
+      "title": "Saučiniteljstvo",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0029.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0029.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ako više osoba, učestvovanjem u učinjenju krivičnog djela ili preduzimajući što drugo čime se\nna odlučujući način doprinosi učinjenju krivičnog djela, zajednički učine krivično djelo, svaka\nod njih kaznit će se kaznom propisanom za to krivično djelo."
+    },
+    {
+      "article_number": "30",
+      "title": "Podstrekavanje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0030.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0030.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko drugog s umišljajem podstrekava da učini krivično djelo kaznit će se kao da ga je sam\nučinio.\n\n(2) Ko drugog s umišljajem podstrekava na učinjenje krivičnog djela za koje se po zakonu može\nizreći kazna zatvora tri godine ili teža kazna, a kriv"
+    },
+    {
+      "article_number": "31",
+      "title": "Pomaganje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0031.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0031.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko drugom s umišljajem pomogne u učinjenju krivičnog djela, kaznit će se kao da ga je\nsam učinio, a može se i blaže kazniti.\n\n(2) Kao pomaganje u učinjenju krivičnog djela smatra se osobito: davanje savjeta ili uputa kako\nda se učini krivično dje"
+    },
+    {
+      "article_number": "32",
+      "title": "Granice krivice i kažnjivosti saučesnika",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0032.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0032.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1)  Saučinitelj je kriv u granicama svojeg umišljaja  ili nehata, a podstrekač  i pomagač u\ngranicama svog umišljaja.\n\n(2) Saučinitelja, podstrekača ili pomagača koji dobrovoljno spriječi učinjenje krivičnog djela\nsud će oslobodit od kazne.\n\n(3) Oso"
+    },
+    {
+      "article_number": "33",
+      "title": "Sadržaj krivice",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0033.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0033.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Krivica postoji ako je počinilac u vrijeme izvršenja krivičnog djela bio uračunljiv i pri\ntome postupao s umišljajem.\n\n(2) Krivica za krivično djelo postoji i ako je počinilac postupao iz nehata, ako je to zakonom\nizričito predviđeno."
+    },
+    {
+      "article_number": "34",
+      "title": "Uračunljivost",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0034.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0034.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Nije uračunljiva osoba koja u vrijeme učinjenja krivičnog djela nije mogla shvatiti značaj\nsvog djela ili nije mogla upravljati svojim postupcima zbog trajne  ili privremene duševne\nbolesti, privremene duševne poremećenosti ili zaostalog duševnog"
+    },
+    {
+      "article_number": "35",
+      "title": "Umišljaj",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0035.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0035.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Krivično djelo može biti učinjeno s direktnim ili eventualnim umišljajem.\n\n(2) Učinitelj postupa s direktnim umišljajem kada je bio svjestan svog djela i htio njegovo\nučinjenje.\n\n(3) Učinitelj postupa s eventualnim umišljajem kada je bio svjestan"
+    },
+    {
+      "article_number": "36",
+      "title": "Nehat",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0036.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0036.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Krivično djelo može biti učinjeno iz svjesnog ili nesvjesnog nehata.\n\n(2) Učinitelj postupa iz svjesnog nehata kada je bio svjestan da zbog njegovog činjenja ili\nnečinjenja može nastupiti zabranjena posljedica, ali je olahko držao da ona neće nas"
+    },
+    {
+      "article_number": "37",
+      "title": "Stvarna zabluda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0037.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0037.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Nije kriv počinilac koji počini djelo u neotklonjivoj stvarnoj zabludi.\n\n(2) Stvarna zabluda je neotklonjiva ako počinilac u vrijeme izvršenja krivičnog djela nije bio\nsvjestan nekog njegovog zakonom propisanog obilježja, ili je pogrešno smatrao "
+    },
+    {
+      "article_number": "38",
+      "title": "Pravna zabluda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0038.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0038.txt",
+      "paragraph_count": 1,
+      "content_preview": "Učinitelj krivičnog djela koji iz opravdanih razloga nije znao da je to djelo zabranjeno, može\n  se blaže kazniti ili osloboditi od kazne."
+    },
+    {
+      "article_number": "39",
+      "title": "Svrha kažnjavanja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0039.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0039.txt",
+      "paragraph_count": 5,
+      "content_preview": "Svrha kažnjavanja je:\n\n  a) da se izrazi društvena osuda učinjenog krivičnog djela;\n\n  b) da se utječe na učinitelja da ubuduće ne čini krivična djela i podstakne njegov preodgoj;\n\n  c) da se utječe na ostale da ne čine krivična djela;\n\n  d) i da se "
+    },
+    {
+      "article_number": "40",
+      "title": "Vrste kazni",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0040.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0040.txt",
+      "paragraph_count": 1,
+      "content_preview": "Počiniocu krivičnog djela koji je kriv mogu se izreći:\n  a) kazna zatvora;\n  b) kazna dugotrajnog zatvora;\n  c) novčana kazna."
+    },
+    {
+      "article_number": "41",
+      "title": "Glavna i sporedna kazna",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0041.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0041.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Kazna zatvora može se izreći samo kao glavna kazna.\n\n  (2) Novčana kazna može se izreći i kao glavna i kao sporedna kazna.\n\n  (3) Ako su za jedno krivično djelo propisane obje kazne, samo se jedna može izreći kao glavna.\n\n  (4) Za krivična djela "
+    },
+    {
+      "article_number": "42",
+      "title": "Kazna zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0042.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0042.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Kazna zatvora ne može biti kraća od 30 dana ni duža od 20 godina.\n\n (2) Kazna zatvora izriče se na pune godine i mjesece, a do šest mjeseci i na pune dane.\n\n (3) Kazna zatvora iz ovog člana ne može se izreći maloljetnicima. Maloljetnicima se može"
+    },
+    {
+      "article_number": "42a",
+      "title": "Zamjena kazne zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0042a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0042a.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Izrečena kazna zatvora do jedne godine će se, na zahtjev osuđenog, zamijeniti novčanom\nkaznom koja se plaća u jednokratnom iznosu u roku do 30 dana.\n\n (2) Kazna zatvora zamjenjuje se novčanom kaznom tako što se svaki dan izrečene kazne\n zatvora i"
+    },
+    {
+      "article_number": "42b",
+      "title": "Kazna dugotrajnog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0042b.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0042b.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Za najteže oblike teških krivičnih djela počinjenih s umišljajem može se propisati kazna\n dugotrajnog zatvora u trajanju od 21 do 45 godina.\n\n (2) Kazna dugotrajnog zatvora nikad se ne može propisati kao jedina glavna kazna za\n pojedino krivično "
+    },
+    {
+      "article_number": "43",
+      "title": "Rad za opće dobro na slobodi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0043.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0043.txt",
+      "paragraph_count": 7,
+      "content_preview": "(1) Kad sud odmjeri i izrekne kaznu zatvora do jedne godine, istovremeno može odrediti da se\nizrečena kazna, uz pristanak optuženog, zamijeni radom za opće dobro na slobodi.\n\n(2) Odluka da se kazna zatvora zamijeni radom za opće dobro na slobodi zasn"
+    },
+    {
+      "article_number": "44",
+      "title": "Uvjetni otpust",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0044.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0044.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Osuđeni koji je izdržao polovinu, te izuzetno osuđeni koji je izdržao jednu trećinu kazne\nzatvora, može biti oslobođen izdržavanja kazne zatvora pod uvjetom da ne učini novo krivično\ndjelo prije isteka trajanja kazne (uvjetni otpust).\n\n(2) Osuđen"
+    },
+    {
+      "article_number": "45",
+      "title": "Opoziv uvjetnog otpusta",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0045.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0045.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1)Sud će opozvati uvjetni otpust ako osuđeni za vrijeme uvjetnog otpusta učini jedno ili više\nkrivičnih djela za koja mu je izrečena kazna zatvora preko jedne godine ili teža kazna.\n(2)Sud može opozvati uvjetni otpust ako osuđeni na uvjetnom otpustu"
+    },
+    {
+      "article_number": "46",
+      "title": "Novčana kazna",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0046.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0046.txt",
+      "paragraph_count": 10,
+      "content_preview": "(1) Novčana kazna se izriče u dnevnim iznosima, a ako to nije moguće može se izreći u\nodređenom iznosu.\n\n(2) Ako se novčana kazna izriče u dnevnim iznosima, može iznositi najmanje pet a najviše\ntristošestdeset dnevnih iznosa, a za krivična djela učin"
+    },
+    {
+      "article_number": "47",
+      "title": "Zamjena novčane kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0047.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0047.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Novčana kazna se ne naplaćuje prinudno.\n\n(2) Ako se novčana kazna ne plati u roku koji je utvrđen presudom, sud će bez odlaganja\ndonijeti odluku da se novčana kazna zamijeni kaznom zatvora.\n\n(3) Novčana kazna će se zamijeniti kaznom zatvora tako "
+    },
+    {
+      "article_number": "48",
+      "title": "Opća pravila za odmjeravanje kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0048.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0048.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Sud će učinitelju krivičnog djela odmjeriti kaznu u granicama koje su zakonom propisane\nza to krivično djelo, imajući u vidu svrhu kažnjavanja i uzimajući u obzir sve okolnosti koje\nutječu da kazna bude manja ili veća (olakšavajuće i otežavajuće "
+    },
+    {
+      "article_number": "49",
+      "title": "Ublažavanje kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0049.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0049.txt",
+      "paragraph_count": 3,
+      "content_preview": "Sud može učinitelju odmjeriti kaznu ispod granice propisane zakonom ili izreći blažu vrstu\nkazne:\n\na) kad zakon propisuje da se učinitelj može blaže kazniti;\n\nb) kad sud utvrdi da postoje osobito olakšavajuće okolnosti koje ukazuju da se i s ublaženo"
+    },
+    {
+      "article_number": "50",
+      "title": "Granice ublažavanja kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0050.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0050.txt",
+      "paragraph_count": 9,
+      "content_preview": "(1) Kad postoje uvjeti za ublažavanje kazne iz člana 49. (Ublažavanje kazne) ovog zakona,\nsud će ublažiti kaznu u ovim granicama:\n\n    a) ako je za krivično djelo kao najmanja mjera kazne propisana kazna zatvora od deset ili\n       više godina, kazna"
+    },
+    {
+      "article_number": "51",
+      "title": "Oslobođenje od kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0051.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0051.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Sud može osloboditi od kazne učinitelja krivičnog djela kad to zakon izričito propisuje.\n\n(2) Kad je sud ovlašten učinitelja krivičnog djela osloboditi od kazne, može mu kaznu ublažiti\nbez ograničenja propisanih za ublažavanje kazne u članu 49. ("
+    },
+    {
+      "article_number": "52",
+      "title": "Poseban slučaj oslobođenja od kazne za krivična djela počinjena iz nehata",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0052.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0052.txt",
+      "paragraph_count": 1,
+      "content_preview": "Sud može osloboditi od kazne učinitelja krivičnog djela učinjenog iz nehata, kad posljedice\ndjela tako teško pogađaju učinitelja da izricanje kazne u takvom slučaju očigledno ne bi\nodgovaralo svrsi kažnjavanja."
+    },
+    {
+      "article_number": "53",
+      "title": "Stjecaj krivičnih djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0053.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0053.txt",
+      "paragraph_count": 10,
+      "content_preview": "(1) Ako je počinilac jednom radnjom ili s više radnji počinio više krivičnih djela za koja mu se\nistovremeno sudi, sud će prvo utvrditi kazne za svako od tih krivičnih djela, pa će za sva\nkrivična djela izreči jedinstvenu kaznu dugotrajnog zatvora, j"
+    },
+    {
+      "article_number": "54",
+      "title": "Produženo krivično djelo",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0054.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0054.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Odredbe ovog zakona o sticaju krivičnih djela neće se primijeniti kada učinilac učini\nproduženo krivično djelo.\n\n(2) Produženo krivično djelo je učinjeno kad je učinilac s umišljajem učinio više istih  ili\nistovrsnih krivičnih djela koja s obziro"
+    },
+    {
+      "article_number": "55",
+      "title": "Odmjeravanje kazne osuđenoj osobi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0055.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0055.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ako se osuđenoj osobi sudi za krivično djelo učinjeno prije nego što je započela izdržavanje\nkazne po ranijoj osudi, ili za krivično djelo učinjeno za vrijeme izdržavanja kazne zatvora,\nkazne dugotrajnog zatvora ili kazne maloljetničkog zatvora, "
+    },
+    {
+      "article_number": "56",
+      "title": "Uračunavanje pritvora i ranije kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0056.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0056.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Vrijeme provedeno u pritvoru, kao  i svako lišenje slobode u vezi s krivičnim djelom,\nuračunavaju se u izrečenu kaznu zatvora, kaznu dugotrajnog zatvora, kaznu maloljetničkog\nzatvora ili novčanu kaznu.\n\n(2)  Pri svakom  uračunavanju  izjednačava "
+    },
+    {
+      "article_number": "57",
+      "title": "Uračunavanje pritvora i kazne izdržane u inostranstvu",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0057.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0057.txt",
+      "paragraph_count": 1,
+      "content_preview": "Pritvor, lišenje slobode u toku ekstradicijskog postupka, kao i kazna koju je učinitelj izdržao po\npresudi inostranog suda uračunat će se u kaznu koju izrekne domaći sud za isto krivično djelo,\na ako kazne nisu iste vrste, uračunavanje će se izvršiti"
+    },
+    {
+      "article_number": "58",
+      "title": "Svrha uvjetne osude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0058.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0058.txt",
+      "paragraph_count": 1,
+      "content_preview": "Svrha uvjetne osude je da se učinitelju krivičnog djela uputi upozorenje uz prijetnju kaznom\n(uvjetna osuda) kojim se omogućava ostvarenje svrhe krivičnopravnih sankcija izricanjem\nkazne bez njezinog izvršenja, kad izvršenje kazne nije nužno radi kri"
+    },
+    {
+      "article_number": "59",
+      "title": "Uvjetna osuda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0059.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0059.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Uvjetnom osudom sud učinitelju krivičnog djela utvrđuje kaznu i istodobno određuje da se\nona neće izvršiti ako osuđeni za vrijeme koje odredi sud, a koje ne može biti kraće od jedne ni\nduže od pet godina (vrijeme provjeravanja), ne učini novo kri"
+    },
+    {
+      "article_number": "60",
+      "title": "Obaveze učinitelja kojem je izrečena uvjetna osuda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0060.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0060.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Sud može u uvjetnoj osudi odrediti ispunjavanje slijedećih obaveza: da će osuđeni vratiti\nimovinsku korist pribavljenu krivičnim djelom, da će nadoknaditi štetu koju je prouzrokovao\nkrivičnim djelom, ili ispunjavanje druge obaveze predviđene kriv"
+    },
+    {
+      "article_number": "61",
+      "title": "Opoziv uvjetne osude zbog novog krivičnog djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0061.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0061.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Sud će opozvati uvjetnu osudu ako osuđeni u toku vremena provjeravanja učini jedno ili\nviše krivičnih djela za koja je izrečena kazna zatvora od dvije godine ili teža kazna.\n\n(2) Ako osuđeni u vrijeme provjeravanja učini jedno ili više krivičnih "
+    },
+    {
+      "article_number": "62",
+      "title": "Opoziv uvjetne osude zbog ranije učinjenog krivičnog djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0062.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0062.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Sud će opozvati uvjetnu osudu ako poslije njezinog izricanja utvrdi da je osuđeni učinio\nkrivično djelo prije nego što je uvjetno osuđen i ako ocijeni da ne bi bilo osnova za izricanje\nuvjetne osude da se znalo za to krivično djelo. U tom slučaju"
+    },
+    {
+      "article_number": "63",
+      "title": "Opoziv uvjetne osude zbog neispunjenja izrečenih obaveza",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0063.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0063.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Sud će opozvati uvjetnu osudu i izreći izvršenje izrečene kazne ako osuđeni u određenom\nvremenu provjeravanja ne ispuni izrečenu obavezu u slučajevima kada je mogao ispuniti tu\nobavezu.\n\n(2) U slučaju nemogućnosti ispunjavanja izrečene obaveze, s"
+    },
+    {
+      "article_number": "64",
+      "title": "Rokovi za opoziv uvjetne osude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0064.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0064.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Uvjetna osuda se može opozvati u toku vremena provjeravanja.\n\n(2) Ako osuđeni u toku vremena provjeravanja učini krivično djelo koje povlači opoziv uvjetne\nosude, a to je presudom utvrđeno tek poslije isteka vremena provjeravanja, uvjetna\n\nosuda "
+    },
+    {
+      "article_number": "65",
+      "title": "Uvjetna osuda sa zaštitnim nadzorom",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0065.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0065.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Sud može odrediti da se učinitelj, kome je izrečena uvjetna osuda, stavi pod zaštitni nadzor\nako s obzirom na okolnosti učinjenja krivičnog djela, osobu učinitelja, njegov raniji život i\ndržanje poslije učinjenog krivičnog djela smatra da će se u"
+    },
+    {
+      "article_number": "66",
+      "title": "Sadržaj zaštitnog nadzora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0066.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0066.txt",
+      "paragraph_count": 7,
+      "content_preview": "Zaštitni nadzor može obuhvatiti ove obaveze:\n\na) liječenje u odgovarajućoj zdravstvenoj ustanovi;\n\nb) uzdržavanje od upotrebe alkoholnih pića ili opojnih droga;\n\nc) posjećivanje određenih psihijatrijskih, psiholoških i drugih savjetovališta i postupa"
+    },
+    {
+      "article_number": "67",
+      "title": "Određivanje zaštitnog nadzora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0067.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0067.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Sud u presudi određuje jednu ili više obaveza iz člana 66. (Sadržaj zaštitnog nadzora) ovog\nzakona utvrđujući njihov sadržaj.\n\n(2) Prilikom određivanja obaveza iz člana 66. ovog zakona sud će naročito uzeti u obzir godine\nživota učinitelja, njego"
+    },
+    {
+      "article_number": "68",
+      "title": "Svrha mjera sigurnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0068.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0068.txt",
+      "paragraph_count": 1,
+      "content_preview": "Svrha mjera sigurnosti je da se otklone stanja ili uvjeti koji mogu utjecati da učinitelj ubuduće\nučini krivična djela."
+    },
+    {
+      "article_number": "69",
+      "title": "Vrste mjera sigurnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0069.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0069.txt",
+      "paragraph_count": 5,
+      "content_preview": "Učiniteljima krivičnih djela mogu se izreći ove mjere sigurnosti:\n\na) obavezno psihijatrijsko liječenje;\n\nb) obavezno liječenje od ovisnosti;\n\nc) zabrana vršenja poziva, djelatnosti ili dužnosti;\n\nd) oduzimanje predmeta."
+    },
+    {
+      "article_number": "70",
+      "title": "Izricanje mjera sigurnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0070.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0070.txt",
+      "paragraph_count": 1,
+      "content_preview": "Sud može učinitelju krivičnog djela izreći jednu ili više mjera sigurnosti kad postoje uvjeti za\nnjihovo izricanje propisani ovim zakonom."
+    },
+    {
+      "article_number": "71",
+      "title": "Obavezno psihijatrijsko liječenje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0071.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0071.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1)  Mjera sigurnosti obaveznog psihijatrijskog liječenja izriče se učinitelju krivičnog djela koji\nje  krivično  djelo  učinio  u  stanju  bitno  smanjene  uračunljivosti,  odnosno  smanjene\nuračunljivosti, ako postoji opasnost da bi uzroci takvog s"
+    },
+    {
+      "article_number": "72",
+      "title": "Obavezno liječenje od ovisnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0072.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0072.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Mjera sigurnosti obaveznog liječenja od ovisnosti može se izreći učinitelju koji je krivično\ndjelo učinio pod odlučujućim djelovanjem ovisnosti od alkohola ili opojnih droga, ako postoji\nopasnost da će zbog te ovisnosti i ubuduće učiniti krivična"
+    },
+    {
+      "article_number": "73",
+      "title": "Zabrana vršenja poziva, djelatnosti ili dužnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0073.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0073.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Mjera sigurnosti zabrane vršenja određenog poziva, djelatnosti ili dužnosti može se izreći\nučinitelju koji je učinio krivično djelo u vezi sa svojim pozivom, djelatnošću ili dužnošću, ako\npostoji opasnost da bi takvo vršenje moglo poticajno djelo"
+    },
+    {
+      "article_number": "74",
+      "title": "Oduzimanje predmeta",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0074.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0074.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Predmeti koji su na bilo koji način, u cjelini ili djelimično, upotrijebljeni ili su bili\nnamijenjeni da budu upotrijebljeni za počinjenje krivičnog djela  ili koji su nastali\npočinjenjem krivičnog djela bit će oduzeti ako su vlasništvo počinioca"
+    },
+    {
+      "article_number": "75",
+      "title": "Primjena posebnih krivičnih odredaba prema maloljetnicima",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0075.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0075.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Na maloljetne učinitelje krivičnih djela primjenjuju se odredbe ove glave ovog zakona, a\nostale krivičnopravne odredbe iz drugih zakona primjenjuju se prema maloljetnicima samo ako\nne izlaze iz okvira utvrđenih posebnim odredbama o maloljetnim uč"
+    },
+    {
+      "article_number": "76",
+      "title": "Uvjeti primjene odgojnih preporuka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0076.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0076.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Prema maloljetnom učinitelju krivičnog djela mogu se primijeniti odgojne preporuke za\nkrivična djela s propisanom novčanom kaznom ili kaznom zatvora do tri godine.\n\n(2) Odgojne preporuke prema maloljetniku može primijeniti nadležni tužitelj ili s"
+    },
+    {
+      "article_number": "77",
+      "title": "Svrha odgojnih preporuka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0077.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0077.txt",
+      "paragraph_count": 3,
+      "content_preview": "Svrha odgojnih preporuka je:\n\na) da se ne pokreće krivični postupak prema maloljetnom učinitelju krivičnog djela;\n\nb) i da se primjenom odgojnih preporuka utječe na maloljetnika da ubuduće ne učini krivična\n    djela."
+    },
+    {
+      "article_number": "78",
+      "title": "Vrste odgojnih preporuka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0078.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0078.txt",
+      "paragraph_count": 10,
+      "content_preview": "(1) Odgojne preporuke su:\n\n    a) osobno izvinjenje oštećenom;\n\n   b) naknada štete oštećenom;\n\n    c) redovno pohađanje škole;\n\n   d) rad u korist humanitarne organizacije ili lokalne zajednice;\n\n    e) prihvaćanje odgovarajućeg zaposlenja;\n\n    f) "
+    },
+    {
+      "article_number": "79",
+      "title": "Izbor odgojnih preporuka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0079.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0079.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Pri izboru odgojnih preporuka ovlašteni tužitelj ili sudija za maloljetnike uzet će u obzir\nsveukupne  interese  maloljetnika  i  oštećenog. Pritom će posebno  voditi  računa da  se\nprimijenjenim odgojnim preporukama ne dovede u pitanje maloljetn"
+    },
+    {
+      "article_number": "80",
+      "title": "Krivične sankcije prema maloljetnicima",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0080.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0080.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Maloljetnom učinitelju krivičnog djela mogu se izreći odgojne mjere i određene mjere\nsigurnosti, a starijem maloljetniku izuzetno se može izreći kazna maloljetničkog zatvora.\n\n(2) Maloljetniku koji je u vrijeme učinjenja krivičnog djela navršio č"
+    },
+    {
+      "article_number": "81",
+      "title": "Svrha odgojnih mjera i kazne maloljetničkog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0081.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0081.txt",
+      "paragraph_count": 1,
+      "content_preview": "Svrha odgojnih mjera  i kazne maloljetničkog zatvora je da se pružanjem zaštite  i pomoći\nmaloljetnim  učiniteljima  krivičnih   djela,  nadzorom  nad  njima,  njihovim  stručnim\nosposobljavanjem i razvijanjem njihove osobne odgovornosti osigura njih"
+    },
+    {
+      "article_number": "82",
+      "title": "Vrste odgojnih mjera",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0082.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0082.txt",
+      "paragraph_count": 7,
+      "content_preview": "(1) Odgojne mjere su:\n\n    a) disciplinske mjere;\n\n   b) mjere pojačanog nadzora;\n\n    c) zavodske mjere.\n\n(2) Disciplinske mjere izriču se maloljetnom učinitelju krivičnog djela kojem nije potrebno\nizreći trajnije mjere odgoja i preodgoja, naročito "
+    },
+    {
+      "article_number": "83",
+      "title": "Odgojne mjere",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0083.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0083.txt",
+      "paragraph_count": 4,
+      "content_preview": "Maloljetnom učinitelju krivičnog djela mogu se izreći ove odgojne mjere:\n\na) disciplinska mjera upućivanja u disciplinski centar za maloljetnike;\n\nb) mjere pojačanog nadzora: od strane roditelja, usvojitelja ili staratelja; u drugoj obitelji; ili\n   "
+    },
+    {
+      "article_number": "84",
+      "title": "Izbor odgojne mjere",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0084.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0084.txt",
+      "paragraph_count": 1,
+      "content_preview": "Pri izboru odgojne mjere sud će uzeti u obzir godine života maloljetnika, stepen njegove\nduševne razvijenosti, njegova psihička svojstva, njegove sklonosti, pobude iz kojih je krivično\ndjelo učinio, dotadašnji odgoj, sredinu i prilike u kojima je živ"
+    },
+    {
+      "article_number": "85",
+      "title": "Upućivanje u disciplinski centar za maloljetnike",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0085.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0085.txt",
+      "paragraph_count": 8,
+      "content_preview": "(1) Sud će izreći odgojnu mjeru upućivanja u disciplinski centar za maloljetnike kad je\npotrebno da se odgovarajućim kratkotrajnim mjerama utječe na osobu i vladanje maloljetnog\nučinitelja krivičnog djela.\n\n(2) Maloljetnika kome je izrečena mjera iz "
+    },
+    {
+      "article_number": "86",
+      "title": "Pojačan nadzor roditelja, usvojitelja ili staratelja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0086.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0086.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Odgojnu mjeru pojačanog nadzora roditelja, usvojitelja ili staratelja sud će izreći ako su\nroditelji, usvojitelj ili staratelj propustili nadzor nad maloljetnikom a u mogućnosti su da takav\nnadzor vrše.\n\n(2) Pri izricanju odgojne mjere iz stava 1"
+    },
+    {
+      "article_number": "87",
+      "title": "Pojačan nadzor u drugoj obitelji",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0087.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0087.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ako roditelji, usvojitelj ili staratelj nisu u mogućnosti da nad maloljetnikom vrše pojačan\nnadzor ili ako se od njih takav nadzor ne može opravdano očekivati, sud će maloljetniku izreći\nodgojnu mjeru pojačanog nadzora u drugoj obitelji koja je v"
+    },
+    {
+      "article_number": "88",
+      "title": "Pojačan nadzor nadležnog organa socijalne zaštite",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0088.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0088.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ako  roditelji, usvojitelj  ili  staratelj nisu u mogućnosti da vrše pojačan nadzor nad\nmaloljetnikom, a ne postoje ni uvjeti za izricanje odgojne mjere pojačanog nadzora u drugoj\nobitelji, sud će izreći maloljetniku odgojnu mjeru pojačanog nadzo"
+    },
+    {
+      "article_number": "89",
+      "title": "Posebne obaveze uz mjere pojačanog nadzora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0089.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0089.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1)  Pri izricanju neke od odgojnih mjera pojačanog nadzora iz člana 86. (Pojačan nadzor\nroditelja, usvojitelja ili staratelja), 87. (Pojačan nadzor u drugoj obitelji) i 88. (Pojačan nadzor\nnadležnog organa socijalne zaštite) ovog zakona, sud može ma"
+    },
+    {
+      "article_number": "90",
+      "title": "Upućivanje u odgojnu ustanovu",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0090.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0090.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Sud će izreći odgojnu mjeru upućivanja u odgojnu ustanovu za odgoj maloljetnika\nmaloljetniku nad kojim treba osigurati vršenje stalnog nadzora od strane stručnih odgojitelja u\nustanovi za odgoj maloljetnika.\n\n(2) U odgojnoj ustanovi maloljetnik o"
+    },
+    {
+      "article_number": "91",
+      "title": "Upućivanje u odgojno-popravni dom",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0091.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0091.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Sud će izreći odgojnu mjeru upućivanja u odgojno-popravni dom za maloljetne učinitelje\nkrivičnih djela maloljetniku prema kojem treba primijeniti pojačane mjere preodgoja.\n\n(2) Pri odlučivanju hoće li izreći odgojnu mjeru iz stava 1. ovog člana s"
+    },
+    {
+      "article_number": "92",
+      "title": "Upućivanje u drugu ustanovu za osposobljavanje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0092.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0092.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Maloljetniku ometenom u psihičkom ili fizičkom razvoju sud može umjesto odgojne mjere\nupućivanja u odgojnu ustanovu ili odgojne mjere uućivanja u odgojno-popravni dom izreći\nodgojnu mjeru upućivanja u drugu ustanovu za osposobljavanje.\n\n(2) Malol"
+    },
+    {
+      "article_number": "93",
+      "title": "Obustava izvršenja i izmjena odluke o odgojnim mjerama",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0093.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0093.txt",
+      "paragraph_count": 7,
+      "content_preview": "(1) Kad se poslije donošenja odluke kojom je izrečena odgopjne mjera pojačanog nadzora ili\nzavodska odgojna mjera pojave okolnosti kojih nije bilo u vrijeme donošenja odluke ili se za\n\nnjih nije znalo, a one bi bile od utjecaja na donošenje odluke, i"
+    },
+    {
+      "article_number": "94",
+      "title": "Ponovno odlučivanje o odgojnim mjerama",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0094.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0094.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ako je od pravomoćnosti odluke kojom je izrečena odgojna mjera pojačanog nadzora ili\nzavodska odgojna mjera proteklo više od jedne godine, a izvršenje nije započeto, sud će\nponovno odlučiti o potrebi izvršenja izrečene mjere. Pri tome sud može od"
+    },
+    {
+      "article_number": "95",
+      "title": "Kažnjavanje starijih maloljetnika",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0095.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0095.txt",
+      "paragraph_count": 1,
+      "content_preview": "Kazniti se može samo stariji maloljetnik koji je učinio krivično djelo s propisanom kaznom\nzatvora težom od pet godina, a zbog teških posljedica djela  i stepena krivice ne bi bilo\nopravdano izreći odgojnu mjeru."
+    },
+    {
+      "article_number": "96",
+      "title": "Kazna maloljetničkog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0096.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0096.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Kazna maloljetničkog zatvora ne može biti kraća od jedne ni duža od deset godina, a izriče\nse na pune godine ili na pola godine.\n\n(2) Pri odmjeravanju kazne starijem maloljetniku za krivično djelo sud ne može izreći kaznu\nmaloljetničkog zatvora u"
+    },
+    {
+      "article_number": "97",
+      "title": "Odmjeravanje kazne maloljetničkog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0097.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0097.txt",
+      "paragraph_count": 1,
+      "content_preview": "Pri odmjeravanju kazne maloljetničkog zatvora starijem maloljetniku, sud će uzeti u obzir sve\nokolnosti koje utječu da kazna bude manja ili veća (član 48. Opća pravila o odmjeravanju\nkazne), imajući posebno u vidu stepen duševne razvijenosti maloljet"
+    },
+    {
+      "article_number": "98",
+      "title": "Izricanje odgojnih mjera i kazne maloljetničkog zatvora za krivična djela u stjecaju",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0098.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0098.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Za krivična djela u stjecaju sud izriče maloljetniku samo jednu odgojnu mjeru ili samo\nkaznu maloljetničkog zatvora kad postoje zakonski uvjeti za izricanje te kazne i kad sud ocijeni\nda je treba izreći.\n\n(2) Po odredbi stava 1. ovog člana sud će"
+    },
+    {
+      "article_number": "99",
+      "title": "Zastarjelost izvršenja kazne maloljetničkog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0099.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0099.txt",
+      "paragraph_count": 4,
+      "content_preview": "Kazna maloljetničkog zatvora neće se izvršiti kad od dana pravomoćnosti presude kojom je\nkazna izrečena protekne:\n\na) deset godina ako je izrečena kazna maloljetničkog zatvora preko pet godina;\n\nb) pet godina ako je izrečena kazna maloljetničkog zatv"
+    },
+    {
+      "article_number": "100",
+      "title": "Izricanje krivičnopravnih sankcija punoljetnim osobama za krivična djela koja su učinile kao maloljetnici",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0100.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0100.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Punoljetnoj osobi koja je navršila dvadeset i jednu godinu života ne može se suditi za\nkrivično djelo koje je učinila kao mlađi maloljetnik.\n\n(2) Ako punoljetna osoba u vrijeme suđenja nije navršila dvadeset i jednu godinu života, može\njoj se sud"
+    },
+    {
+      "article_number": "101",
+      "title": "Izricanje odgojnih mjera mlađim punoljetnim osobama",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0101.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0101.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Učinitelju koji je kao punoljetan učinio krivično djelo, a u vrijeme suđenja nije navršio\ndvadeset i jednu godinu života, sud može izreći odgovarajuću zavodsku odgojnu mjeru ako se,\ns obzirom na njegovu ličnost i okolnosti pod kojima je krivično "
+    },
+    {
+      "article_number": "102",
+      "title": "Izricanje mjera sigurnosti maloljetniku",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0102.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0102.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Maloljetnom  učinitelju krivičnog  djela kojem  je izrečena odgojna mjera  ili kazna\nmaloljetničkog zatvora mogu se, pod uvjetima propisanim zakonom, izreći mjere sigurnosti iz\nčlana 69. (Vrste mjera sigurnosti) tačke a., b. i d. ovog zakona.\n\n(2"
+    },
+    {
+      "article_number": "103",
+      "title": "Učinak kazne na odgojne mjere",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0103.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0103.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ako  za  vrijeme  trajanja odgojne mjere sud  izrekne  starijem  maloljetniku kaznu\nmaloljetničkog zatvora, odgojna mjera prestaje kad maloljetnik započne izdržavanje te kazne.\n\n(2) Ako za vrijeme trajanja odgojne mjere sud izrekne punoljetnoj os"
+    },
+    {
+      "article_number": "104",
+      "title": "Učinak odgojnih mjera i kazne maloljetničkog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0104.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0104.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Odgojne mjere i kazna maloljetničkog zatvora ne posljeduju pravnim posljedicama osude\nkoje se sastoje u zabrani sticanja određenih prava iz člana 114. (Vrste pravnih posljedica osude)\nstava 2. ovog zakona.\n\n(2) Na osobe koje izdržavaju odgojnu mj"
+    },
+    {
+      "article_number": "105",
+      "title": "Evidencija o izrečenim odgojnim mjerama",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0105.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0105.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Evidenciju o izrečenim odgojnim mjerama vode nadležni organi socijalne zaštite na temelju\npropisa koje donosi organ nadležno za poslove  socijalne  zaštite u  Federaciji Bosne  i\nHercegovine, Republici Srpskoj ili Brčko Distriktu Bosne i Hercegov"
+    },
+    {
+      "article_number": "106",
+      "title": "Izvršenje kazne zatvora i kazne dugotrajnog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0106.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0106.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Kazna zatvora i kazna maloljetničkog zatvora izvršavaju se u zatvorenim, poluotvorenim\nili otvorenim ustanovama za izdržavanje kazne.\n\n(2) Kazna dugotrajnog zatvora izvršava se u zatvorenim ustanovama za izdržavanje kazne."
+    },
+    {
+      "article_number": "107",
+      "title": "Granice izvršenja kazni",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0107.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0107.txt",
+      "paragraph_count": 1,
+      "content_preview": "Osoba prema kojoj se izvršava kazna lišava se prava ili se ograničava u pravima, u skladu sa\nzakonom, samo u granicama nužnim da bi se ostvarila svrha pojedinih kazni."
+    },
+    {
+      "article_number": "108",
+      "title": "Rad osuđenih osoba",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0108.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0108.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Osoba osuđena na kaznu zatvora, kaznu dugotrajnog zatvora ili kaznu maloljetničkog\nzatvora, koja je sposobna za rad, može raditi ukoliko ona na to pristane.\n\n(2) Ako osuđena osoba traži ili pristane na rad, rad će joj se omogućiti.\n\n(3) Rad osuđe"
+    },
+    {
+      "article_number": "109",
+      "title": "Izvršavanje kazne maloljetničkog zatvora",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0109.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0109.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Prema starijem maloljetniku, dok ne navrši osamnaest godina života, kazna maloljetničkog\nzatvora izvršava se u posebnim kazneno-popravnim ustanovama za maloljetnike. Prema osobi\nkoja je navršila osamnaest godina života ali nije navršila dvadeset "
+    },
+    {
+      "article_number": "110",
+      "title": "Osnova oduzimanja imovinske koristi pribavljene krivičnim djelom",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0110.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0110.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Niko ne može zadržati imovinsku korist, prihod, profit ili drugu korist iz imovinske\nkoristi pribavljenu krivičnom djelom.\n\n(2) Imovinska korist, prihod, profit ili drugu korist iz imovinske koristi iz stava 1. ovog\nčlana oduzet će se sudskom odl"
+    },
+    {
+      "article_number": "110a",
+      "title": "Prošireno oduzimanje imovinske koristi pribavljene krivičnim djelom",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0110a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0110a.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Kada se krivični postupak vodi za krivična djela iz glava XVII, XVIII, XIX, XXI, XXI A i\nXXII ovog zakona, sud može odlukom iz člana 110. stav (2) oduzeti i onu imovinsku korist,\nprihod, profit ili drugu korist iz imovinske koristi za koju tužila"
+    },
+    {
+      "article_number": "111",
+      "title": "Način oduzimanja imovinske koristi pribavljene krivičnim djelom",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0111.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0111.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Od učinitelja će se oduzeti novac, predmeti od vrijednosti i svaka druga imovinska korist\nkoja je pribavljena krivičnim djelom, a ako oduzimanje nije moguće, učinitelj će se obavezati\nna isplatu novčanog iznosa srazmjernog pribavljenoj imovinskoj"
+    },
+    {
+      "article_number": "112",
+      "title": "Zaštita oštećenog",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0112.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0112.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ako je oštećenom u krivičnom postupku dosuđen imovinskopravni zahtjev, sud će izreći\noduzimanje  imovinske  koristi  ukoliko  ona  prelazi  dosuđeni  imovinskopravni  zahtjev\noštećenog.\n\n(2) Oštećeni koji je u krivičnom postupku u pogledu svog im"
+    },
+    {
+      "article_number": "113",
+      "title": "Nastupanje pravnih posljedica osude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0113.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0113.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Osude za određena krivična djela mogu imati za pravnu posljedicu prestanak, odnosno\ngubitak određenih prava ili zabranu sticanja određenih prava.\n\n(2) Pravne posljedice osude ne mogu nastupiti kad je za krivično djelo učinitelju izrečena\nnovčana "
+    },
+    {
+      "article_number": "114",
+      "title": "Vrste pravnih posljedica osude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0114.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0114.txt",
+      "paragraph_count": 9,
+      "content_preview": "(1) Pravne posljedice osude koje se odnose na prestanak ili gubitak određenih prava jesu:\n\n    a)  prestanak vršenja određenih poslova ili funkcija u organima vlasti, privrednim\n       društvima ili u drugim pravnim osobama;\n\n   b) prestanak zaposlen"
+    },
+    {
+      "article_number": "115",
+      "title": "Početak i trajanje pravnih posljedica osude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0115.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0115.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Pravne posljedice osude nastupaju danom pravomoćnosti presude.\n\n(2) Pravne posljedice osude koje se sastoje u zabrani sticanja određenih prava traju najduže\ndeset godina od dana izdržane, oproštene ili zastarjele kazne, ako za pojedine pravne pos"
+    },
+    {
+      "article_number": "116",
+      "title": "Prestanak mjera sigurnosti i pravnih posljedica osude na osnovu sudske odluke",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0116.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0116.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1)  Sud može odlučiti da prestane primjena mjere sigurnosti zabrane vršenja poziva, djelatnosti\nili dužnosti ako su protekle tri godine od dana njenog izricanja.\n\n(2) Sud može odrediti da prestane pravna posljedica osude koja se sastoji u zabrani st"
+    },
+    {
+      "article_number": "117",
+      "title": "Rehabilitacija",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0117.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0117.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Poslije izdržane, oproštene ili zastarjele kazne zatvora, kazne dugotrajnog zatvora ili kazne\nmaloljetničkog zatvora, osuđene osobe uživaju sva prava utvrđena ustavom, zakonom i drugim\npropisima i mogu sticati sva prava, osim onih koja su im ogra"
+    },
+    {
+      "article_number": "118",
+      "title": "Amnestija",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0118.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0118.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1)  Amnestijom se osobama koje su njome obuhvaćene daje oslobođenje od krivičnog gonjenja\nili potpuno ili djelimično oslobođenje od izvršenja kazne, zamjenjuje se izrečena kazna blažom\nkaznom, određuje se brisanje osude, ili se ukida određena pravna"
+    },
+    {
+      "article_number": "119",
+      "title": "Pomilovanje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0119.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0119.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Pomilovanjem se poimenično određenim osobama daje potpuno ili djelimično oslobođenje\nod izvršenja kazne, zamjenjuje se izrečena kazna blažom kaznom ili se određuje brisanje osude\nili se ukida, odnosno određuje kraće trajanje mjere sigurnosti zabr"
+    },
+    {
+      "article_number": "120",
+      "title": "Učinak amnestije i pomilovanja na prava trećih osoba",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0120.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0120.txt",
+      "paragraph_count": 1,
+      "content_preview": "Davanjem amnestije ili pomilovanja ne utječe se na prava trećih osoba koja se zasnivaju na\nosudi."
+    },
+    {
+      "article_number": "121",
+      "title": "Brisanje osude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0121.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0121.txt",
+      "paragraph_count": 13,
+      "content_preview": "(1) Pod uslovom da počinilac krivičnog djela nije ponovo osuđen za novo krivično djelo\nosuda se briše po sili zakona kada isteknu sljedeći rokovi:\n\na) osuda kojom je počinilac oslobođen kazne briše se iz kaznene evidencije ako osuđeni u\nroku od jedne"
+    },
+    {
+      "article_number": "121a",
+      "title": "Podaci iz kaznene evidencije",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0121a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0121a.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Podaci iz kaznene evidencije nisu javni podaci.\n\n(2) Građanin ima pravo tražiti i dobiti podatke iz kaznene evidencije o sebi ako su mu ti\npodaci potrebni za ostvarivanje prava ili interesa.\n\n(3) Zamjena izrečene novčane kazne radom za opće dobro"
+    },
+    {
+      "article_number": "122",
+      "title": "Odgovornost pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0122.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0122.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ova glava ovog zakona propisuje odgovornost pravne osobe, izuzimajući Bosnu  i\nHercegovinu, Federaciju Bosne  i Hercegovine, Republiku Srpsku, Brčko Distrikt Bosne  i\nHercegovine, kanton, grad, općinu i mjesnu zajednicu, za krivično djelo koje je"
+    },
+    {
+      "article_number": "123",
+      "title": "Primjena ovog zakona prema mjestu učinjenja krivičnog djela u vezi s odgovornošću pravnih osoba",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0123.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0123.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Domaća i strana pravna osoba je, u skladu s ovim zakonom, odgovorna za krivična djela\nučinjena na teritoriji Bosne i Hercegovine.\n\n(2) Domaća i strana pravna osoba koja ima sjedište na teritoriji Bosne i Hercegovine ili u njoj\nobavlja svoju djela"
+    },
+    {
+      "article_number": "124",
+      "title": "Osnovi odgovornosti pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0124.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0124.txt",
+      "paragraph_count": 5,
+      "content_preview": "Za krivično djelo koje je učinitelj učinio u ime, za račun ili u korist pravne osobe, odgovorna\nje pravna osoba:\n\na) kada smisao učinjenog krivičnog djela proizlazi iz zaključka, naloga ili odobrenja\n   rukovodećih ili nadzornih organa pravne osobe;\n"
+    },
+    {
+      "article_number": "125",
+      "title": "Granice odgovornosti pravne osobe za krivično djelo",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0125.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0125.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Uz uvjete iz člana 124. (Osnovi odgovornosti pravne osobe) ovog zakona, pravna osoba je\nodgovorna za krivično djelo i kada učinitelj za učinjeno krivično djelo nije kriv.\n\n(2) Odgovornost pravne osobe ne isključuje krivicu fizičkih, odnosno odgov"
+    },
+    {
+      "article_number": "126",
+      "title": "Odgovornost pri promjeni statusa pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0126.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0126.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Pravna osoba u stečaju može biti odgovorna za krivično djelo bez obzira je li krivično djelo\nučinjeno prije početka stečajnog postupka ili u međuvremenu, ali se pravnoj osobi u stečaju ne\nizriče kazna, već se izriče mjera sigurnosti oduzimanja pr"
+    },
+    {
+      "article_number": "127",
+      "title": "Odgovornost pravne osobe za pokušaj",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0127.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0127.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ako je učinitelj planirano krivično djelo započeo, ali ga nije dovršio, pod uvjetima iz člana\n124. (Osnove odgovornosti pravne osobe) ovog zakona, odgovorna je pravna osoba, ako je\nzakonom propisano kažnjavanje i za pokušaj tog krivičnog djela.\n\n"
+    },
+    {
+      "article_number": "128",
+      "title": "Produženo djelo i krivična odgovornost pravnih osoba",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0128.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0128.txt",
+      "paragraph_count": 1,
+      "content_preview": "Kad je kod pravne osobe prisutan isti osnov odgovornosti u pogledu više istovrsnih i vremenski\npovezanih krivičnih djela više učinitelja, pravna osoba je odgovorna kao da je učinjeno jedno\nkrivično djelo."
+    },
+    {
+      "article_number": "129",
+      "title": "Saučesništvo pravnih osoba",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0129.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0129.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) U slučaju da dvije ili više pravnih osoba saučestvuje pri učinjenju krivičnog djela, svaka je\nodgovorna prema članu 124. (Osnove odgovornosti pravne osobe) ovog zakona.\n\n(2) Pri saučesništvu pravnih osoba iz stava 1. ovog člana, svaka pravna osob"
+    },
+    {
+      "article_number": "130",
+      "title": "Opšti razlozi za ublažavanje kazne pravnoj osobi ili oslobađanje od kazne",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0130.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0130.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Pravna osoba čiji rukovodeći ili nadzorni organ dobrovoljno prijavi učinitelja nakon što je\nkrivično djelo učinjeno, može se blaže kazniti.\n\n(2) Pravna osoba čiji rukovodeći ili nadzorni organ po učinjenom krivičnom djelu odluči da se\nvrati protu"
+    },
+    {
+      "article_number": "131",
+      "title": "Kazne za pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0131.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0131.txt",
+      "paragraph_count": 4,
+      "content_preview": "Pravnim osobama se za krivična djela mogu izreći ove kazne:\n\na) novčana kazna;\n\nb) kazna oduzimanja imovine;\n\nc) kazna prestanka pravne osobe."
+    },
+    {
+      "article_number": "132",
+      "title": "Novčana kazna za pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0132.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0132.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Novčana kazna koja se izriče pravnoj osobi ne može biti manja od 5.000 KM niti veća od\n5.000.000 KM.\n\n(2) Ako  je krivičnim djelom pravne osobe prouzrokovana drugom imovinska  šteta  ili\npribavljena protupravna imovinska korist, najveća mjera izr"
+    },
+    {
+      "article_number": "133",
+      "title": "Kazna oduzimanja imovine",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0133.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0133.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Kazna oduzimanja imovine se može izreći za krivična djela s propisanom kaznom zatvora\nod pet godina ili težom kaznom.\n\n(2) Pravnoj osobi se može oduzeti najmanje polovina imovine ili veći dio imovine ili\ncjelokupna imovina.\n\n(3) U slučaju stečajn"
+    },
+    {
+      "article_number": "134",
+      "title": "Kazna prestanka pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0134.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0134.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Kazna prestanka pravne osobe može se izreći ako je djelatnost pravne osobe u cijelosti ili\nu pretežnoj mjeri korištena za učinjenje krivičnih djela.\n\n(2) Uz kaznu prestanka pravne osobe, može se izreći i kazna oduzimanja imovine.\n\n(3) Uz izrečenu"
+    },
+    {
+      "article_number": "135",
+      "title": "Odmjeravanje kazne pravnoj osobi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0135.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0135.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1)  Pri odmjeravanju kazne pravnoj  osobi uzima  se u  obzir pored općih  pravila za\nodmjeravanje kazne iz člana 48. (Opća pravila za odmjeravanje kazne) ovog zakona takođe i\nekonomska moć pravne osobe.\n\n(2)  Pri odmjeravanju novčane kazne za krivič"
+    },
+    {
+      "article_number": "136",
+      "title": "Izricanje uvjetne osude pravnoj osobi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0136.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0136.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Sud može pravnoj osobi za krivično djelo izreći uvjetnu osudu umjesto novčane kazne.\n\n(2) Uvjetnom osudom sud može utvrditi pravnoj osobi novčanu kaznu do 1.500.000 KM i\nujedno odlučiti da se ista neće izvršiti, ako pravna osoba u roku koji odred"
+    },
+    {
+      "article_number": "137",
+      "title": "Mjere sigurnosti za pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0137.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0137.txt",
+      "paragraph_count": 3,
+      "content_preview": "Pravnoj osobi mogu se za krivično djelo izreći, pored mjere sigurnosti oduzimanja predmeta\niz člana 74. (Oduzimanje predmeta) ovog zakona, ove mjere sigurnosti:\n\na) objava presude;\n\nb) zabrana obavljanja određene djelatnosti."
+    },
+    {
+      "article_number": "138",
+      "title": "Objava presude",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0138.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0138.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Mjera sigurnosti objave presude izriče se kada bi bilo korisno da javnost sazna za osudu,\nosobito ako bi objava bila od koristi da se otkloni opasnost za život ili zdravlje ljudi ili da se\nosigura sigurnost prometa ili da se zaštite ili podstiču "
+    },
+    {
+      "article_number": "139",
+      "title": "Zabrana obavljanja određene djelatnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0139.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0139.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Mjerom sigurnosti zabrane obavljanja određene djelatnosti sud može pravnoj osobi\nzabraniti proizvodnju određenih proizvoda ili obavljanje određenih poslova, ili joj zabraniti da\nse bavi određenim poslovima prometa robe ili drugim poslom, odnosno "
+    },
+    {
+      "article_number": "140",
+      "title": "Oduzimanje imovinske koristi od pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0140.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0140.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ukoliko pravna osoba pribavi imovinsku korist učinjenim krivičnim djelom, imovinska korist\npribavljena krivičnim djelom će se oduzeti od pravne osobe."
+    },
+    {
+      "article_number": "141",
+      "title": "Pravne posljedice osude pravne osobe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0141.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0141.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Pravne posljedice osude pravne osobe za krivično djelo su:\n\n    a) zabrana rada na osnovi dozvole, ovlašćenja ili koncesije, izdanih od organa strane\n       države,\n\nb) zabrana rada na osnovi dozvole, ovlašćenja ili koncesije, izdanih od instituc"
+    },
+    {
+      "article_number": "142",
+      "title": "Zastarjelost gonjenja i izvršenja krivičnopravnih sankcija izrečenih pravnim osobama",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0142.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0142.txt",
+      "paragraph_count": 7,
+      "content_preview": "(1) Na zastarjelost gonjenja pravne osobe primjenjuju se odredbe članka 14. (Zastarjelost\ngonjenja) ovog zakona.\n\n(2) Zastara izvršenja kazne izrečene pravnoj osobi nastupa kad od pravosnažnosti presude\nkojom je kazna izrečena protekne:\n\n    a) tri g"
+    },
+    {
+      "article_number": "143",
+      "title": "Zakoni koji propisuju krivična djela pravnih osoba",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0143.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0143.txt",
+      "paragraph_count": 1,
+      "content_preview": "Pravne osobe mogu biti odgovorne za krivična djela iz ovog zakona i za druga krivična djela\npropisana zakonom Bosne i Hercegovine."
+    },
+    {
+      "article_number": "144",
+      "title": "Kazne za krivična djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0144.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0144.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Za krivična djela s propisanom novčanom kaznom ili kaznom zatvora do tri godine, pravna\nosoba će se kazniti novčanom kaznom do 850.000 KM ili do deseterostrukog iznosa štete\nprouzrokovane ili imovinske koristi pribavljene krivičnim djelom.\n\n(2) Z"
+    },
+    {
+      "article_number": "145",
+      "title": "Povreda ravnopravnosti čovjeka i građanina",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0145.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0145.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja na osnovu razlike\nu rasi, boji kože, nacionalnoj ili etničkoj pripadnosti, vjeroispovijesti, političkom ili drugom\nuvjerenju, polu, seksualnom opredjeljenju, jeziku, obrazovanj"
+    },
+    {
+      "article_number": "145a",
+      "title": "Izazivanje nacionalne, rasne i vjerske mržnje, razdora i netrpeljivosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0145a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0145a.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko javno izaziva ili raspiruje nacionalnu, rasnu ili vjersku mržnju, razdor ili netrpeljivost\nmeđu konstitutivnim narodima  i ostalima, kao  i drugima koji žive  ili borave u Bosni  i\nHercegovini, kaznit će se kaznom zatvora od tri mjeseca do tri"
+    },
+    {
+      "article_number": "145b",
+      "title": "Oštećenje ili rušenje vjerskih objekata",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0145b.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0145b.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko ošteti, učini neupotrebljivim ili sruši vjerski objekat kaznit če se kaznom zatvora od šest\nmjeseci do pet godina."
+    },
+    {
+      "article_number": "146",
+      "title": "Sprječavanje povratka izbjeglica i raseljenih lica",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0146.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0146.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko silom, ozbiljnom prijetnjom ili na drugi protupravan način, u većem razmjeru ili sa\nširim posljedicama, spriječi izbjeglice ili raseljena lica da se vrate u svoj dom ili da koriste\n\nsvoju imovinu koje su bili lišeni u toku neprijateljstava od "
+    },
+    {
+      "article_number": "147",
+      "title": "Protupravno lišenje slobode",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0147.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0147.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1)  Službena  ili odgovorna osoba u  institucijama Bosne  i Hercegovine  koja drugog\nprotupravno zatvori, drži zatvorenog ili mu na drugi način oduzme slobodu kretanja, kaznit će\nse novčanom kaznom ili kaznom zatvora do tri godine.\n\n(2) Ako je protu"
+    },
+    {
+      "article_number": "147a",
+      "title": "Neovlašteno prisluškivanje i zvučno ili optičko snimanje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0147a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0147a.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Službeno ili odgovorno lice u institucijama Bosne i Hercegovine koje pomoću posebnih\nnaprava, bez odobrenja, prisluškuje  ili zvučno snimi razgovor  ili izjavu koja mu  nije\nnamijenjena  ili omogući nepozvanom licu da se upozna s razgovorom  ili "
+    },
+    {
+      "article_number": "148",
+      "title": "Povreda prava na podnošenje žalbi i molbi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0148.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0148.txt",
+      "paragraph_count": 1,
+      "content_preview": "Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja zloupotrebom svog\npoložaja ili ovlaštenja i spriječi drugoga da koristi svoje pravo na podnošenje žalbe, prigovora,\nzahtjeva, molbe ili pritužbe, kaznit će se novčanom kaznom ili k"
+    },
+    {
+      "article_number": "149",
+      "title": "Nedozvoljeno korištenje ličnih podataka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0149.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0149.txt",
+      "paragraph_count": 1,
+      "content_preview": "Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja bez pristanka pojedinca\nprotivno uvjetima propisanim u zakonu, prikuplja, obrađuje ili koristi njegove lične podatke ili\nte podatke koristi suprotno zakonom dozvoljenoj svrsi njiho"
+    },
+    {
+      "article_number": "149a",
+      "title": "Nezakonito uskraćivanje identifikacionih dokumenata",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0149a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0149a.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko s ciljem ograničavanja slobode kretanja  ili ispoljavanja  vlasti nad drugom osobom\nnezakonito uskrati drugome njegovu ličnu ili putnu ispravu kaznit će se kaznom zatvora od šest\nmjeseci do pet godina."
+    },
+    {
+      "article_number": "150",
+      "title": "Uskraćivanje biračkog prava",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0150.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0150.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko u obavljanju povjerene mu dužnosti u vezi s izborima za institucije Bosne i Hercegovine,\ndrugoga u namjeri da ga spriječi u ostvarenju njegovog biračkog prava protuzakonito ne uvede\nu birački popis ili ga izbriše iz biračkog popisa ili mu na drugi"
+    },
+    {
+      "article_number": "151",
+      "title": "Povreda slobode opredjeljenja birača",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0151.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0151.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko silom, ozbiljnom prijetnjom, prinudom, podmićivanjem  ili korišćenjem njegovog\nteškog ekonomskog stanja ili na drugi protupravan način utječe na birača u Bosni i Hercegovini\nda na izborima za institucije Bosne  i Hercegovine  ili prilikom glas"
+    },
+    {
+      "article_number": "152",
+      "title": "Prijevara pri glasanju",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0152.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0152.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko na izborima za institucije Bosne i Hercegovine ili pri glasanju o opozivu predstavnika u\ninstitucijama Bosne i Hercegovine ili na referendumu u Bosni i Hercegovini, ponovo glasa,\nglasa umjesto drugoga pod njegovim imenom, kaznit će se kaznom zatvo"
+    },
+    {
+      "article_number": "153",
+      "title": "Povreda tajnosti glasanja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0153.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0153.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko pri izboru za institucije Bosne i Hercegovine ili pri glasanju o opozivu predstavnika u\ninstitucijama Bosne i Hercegovine ili na referendumu u Bosni i Hercegovini, povrijedi tajnost\nglasanja, kaznit će se novčanom kaznom ili kaznom zatvora do "
+    },
+    {
+      "article_number": "154",
+      "title": "Izborna prijevara",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0154.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0154.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko krivotvori rezultate izbora  ili glasanja za institucije Bosne  i Hercegovine dodavanjem,\noduzimanjem  ili brisanjem glasova  ili  potpisa, netačnim brojanjem glasova,  neistinitim\nupisivanjem rezultata u izborne isprave ili na drugi način, ili ob"
+    },
+    {
+      "article_number": "155",
+      "title": "Uništenje izbornih isprava",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0155.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0155.txt",
+      "paragraph_count": 5,
+      "content_preview": "Ko na izborima za institucije Bosne i Hercegovine, pri glasanju o opozivu predstavnika u\ninstitucijama Bosne i Hercegovine ili na referendumu u Bosni i Hercegovini, uništi, prikrije,\nošteti ili oduzme kakvu ispravu o izborima ili o glasanju o opozivu"
+    },
+    {
+      "article_number": "156",
+      "title": "Napad na ustavni poredak",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0156.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0156.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko upotrebom fizičke sile ili prijetnjom upotrebe fizičke sile pokuša da promijeni ustavni\nporedak Bosne i Hercegovine ili da svrgne njene najviše institucije, kaznit će se kaznom zatvora\nnajmanje pet godina."
+    },
+    {
+      "article_number": "157",
+      "title": "Ugrožavanje teritorijalne cjeline",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0157.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0157.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko upotrebom sile  ili prijetnjom upotrebe sile pokuša da otcijepi dio teritorije Bosne  i\nHercegovine  ili da dio njene teritorije pripoji drugoj državi, kaznit će se kaznom zatvora\nnajmanje pet godina."
+    },
+    {
+      "article_number": "158",
+      "title": "Sprječavanje borbe protiv neprijatelja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0158.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0158.txt",
+      "paragraph_count": 1,
+      "content_preview": "Građanin Bosne i Hercegovine koji za vrijeme rata ili oružanog sukoba spriječava građane\nBosne i Hercegovine ili građane njenih saveznika da vode borbu protiv neprijatelja, kaznit će\nse kaznom zatvora od jedne do deset godina."
+    },
+    {
+      "article_number": "159",
+      "title": "Služba u neprijateljskoj vojsci",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0159.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0159.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1)  Građanin Bosne  i Hercegovine  koji za vrijeme  rata  ili oružanog sukoba  služi u\nneprijateljskoj vojsci ili drugim neprijateljskim oružanim formacijama, ili sudjeluje u ratu ili\noružanom sukobu boreći se protiv Bosne  i Hercegovine  ili njenih"
+    },
+    {
+      "article_number": "160",
+      "title": "Pomaganje neprijatelju",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0160.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0160.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Građanin Bosne  i Hercegovine koji za vrijeme rata pomaže neprijatelju u provodjenju\nprinudnih mjera prema stanovništvu Bosne i Hercegovine, kaznit će se kaznom zatvora od jedne\ndo deset godina.\n\n(2) Građanin Bosne i Hercegovine koji u cilju poma"
+    },
+    {
+      "article_number": "161",
+      "title": "Podrivanje vojne i odbrambene moći",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0161.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0161.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko  u  namjeri  da  umanji  odbrambenu moć  Bosne   i  Hercegovine  uništi,  učini\nneupotrebljivim  ili omogući da pređu u ruke neprijatelja odbrambena postrojenja, objekti,\npoložaji, naoružanje ili druga vojna i odbrambena sredstva ili preda tru"
+    },
+    {
+      "article_number": "162",
+      "title": "Oružana pobuna",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0162.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0162.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Ko učestvuje u oružanoj pobuni koja je usmjerena protiv ustavnog poretka Bosne  i\nHercegovine ili protiv njenih najviših institucija, kaznit će se kaznom zatvora najmanje tri\ngodine.\n\n(2) Ko organizira ili bilo kako rukovodi učinjenjem krivičnog "
+    },
+    {
+      "article_number": "162b",
+      "title": "(Protuzakonito formiranje i pridruživanje stranim paravojnim ili parapolicijskim formacijama)",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0162b.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0162b.txt",
+      "paragraph_count": 7,
+      "content_preview": "(1) Ko protivno Zakonu o odbrani Bosne  i Hercegovine  ili Zakonu o službi u Oružanim\nsnagama Bosne i Hercegovine organizira, rukovodi, obučava, oprema ili mobilizira pojedince\nili grupe ljudi s ciljem pridruživanja, na bilo koji način, stranoj vojno"
+    },
+    {
+      "article_number": "163",
+      "title": "Špijunaža",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0163.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0163.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Ko tajne podatke, preda ili učini dostupnom stranoj državi, stranoj organizaciji ili osobi\nkoja im služi, kaznit će se kaznom zatvora od jedne do deset godina.\n\n(2) Ko na štetu Bosne i Hercegovine za stranu državu  ili organizaciju stvara obavješ"
+    },
+    {
+      "article_number": "164",
+      "title": "Odavanje tajnih podataka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0164.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0164.txt",
+      "paragraph_count": 16,
+      "content_preview": "(1) Službeno ili odgovorno lice u institucijama Bosne i Hercegovine ili vojno lice, koje je\novlašteno za određivanje tajnosti podataka  ili za pristup tajnim podacima a koje bez\novlaštenja drugome saopći, preda ili na drugi način učini dostupnim tajn"
+    },
+    {
+      "article_number": "165",
+      "title": "Upućivanje i prebacivanje oružanih grupa ljudi, oružja i municije na teritoriju Bosne i Hercegovine",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0165.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0165.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko na teritoriju Bosne  i Hercegovine upućuje  ili prebacuje oružane grupe ljudi, teroriste,\nšpijune, diverzante, oružje, eksploziv, otrove, opremu, municiju  ili drugi materijal, radi\nučinjenja krivičnih djela iz ove glave ovog zakona, kaznit će se "
+    },
+    {
+      "article_number": "166",
+      "title": "Unošenje opasnih materija u Bosnu i Hercegovinu",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0166.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0166.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko protivno propisima Bosne i Hercegovine unese u Bosnu i Hercegovinu za život ili\nzdravlje ljudi štetne radioaktivne ili druge opasne materije ili otpatke, kaznit će se novčanom\nkaznom ili kaznom zatvora do tri godine.\n\n(2) Ko zloupotrebom svog "
+    },
+    {
+      "article_number": "167",
+      "title": "Ubistvo predstavnika najviših institucija Bosne i Hercegovine",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0167.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0167.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko u namjeri ugrožavanja ustavnog poretka Bosne  i Hercegovine  ili sigurnosti Bosne  i\nHercegovine liši života službenu osobu institucija Bosne i Hercegovine pri vršenju njene službe,\nili člana Predsjedništva Bosne  i Hercegovine, predsjedavajućeg V"
+    },
+    {
+      "article_number": "168",
+      "title": "Otmica predstavnika najviših institucija Bosne i Hercegovine",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0168.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0168.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko u namjeri ugrožavanja ustavnog poretka Bosne i Hercegovine ili sigurnosti Bosne i\nHercegovine protupravno zatvori, drži zatvorenu ili na drugi način oduzme ili ograniči slobodu\nkretanja službenoj osobi institucija Bosne i Hercegovine pri vršen"
+    },
+    {
+      "article_number": "169",
+      "title": "Kažnjavanje za najteže oblike krivičnih djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0169.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0169.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1)  Za krivično djelo iz člana 156. (Napad na ustavni poredak), 157. (Ugrožavanje teritorijalne\ncjeline), 161. (Podrivanje vojne i odbrambene moći), 162. (Oružana pobuna) i\n163. (Špijunaža) ovog zakona, koje je imalo za posljedicu smrt jedne ili viš"
+    },
+    {
+      "article_number": "170",
+      "title": "Osnivanje udruženja ili nabavljanje sredstava za učinjenje krivičnih djela iz ove glave ovog zakona",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0170.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0170.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko osnuje udruženje u cilju učinjenja krivičnih djela iz ove glave ovog zakona, ili ko nabavi\nsredstva za učinjenje krivičnih djela iz ove glave ovog zakona, kaznit će se kaznom zatvora\nnajmanje tri godine."
+    },
+    {
+      "article_number": "171",
+      "title": "Genocid",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0171.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0171.txt",
+      "paragraph_count": 6,
+      "content_preview": "Ko u cilju da potpuno ili djelimično istrijebi nacionalnu, etničku, rasnu ili vjersku skupinu\nljudi naredi učinjenje ili učini koje od ovih djela:\n\na) ubijanje pripadnika skupine ljudi;\n\nb) nanošenje teške tjelesne ozljede ili duševne povrede pripadn"
+    },
+    {
+      "article_number": "172",
+      "title": "Zločini protiv čovječnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0172.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0172.txt",
+      "paragraph_count": 22,
+      "content_preview": "(1) Ko, kao dio širokog ili sistematičnog napada usmjerenog bilo protiv kojeg civilnog\nstanovništva, znajući za takav napad, učini koje od ovih djela:\n\n    a) lišenje druge osobe života (ubistvo);\n\n   b) istrebljenje;\n\n    c) odvođenje u ropstvo,\n\n  "
+    },
+    {
+      "article_number": "173",
+      "title": "Ratni zločin protiv civilnog stanovništva",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0173.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0173.txt",
+      "paragraph_count": 12,
+      "content_preview": "(1) Ko kršeći pravila međunarodnog prava za vrijeme rata, oružanog sukoba ili okupacije\nnaredi ili učini koje od ovih djela:\n\n    a) napad na civilno stanovništvo, naselje, pojedine civilne osobe ili osobe onesposobljene\n       za borbu, a taj je nap"
+    },
+    {
+      "article_number": "174",
+      "title": "Ratni zločin protiv ranjenika i bolesnika",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0174.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0174.txt",
+      "paragraph_count": 4,
+      "content_preview": "Ko kršeći pravila međunarodnog prava za vrijeme rata ili oružanog sukoba, prema ranjenicima,\nbolesnicima, brodolomcima ili sanitetskom ili vjerskom osoblju naredi ili učini koje od ovih\ndjela:\n\na) lišenja drugih osoba života (ubistva), namjerna nanoš"
+    },
+    {
+      "article_number": "175",
+      "title": "Ratni zločin protiv ratnih zarobljenika",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0175.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0175.txt",
+      "paragraph_count": 4,
+      "content_preview": "Ko kršeći pravila međunarodnog prava, prema ratnim zarobljenicima naredi ili učini koje od\novih djela:\n\na) lišenja drugih osoba života (ubistva), namjerna nanošenja osobama snažnog tjelesnog ili\n   duševnog bola ili patnje (mučenja), nečovječno postu"
+    },
+    {
+      "article_number": "176",
+      "title": "Organiziranje grupe ljudi i podstrekavanje na učinjenje krivičnih djela genocida, zločina protiv čovječnosti i ratnih zločina",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0176.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0176.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko organizira grupu ljudi radi učinjenja krivičnih djela iz člana 171. (Genocid), 172.\n(Zločini protiv čovječnosti), 173. (Ratni zločin protiv civilnog stanovništva), 174. (Ratni zločin\nprotiv ranjenika i bolesnika) i 175. (Ratni zločin protiv ra"
+    },
+    {
+      "article_number": "177",
+      "title": "Protupravno ubijanje i ranjavanje neprijatelja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0177.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0177.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko kršeći pravila međunarodnog prava za vrijeme rata ili oružanog sukoba ubije ili rani\nneprijatelja koji je odložio oružje ili se bezuvjetno predao ili nema sredstava za odbranu, kaznit\nće se kaznom zatvora od jedne do deset godina.\n\n(2) Ako  je"
+    },
+    {
+      "article_number": "178",
+      "title": "Protupravno oduzimanje stvari od ubijenih i ranjenih na ratištu",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0178.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0178.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko naredi da se protupravno oduzimaju stvari od ubijenih ili ranjenih na ratištu, ili ko\nučini takvo oduzimanje, kaznit će se kaznom zatvora od šest mjeseci do pet godina.\n\n(2) Ako je krivično djelo iz stava 1. ovog člana učinjeno na svirep način"
+    },
+    {
+      "article_number": "179",
+      "title": "Povrede zakona ili običaja rata",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0179.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0179.txt",
+      "paragraph_count": 7,
+      "content_preview": "(1) Ko za vrijeme rata ili oružanog sukoba naredi da se povrijede zakoni ili običaji rata ili ih\nsam povrijedi, kaznit će se kaznom zatvora najmanje deset godina ili kaznom dugotrajnog\nzatvora.\n\n(2) Povrede zakona ili običaja rata iz stava 1. ovog čl"
+    },
+    {
+      "article_number": "180",
+      "title": "Individualna komandna odgovornost",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0180.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0180.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Osoba koja planira, naredi, učini ili podstrekava ili pomaže u planiranju, pripremanju ili\nučinjenju krivičnih djela iz člana 171. (Genocid), 172. (Zločini protiv čovječnosti), 173. (Ratni\nzločin protiv civilnog stanovništva), 174. (Ratni zločin "
+    },
+    {
+      "article_number": "181",
+      "title": "Povreda parlamentara",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0181.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0181.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko kršeći pravila međunarodnog prava za vrijeme rata ili oružanog sukoba vrijeđa, zlostavlja\nili zadrži parlamentara ili njegovu pratnju ili im spriječi povratak, ili na drugi način povrijedi\nnjihovu nepovredivost, kaznit će se kaznom zatvora od šest"
+    },
+    {
+      "article_number": "182",
+      "title": "Neopravdano odgađanje povratka ratnih zarobljenika",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0182.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0182.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko kršeći pravila međunarodnog prava, nakon završetka rata ili oružanog sukoba naredi ili\nizvrši neopravdano odgađanje povratka ratnih zarobljenika ili civilnih lica, kaznit će se kaznom\nzatvora od šest mjeseci do pet godina."
+    },
+    {
+      "article_number": "183",
+      "title": "Uništavanje kulturnih, historijskih i religijskih spomenika",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0183.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0183.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko kršeći pravila međunarodnog prava za vrijeme rata  ili oružanog sukoba uništava\nkulturne,  historijske  ili  religijske spomenike, građevine  ili ustanove namijenjene nauci,\numjetnosti, vaspitanju, humanitarnim ili religijskim ciljevima, kazni"
+    },
+    {
+      "article_number": "184",
+      "title": "Zloupotreba međunarodnih znakova",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0184.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0184.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko zloupotrijebi ili neovlašćeno nosi zastavu ili znak Organizacije ujedinjenih naroda, ili\nznakove  ili zastave Crvenog križa  ili znakove koji njima odgovaraju,  ili druge priznate\nmeđunarodne znakove kojima se obilježavaju određeni objekti rad"
+    },
+    {
+      "article_number": "185",
+      "title": "Zasnivanje ropskog odnosa i prijevoz osoba u ropskom odnosu",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0185.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0185.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko kršeći pravila međunarodnog prava stavi drugog u ropski ili njemu sličan odnos ili ga\ndrži u takvom odnosu, kupi, proda, preda drugoj osobi ili posreduje u kupovini, prodaji ili\npredaji takve osobe ili podstrekava drugog da proda svoju slobodu"
+    },
+    {
+      "article_number": "186",
+      "title": "Međunarodna trgovina ljudima",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0186.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0186.txt",
+      "paragraph_count": 10,
+      "content_preview": "(1) Ko upotrebom sile ili prijetnjom upotrebe sile ili drugim oblicima prinude, otmicom,\nprevarom ili obmanom, zloupotrebom ovlasti  ili uticaja ili položaja bespomoćnosti  ili\ndavanjem ili primanjem isplata ili drugih koristi, kako bi privolio lice "
+    },
+    {
+      "article_number": "186a",
+      "title": "Organizirana međunarodna trgovina ljudima",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0186a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0186a.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko organizira  ili rukovodi grupom  ili drugim udruženjem koje zajedničkim\ndjelovanjem počini krivično djelo iz člana 186. ovog zakona (Međunarodna trgovina\nljudima) kaznit će se kaznom zatvora od najmanje deset godina ili dugotrajnim zatvorom.\n\n"
+    },
+    {
+      "article_number": "187",
+      "title": "Međunarodno navođenje na prostituciju",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0187.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0187.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko radi zarade ili druge koristi navodi, podstiče ili namamljuje drugog na pružanje\nseksualnih usluga ili na drugi način omogući njegovu predaju drugome radi pružanja\nseksualnih usluga ili na bilo koji način učestvuje u organiziranju ili vođenju "
+    },
+    {
+      "article_number": "189",
+      "title": "Krijumčarenje ljudi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0189.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0189.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Ko u namjeri pribavljanja za sebe ili drugog neke koristi nedozvoljeno prevede ili omogući\nprevođenje jednog ili više migranata ili drugih lica preko državne granice ili ko u tu svrhu sačini,\nnabavi ili posjeduje lažne putne ili lične isprave kaz"
+    },
+    {
+      "article_number": "189a",
+      "title": "Organiziranje grupe ili udruženja za izvršenje krivičnog djela krijumčarenje migranata",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0189a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0189a.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko organizira grupu ili drugo udruženje za izvršenje krivičnog djela iz člana 189.\novog zakona (Krijumčarenje ljudi) kaznit će se kaznom zatvora od najmanje tri godine.\n\n(2) Ko postane pripadnik grupe ili drugog udruženja iz stava (1) ovog člana "
+    },
+    {
+      "article_number": "190",
+      "title": "Mučenje i drugi oblici surovog i nečovječnog postupanja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0190.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0190.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Službeno lice u institucijama Bosne i Hercegovine ili bilo koje drugo lice koje djeluje\nu svojstvu službenog lica u institucijama Bosne i Hercegovine, po naredbi, na podsticaj ili\ns izričitim ili prešutnim pristankom službenog lica u institucijam"
+    },
+    {
+      "article_number": "190a",
+      "title": "Prisilni nestanak",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0190a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0190a.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Službeno lice u institucijama Bosne i Hercegovine ili bilo koje drugo lice koje djeluje\nu svojstvu službenog lica u institucijama Bosne  i Hercegovine  ili po naređenju  ili na\npodsticaj ili s izričitim ili prešutnim pristankom službenog lica u i"
+    },
+    {
+      "article_number": "191",
+      "title": "Uzimanje talaca",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0191.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0191.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko drugoga zatvori, drži zatvorenog ili mu na drugi način oduzme ili ograniči slobodu\nkretanja, ili ga drži i prijeti da će ga ubiti, povrijediti ili nadalje zadržavati kao taoca, u cilju da\nprimora Bosnu i Hercegovinu, neku drugu državu ili među"
+    },
+    {
+      "article_number": "192",
+      "title": "Ugrožavanje osoba pod međunarodnopravnom zaštitom",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0192.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0192.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko osobu pod međunarodnopravnom zaštitom, zatvori, drži zatvorenu ili joj na drugi način\noduzme ili ograniči slobodu kretanja, u cilju da nju ili neku drugu osobu primora da nešto izvrši\nili ne izvrši, ili ko učini neko drugo nasilje prema osobi "
+    },
+    {
+      "article_number": "193",
+      "title": "Neovlašteni promet oružjem i vojnom opremom te proizvodima dvojne upotrebe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0193.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0193.txt",
+      "paragraph_count": 21,
+      "content_preview": "(1) Ko uvozi, izvozi, prevozi ili posreduje u prometu oružja ili vojne opreme bez dozvole\npropisane zakonom Bosne i Hercegovine, ili u suprotnosti s međunarodnim pravom ili ko daje\nkrive podatke ili propusti prikazati činjenice u postupku davanja doz"
+    },
+    {
+      "article_number": "194",
+      "title": "Neovlašteno pribavljanje i raspolaganje nuklearnim materijalom",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0194.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0194.txt",
+      "paragraph_count": 8,
+      "content_preview": "(1) Ko nuklearni ili drugi radioaktivni materijal ili uređaj neovlašteno pribavi, primi, preda\n drugome  ili mu omogući da dođe u posjed  ili posjeduje, koristi, prenese, preradi, odloži,\n uskladišti ili raširi kaznit će se kaznom zatvora do pet godi"
+    },
+    {
+      "article_number": "194a",
+      "title": "Ugrožavanje nuklearnog objekta",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0194a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0194a.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Ko počini djelo usmjereno na ometanje rada nuklearnog objekta  ili koristi  ili ošteti\nnuklearni objekt na način kojim prouzrokuje opasnost od ispuštanja nuklearnog ili drugog\nradioaktivnog materijala kaznit će se kaznom zatvora od jedne do pet g"
+    },
+    {
+      "article_number": "195",
+      "title": "Neovlašteni promet opojnim drogama",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0195.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0195.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko neovlašteno vrši međunarodnu prodaju ili prijenos ili nudi na prodaju ili radi prodaje\nkupuje, drži, prevozi  ili prenosi,  ili posreduje u međunarodnoj prodaji  ili kupovini, šalje,\nisporučuje, uvozi, izvozi ili na drugi način neovlašteno sta"
+    },
+    {
+      "article_number": "196",
+      "title": "Piratstvo",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0196.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0196.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Član posade  ili putnik na brodu  ili u zrakoplovu, izuzev vojnog  i javnog broda  ili\nzrakoplova, koji s namjerom da sebi ili drugom pribavi imovinsku ili neimovinsku korist ili da\ndrugom prouzrokuje kakvu šetu, na otvorenom moru ili na teritori"
+    },
+    {
+      "article_number": "197",
+      "title": "Otmica zrakoplova ili broda ili zauzimanje fiksne platforme",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0197.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0197.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko silom ili prijetnjom da će upotrijebiti silu, ili drugim oblikom zastrašivanja, preuzme ili\nvrši kontrolu nad zrakoplovom koji se nalazi u letu, nad brodom ili plutajućim objektom bilo\nkoje vrste ili fiksnom platformom, kaznit će se kaznom zat"
+    },
+    {
+      "article_number": "198",
+      "title": "Ugrožavanje sigurnosti zračne ili morske plovidbe ili fiksnih platformi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0198.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0198.txt",
+      "paragraph_count": 8,
+      "content_preview": "(1) Ko  izvrši  nasilje prema osobi u zrakoplovu u  letu,  uništi službujući zrakoplov  ili\nprouzrokuje štetu takvom zrakoplovu, unese ili prouzrokuje unošenje u službujući zrakoplov,\nbilo kojim sredstvima, eksplozivne ili druge naprave ili supstance"
+    },
+    {
+      "article_number": "199",
+      "title": "Uništenje i uklanjanje znakova koji služe sigurnosti zračnog saobraćaja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0199.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0199.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko uništi, ošteti ili ukloni znak koji služi sigurnosti zračnog saobraćaja, kaznit će se novčanom\nkaznom ili kaznom zatvora do tri godine."
+    },
+    {
+      "article_number": "200",
+      "title": "Zloupotreba telekomunikacionih znakova",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0200.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0200.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko zlonamjerno ili bez potrebe otpravi međunarodno ugovoreni znak za pozivanje u pomoć ili\nznak da prijeti opasnost, ili ko telekomunikacionim znakom obmane da postoji sigurnost, ili ko\nzloupotrijebi međunarodno ugovoreni telekomunikacioni znak, kazn"
+    },
+    {
+      "article_number": "201",
+      "title": "Terorizam",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0201.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0201.txt",
+      "paragraph_count": 14,
+      "content_preview": "(1) Ko počini teroristički čin s ciljem ozbiljnog zastrašivanja stanovništva  ili prisiljavanja\norgana vlasti Bosne i Hercegovine, vlade druge zemlje ili međunarodne organizacije, da što\nizvrši  ili ne izvrši,  ili s ciljem ozbiljne destabilizacije  "
+    },
+    {
+      "article_number": "202",
+      "title": "Finansiranje terorističkih aktivnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0202.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0202.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Ko na bilo koji način, neposredno ili posredno, da, prikupi ili na drugi način osigura\nsredstva s ciljem njihove upotrebe  ili znajući da će biti upotrijebljena, u cjelini  ili\ndjelimično, za izvršenje nekog od krivičnih djela iz  čl. 191. (Uzima"
+    },
+    {
+      "article_number": "202a",
+      "title": "Javno podsticanje na terorističke aktivnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0202a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0202a.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko javno, putem sredstva informiranja, distribuira ili na bilo koji drugi način uputi poruku\njavnosti koja ima za cilj podsticanje drugog na izvršenje krivičnog djela iz članova: 191.\n(Uzimanje  talaca),192.  (Ugrožavanje  osoba pod medunarodnopravno"
+    },
+    {
+      "article_number": "202b",
+      "title": "Vrbovanje radi terorističkih aktivnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0202b.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0202b.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko vrbuje ili navodi drugoga da počini ili učestvuje ili pomaže u izvršenju ili da se pridruži\nterorističkoj grupi radi izvršenja nekog od krivičnih djela iz članova: 191. (Uzimanje talaca),\n192. (Ugrožavanje osoba pod međunarodnopravnom zaštitom), 1"
+    },
+    {
+      "article_number": "202c",
+      "title": "Obuka za izvođenje terorističkih aktivnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0202c.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0202c.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko drugog osposobi za izradu ili korištenje eksploziva, vatrenog oružja ili drugog oružja ili\nštetnih ili opasnih materija ili eksplozivnih naprava ili poduči o drugim konkretnim metodama,\ntehnikama ili vještinama u svrhu izvršenja nekog od krivi"
+    },
+    {
+      "article_number": "202d",
+      "title": "Organiziranje terorističke grupe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0202d.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0202d.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko organizira terorističku grupu ili na drugi način udružuje najmanje tri lica radi izvršenja\nnekog od krivičnih djela iz članova: 191. (Uzimanje talaca), 192. (Ugrožavanje osoba pod\nmeđunarodnopravnom zaštitom), 194. (Neovlašteno pribavljanje il"
+    },
+    {
+      "article_number": "203",
+      "title": "Neizvršavanje naredbi i presuda međunarodnog krivičnog suda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0203.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0203.txt",
+      "paragraph_count": 1,
+      "content_preview": "Službena osoba u institucijama Bosne  i Hercegovine, institucijama entiteta  i institucijama\nBrčko Distrikta Bosne i Hercegovine, koja odbije postupiti po naredbi međunarodnog krivičnog\nsuda da se liši slobode ili pritvori ili izruči međunarodnom kri"
+    },
+    {
+      "article_number": "204",
+      "title": "Povreda ravnopravnosti u vršenju privredne djelatnosti",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0204.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0204.txt",
+      "paragraph_count": 2,
+      "content_preview": "Ko zloupotrebom svog službenog ili uticajnog položaja ili ovlaštenja u institucijama Bosne i\n   Hercegovine ograniči slobodno kretanje ljudi, roba, usluga i kapitala, između entiteta ili\n\nizmeđu entiteta i Brčko Distrikta Bosne i Hercegovine, uskrati"
+    },
+    {
+      "article_number": "205",
+      "title": "Krivotvorenje novca",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0205.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0205.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Ko načini lažan novac s ciljem da ga stavi u opticaj kao pravi, ili ko preinači pravi novac s\nciljem da ga stavi u opticaj, ili ko lažan novac stavi u opticaj, kaznit će se kaznom zatvora od\njedne do deset godina.\n\n(2) Kaznom iz stava 1. ovog čla"
+    },
+    {
+      "article_number": "206",
+      "title": "Krivotvorenje vrijednosnih papira",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0206.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0206.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko načini lažne vrijednosne papire izdate na osnovu propisa Bosne i Hercegovine s ciljem\nda ih stavi u opticaj kao prave, ili ko preinači takve prave vrijednosne papire s ciljem da ih stavi\nu opticaj, ili ko stavi takve lažne vrijednosne papire u"
+    },
+    {
+      "article_number": "207",
+      "title": "Krivotvorenje znakova za vrijednost",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0207.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0207.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko načini lažne taksene ili poštanske marke ili druge znakove za vrijednost izdate na osnovu\npropisa Bosne i Hercegovine, ili ko preinači koji od takvih pravih znakova za vrijednost s ciljem\nda ih upotrijebi kao prave ili da ih drugom da na upotr"
+    },
+    {
+      "article_number": "208",
+      "title": "Krivotvorenje znakova za obilježavanje robe, mjera i tegova",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0208.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0208.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko s ciljem da ih upotrijebi kao prave, načini lažne pečate, žigove, marke ili druge znakove\nza obilježavanje domaće ili strane robe, kojima se žigoše zlato, srebro, stoka, drvo ili neka druga\nroba, ili ko s istim ciljem takve prave znakove prein"
+    },
+    {
+      "article_number": "209",
+      "title": "Pranje novca",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0209.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0209.txt",
+      "paragraph_count": 8,
+      "content_preview": "(1) Ko novac ili drugu imovinu za koje zna da su pribavljeni počinjenjem krivičnog djela\nprimi, zamijeni, drži, raspolaže njima, koristi u privrednom ili drugom poslovanju, vrši\nkonverziju  ili njihov prijenos  ili na drugi način prikrije  ili pokuša"
+    },
+    {
+      "article_number": "210",
+      "title": "Porezna utaja ili prevara",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0210.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0210.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko izbjegne da plati davanja propisana poreznim zakonodavstvom Bosne i Hercegovine\nnepružanjem  zahtijevanih  podataka  ili pružanjem  lažnih  podataka o  svojim  stečenim\noporezivim prihodima  ili o drugim činjenicama koje su od uticaja na utvrđ"
+    },
+    {
+      "article_number": "210a",
+      "title": "Nedozvoljen promet akciznih proizvoda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0210a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0210a.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko nezakonito proizvede, stavi u promet odnosno proda ili prodaje proizvode koji nisu\nobilježeni kontrolnim  i poreznim markicama na način propisan poreznim zakonodavstvom\nBosne i Hercegovine kaznit će se kaznom zatvora od šest mjeseci do pet god"
+    },
+    {
+      "article_number": "210b",
+      "title": "Nedozvoljeno skladištenje robe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0210b.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0210b.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko uskladišti robu na koju se plaća porez po poreznom zakonodavstvu Bosne i\nHercegovine u prostoriji koja nije registrirana za tu namjenu u skladu sa zakonom  ili ko\n\ndozvoli da se u njegovoj prostoriji uskladišti roba, a prostorija nije za to re"
+    },
+    {
+      "article_number": "211",
+      "title": "Neplaćanje poreza",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0211.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0211.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko prenosom  ili otuđenjem imovine, gašenjem privrednog subjekta  ili na drugi način\nonemogući  naplatu  prijavljenog poreza propisanog poreznim zakonodavstvom Bosne  i\nHercegovine, a iznos obaveze čije se plaćanje izbjegava prelazi 50.000 KM, ka"
+    },
+    {
+      "article_number": "212",
+      "title": "Nedopuštena trgovina",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0212.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0212.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko neovlašteno prodaje, kupuje ili vrši razmjenu robe ili predmeta čiji je promet zabranjen\nili ograničen propisima Bosne i Hercegovine ili međunarodnim pravom, ako takvim djelom nije\nučinjeno drugo krivično djelo za koje je propisana teža kazna,"
+    },
+    {
+      "article_number": "213",
+      "title": "Nedopuštena proizvodnja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0213.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0213.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko proizvede ili preradi robu čija je proizvodnja ili prerađivanje zabranjeno propisima\nBosne  i Hercegovine  ili međunarodnim pravom, ako takvim djelom nije učinjeno  drugo\nkrivično djelo za koje je propisana teža kazna, kaznit će se novčanom ka"
+    },
+    {
+      "article_number": "214",
+      "title": "Krijumčarenje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0214.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0214.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Ko preko carinske linije prenese robu veće vrijednosti, izbjegavajući mjere carinske\nkontrole, ili ko se izbjegavajući mjere carinske kontrole bavi prenošenjem robe preko carinske\nlinije, kaznit će se novčanom kaznom ili kaznom zatvora do tri god"
+    },
+    {
+      "article_number": "215",
+      "title": "Organiziranje grupe ljudi ili udruženja za krijumčarenje ili rasturanje neocarinjene robe",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0215.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0215.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko organizira grupu ljudi  ili drugo udruženje za organizirano krijumčarenje, ili mrežu\npreprodavača ili posrednika za prodaju ili za rasturanje neocarinjene robe, kaznit će se kaznom\nzatvora najmanje tri godine.\n\n(2) Ko postane član grupe ljudi "
+    },
+    {
+      "article_number": "216",
+      "title": "Carinska prijevara",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0216.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0216.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko u namjeri da on ili ko drugi izbjegne plaćanje carine ili drugih dadžbina koje se plaćaju\nprigodom uvoza robe a čiji iznos prelazi 5.000 KM, načini  ili podnese carinskom organu\nkrivotvorenu carinsku ispravu, uvjerenje ili drugi dokument koji "
+    },
+    {
+      "article_number": "217",
+      "title": "Primanje dara i drugih oblika koristi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0217.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0217.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1)  Službena ili odgovorna osoba u institucijama Bosne i Hercegovine uključujući i stranu\nslužbenu osobu ili međunarodnog službenika, ili arbitra ili sudiju porotnika koja zahtijeva ili\nprimi dar ili kakvu drugu korist za sebe ili za drugu osobu ili"
+    },
+    {
+      "article_number": "218",
+      "title": "Davanje dara i drugih oblika koristi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0218.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0218.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1)  Ko službenoj ili odgovornoj osobi u institucijama Bosne i Hercegovine uključujući i stranu\nslužbenu osobu, ili međunarodnog službenika ili arbitra ili sudiju porotnika učini ili obeća\ndar ili kakvu drugu korist, za nju ili drugu osobu, da u okvi"
+    },
+    {
+      "article_number": "219",
+      "title": "Primanje nagrade ili drugog oblika koristi za trgovinu uticajem",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0219.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0219.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko posredno ili neposredno zahtijeva ili zaprimi ili prihvati nagradu ili kakvu drugu\nkorist ili obećanje nagrade ili kakve druge koristi, za sebe ili drugoga, da korištenjem svog\nstvarnog ili pretpostavljenog službenog ili društvenog ili uticajn"
+    },
+    {
+      "article_number": "219a",
+      "title": "Davanje nagrade ili drugog oblika koristi za trgovinu uticajem",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0219a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0219a.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko posredno ili neposredno licu koje ima službeni ili društveni ili uticajni položaj ili\ndrugi status učini ili ponudi ili obeća nagradu ili kakvu drugu korist da posreduje da\nslužbeno ili odgovorno lice u institucijama Bosne i Hercegovine ili st"
+    },
+    {
+      "article_number": "220",
+      "title": "Zloupotreba položaja ili ovlaštenja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0220.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0220.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Službena ili odgovorna osoba u institucijama Bosne i Hercegovine, koja iskorištavanjem\nsvog službenog položaja ili ovlaštenja, prekoračivši granice svog službenog ovlaštenja ili ne\n\nizvršivši svoje službene dužnosti, pribavi sebi ili drugom kakvu"
+    },
+    {
+      "article_number": "221",
+      "title": "Pronevjera u službi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0221.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0221.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko s ciljem da sebi  ili drugom pribavi protupravnu imovinsku korist prisvoji novac,\nvrijednosne papire ili druge pokretne stvari koje su mu povjerene u službi ili uopće na položaju\nu institucijama Bosne i Hercegovine, kaznit će se kaznom zatvora"
+    },
+    {
+      "article_number": "222",
+      "title": "Prijevara u službi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0222.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0222.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja s ciljem da sebi ili\ndrugom pribavi protupravnu imovinsku korist, podnošenjem lažnih obračuna ili na drugi način\ndovede u zabludu ovlaštenu osobu da izvrši nezakonitu isplatu, "
+    },
+    {
+      "article_number": "223",
+      "title": "Posluga u službi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0223.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0223.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko se neovlašteno posluži novcem, vrijednosnim papirom ili drugim pokretnim stvarima koje\nsu mu povjerene u službi ili uopće na radu u institucijama Bosne i Hercegovine, ili te stvari\ndrugom neovlašteno da na poslugu, kaznit će se kaznom zatvora od š"
+    },
+    {
+      "article_number": "224",
+      "title": "Nesavjestan rad u službi",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0224.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0224.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja svjesnim kršenjem\nzakona, drugih propisa ili općeg akta ili propuštanjem dužnosti nadzora, očigledno nesavjesno\npostupi u vršenju dužnosti, pa usljed toga nastupi teža povreda "
+    },
+    {
+      "article_number": "226",
+      "title": "Krivotvorenje službene isprave",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0226.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0226.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja u službenu  ili\nposlovnu ispravu, knjigu ili spis unese neistinite podatke ili ne unese kakav važan podatak, ili\nsvojim potpisom, odnosno službenim pečatom ovjeri službenu ili "
+    },
+    {
+      "article_number": "227",
+      "title": "Protuzakonita naplata i isplata",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0227.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0227.txt",
+      "paragraph_count": 1,
+      "content_preview": "Službena ili odgovorna osoba u institucijama Bosne i Hercegovine koja od drugog naplati nešto\nšto drugi nije dužan da plati, ili naplati više nego što je dužan da plati, ili koja pri isplati ili\npredaji kakvih stvari manje isplati, odnosno preda, kaz"
+    },
+    {
+      "article_number": "228",
+      "title": "Protuzakonito oslobođenje osobe lišene slobode",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0228.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0228.txt",
+      "paragraph_count": 1,
+      "content_preview": "Službena osoba u institucijama Bosne i Hercegovine koja protuzakonito oslobodi osobu lišenu\nslobode koja joj je povjerena na čuvanje,  ili joj pomogne da pobjegne,  ili joj omogući\nnedopuštenu vezu ili prepisku radi pripremanja bijegstva, kaznit će s"
+    },
+    {
+      "article_number": "229",
+      "title": "Protuzakonito prisvajanje stvari pri pretresanju ili izvršenju",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0229.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0229.txt",
+      "paragraph_count": 1,
+      "content_preview": "Službena osoba u institucijama Bosne i Hercegovine koja pri pretresanju stana, prostorija ili\nosoba, ili pri izvršenju oduzme pokretnu stvar s ciljem da njenim prisvajanjem pribavi sebi ili\ndrugom protupravnu imovinsku korist, kaznit će se kaznom zat"
+    },
+    {
+      "article_number": "230",
+      "title": "Neprijavljivanje krivičnog djela ili učinitelja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0230.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0230.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko zna za učinitelja krivičnog djela za koje se po zakonu Bosne i Hercegovine može izreći\nkazna dugotrajnog zatvora, ili ko samo zna da je takvo djelo učinjeno, pa to ne prijavi, iako od\ntakve prijave ovisi blagovremeno otkrivanje učinitelja ili "
+    },
+    {
+      "article_number": "231",
+      "title": "Neprijavljivanje osobe koja je optužena od strane međunarodnog krivičnog suda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0231.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0231.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko, znajući za optužnicu  i znajući gdje se kreće  ili nalazi osoba optužena od strane\nmeđunarodnog krivičnog suda, ne prijavi kretanje  ili mjesto gdje se ta osoba nalazi, iako\nblagovremen pronalazak te osobe ovisi o takvoj prijavi, kaznit će se"
+    },
+    {
+      "article_number": "231a",
+      "title": "Neprijavljivanje mjesta masovne grobnice",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0231a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0231a.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko zna mjesto gdje se nalazi mjesto masovne grobnice, pa to ne prijavi, kazniće se kaznom\nzatvora do tri godine."
+    },
+    {
+      "article_number": "232",
+      "title": "Pomoć učinitelju poslije učinjenog krivičnog djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0232.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0232.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Ko krije učinitelja krivičnog djela propisanog zakonom Bosne  i Hercegovine  ili mu\nprikrivanjem oruđa, tragova ili na drugi način pomaže da ne bude otkriven, ili ko krije osobu\nosuđenu po zakonu Bosne i Hercegovine ili poduzima što drugo čime se"
+    },
+    {
+      "article_number": "233",
+      "title": "Pomoć osobi optuženoj od strane međunarodnog krivičnog suda",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0233.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0233.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko pruži pomoć ili krije osobu optuženu od strane međunarodnog krivičnog suda ili joj\npomogne da ne bude otkrivena, kaznit će se kaznom zatvora do tri godine.\n\n (2) Za krivično djelo iz stavka 1. ovoga člana neće se kazniti osoba kojoj je učinite"
+    },
+    {
+      "article_number": "234",
+      "title": "Lažno prijavljivanje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0234.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0234.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko prijavi neku određenu osobu da je učinila krivično djelo propisano zakonom Bosne i\nHercegovine, a zna da ta osoba nije učinitelj, kaznit će se kaznom zatvora od šest mjeseci do\npet godina.\n\n(2) Kaznom iz stava 1. ovog člana kaznit će se ko pod"
+    },
+    {
+      "article_number": "235",
+      "title": "Davanje lažnog iskaza",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0235.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0235.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Svjedok,  vještak, prevoditelj  ili tumač  koji u sudskom, prekršajnom, upravnom  ili\ndisciplinskom postupku pred institucijama Bosne i Hercegovine da lažan iskaz, kaznit će se\nnovčanom kaznom ili kaznom zatvora do tri godine.\n\n(2) Kaznom iz stav"
+    },
+    {
+      "article_number": "236",
+      "title": "Sprječavanje dokazivanja",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0236.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0236.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko svjedoka ili vještaka u sudskom, prekršajnom, upravnom ili disciplinskom postupku\npred institucijama Bosne  i Hercegovine, silom, prijetnjom  ili drugim oblikom prisile,  ili\nobećanjem dara ili kakve druge koristi navede na lažan iskaz, kaznit"
+    },
+    {
+      "article_number": "237",
+      "title": "Povreda tajnosti postupka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0237.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0237.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko neovlašteno drugom otkrije činjenicu ili sredstvo koje sadrži informaciju i u čiji je\nposjed došao iz istražnog, sudskog, prekršajnog ili upravnog postupka pred institucijama\nBosne  i Hercegovine, a što se po zakonu ne smije objaviti  ili je o"
+    },
+    {
+      "article_number": "238",
+      "title": "Kršenje zakona od strane sudije",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0238.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0238.txt",
+      "paragraph_count": 2,
+      "content_preview": "Sudija Ustavnog suda Bosne i Hercegovine ili Suda Bosne i Hercegovine, koji s ciljem da\n  drugom pribavi kakvu korist ili da mu nanese kakvu štetu, donese nezakonitu odluku ili na\n\ndrugi način prekrši zakon u vršenju svoje službene dužnosti, kaznit ć"
+    },
+    {
+      "article_number": "239",
+      "title": "Neizvršenje odluke Ustavnog suda Bosne i Hercegovine, Suda Bosne i Hercegovine, Doma za ljudska prava ili Evropskog suda za ljudska prava",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0239.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0239.txt",
+      "paragraph_count": 1,
+      "content_preview": "Službena osoba u institucijama Bosne i Hercegovine, institucijama entiteta ili institucijama\nBrčko Distrikta Bosne i Hercegovine, koja odbije da izvrši konačnu i izvršnu odluku Ustavnog\nsuda Bosne i Hercegovine, Suda Bosne i Hercegovine, Doma za ljud"
+    },
+    {
+      "article_number": "240",
+      "title": "Otkrivanje identiteta zaštićenog svjedoka",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0240.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0240.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Ko neovlašteno drugome saopći, preda  ili preduzme drugu radnju s ciljem otkrivanja\npodataka o identitetu ili informacija koje mogu dovesti do otkrivanja identiteta lica koje je\npružilo dokaz ili treba pružiti dokaz pred institucijama Bosne i Her"
+    },
+    {
+      "article_number": "241",
+      "title": "Ometanje rada pravosuđa",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0241.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0241.txt",
+      "paragraph_count": 2,
+      "content_preview": "(1) Ko koristi fizičku silu, prijetnju, zastrašivanje ili obećava, nudi ili daje nedopuštenu korist,\nkako bi naveo na davanje lažanog iskaza ili spriječio davanje iskaza ili izvođenje dokaza u\nkrivičnom postupku koji se vodi po zakonu Bosne i Hercego"
+    },
+    {
+      "article_number": "241a",
+      "title": "Sprečavanje službenog lica u vršenju službene radnje",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0241a.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0241a.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko silom  ili prijetnjom da će neposredno upotrijebiti silu da spriječi službeno lice u\ninstitucijama Bosne i Hercegovine u vršenju službene radnje koju je preduzelo u okviru svojih\novlaštenja ili ga na isti način prisili na vršenje službene radn"
+    },
+    {
+      "article_number": "241b",
+      "title": "Napad na službeno lice u vršenju poslova sigurnosti, otkrivanju ili lišenju slobode počinioca krivičnih djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0241b.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0241b.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko napadne  ili ozbiljno  prijeti da će napasti službeno lice u institucijama Bosne  i\nHercegovine  ili lice koje mu pomaže u vršenju poslova sigurnosti Bosne  i Hercegovine,\notkrivanju ili lišenju slobode počinioca krivičnih djela ili čuvanja li"
+    },
+    {
+      "article_number": "242",
+      "title": "Zloupotreba autorskih prava",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0242.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0242.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Osoba koja pod svojim imenom ili pod imenom drugoga, objavi, prikaže, izvede, prenese\nili na drugi način saopći javnosti tuđe djelo koje se u skladu sa zakonom Bosne i Hercegovine\nsmatra autorskim djelom ili dozvoli da se to učini, kaznit će novč"
+    },
+    {
+      "article_number": "243",
+      "title": "Nedozvoljeno korištenje autorskih prava",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0243.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0243.txt",
+      "paragraph_count": 6,
+      "content_preview": "(1) Ko bez odobrenja autora  ili drugog nositelja autorskog prava, odnosno osobe koja je\novlaštena dati odobrenje kada je odobrenje prema zakonu Bosne i Hercegovine potrebno, ili\nprotivno njihovoj zabrani, fiksira na materijalnu podlogu, reproducira,"
+    },
+    {
+      "article_number": "244",
+      "title": "Nedozvoljeno korištenje prava proizvođača zvučne snimke",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0244.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0244.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko bez odobrenja proizvođača zvučne snimke, kada je odobrenje u skladu sa zakonom\nBosne  i Hercegovine potrebno,  ili protivno njegovoj zabrani, emitira, umnoži izravno  ili\nneizravno njegovu zvučnu snimku, neovlašteno stavi u promet, iznajmi, uv"
+    },
+    {
+      "article_number": "245",
+      "title": "Nedozvoljeno korištenje prava radiodifuzije",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0245.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0245.txt",
+      "paragraph_count": 3,
+      "content_preview": "(1) Ko bez odobrenja ovlaštenog distributera enkriptiranog satelitskog signala, proizvodi ili\nobavlja montažu, mijenja, uvozi, izvozi, prodaje, iznajmljuje ili na drugi način stavlja u promet\nmaterijalni ili nematerijalni uređaj ili sistem za dekodir"
+    },
+    {
+      "article_number": "246",
+      "title": "Nedozvoljena distribucija satelitskog signala",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0246.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0246.txt",
+      "paragraph_count": 163,
+      "content_preview": "(1) Ko prima enkriptirani satelitski signal koji je dekodiran bez odobrenja njegovog ovlaštenog\ndistributera i obavlja daljnju distribuciju takvog signala, ako zna ili mora znati da je takav signal\nneovlašteno dekodiran, kaznit će se novčanom kaznom "
+    },
+    {
+      "article_number": "247",
+      "title": "Dogovor za učinjenje krivičnih djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0247.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0247.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko s drugim dogovori učinjenje krivičnog djela propisanog zakonom Bosne i Hercegovine za\nkoje se može izreći kazna zatvora tri godine ili teža kazna, ako za dogovor učinjenja takvog\npojedinog krivičnog djela nije propisana teža kazna, kaznit će se no"
+    },
+    {
+      "article_number": "248",
+      "title": "Pripremanje krivičnog djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0248.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0248.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ko nabavi ili pripremi sredstva ili ukloni prepreke ili poduzme kakvu drugu radnju koja stvara\nuvjete za neposredno učinjenje, ali nije dio učinjenja krivičnog djela propisanog zakonom\nBosne i Hercegovine za koje se može izreći kazna zatvora tri godi"
+    },
+    {
+      "article_number": "249",
+      "title": "Udruživanje radi činjenja krivičnih djela",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0249.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0249.txt",
+      "paragraph_count": 4,
+      "content_preview": "(1) Ko organizira grupu ljudi ili na drugi način udružuje tri ili više osoba u cilju učinjenja\nkrivičnih djela propisanih zakonom Bosne  i Hercegovine ako za takvo organiziranje  ili\nudruživanje radi učinjenja pojedinog krivičnog djela nije propisana"
+    },
+    {
+      "article_number": "250",
+      "title": "Organizirani kriminal",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0250.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0250.txt",
+      "paragraph_count": 5,
+      "content_preview": "(1) Ko učini krivično djelo propisano zakonom Bosne i Hercegovine kao pripadnik grupe za\norganizirani kriminal, ako za pojedino krivično djelo nije propisana teža kazna, kaznit će se\nkaznom zatvora najmanje tri godine.\n\n(2) Ko kao pripadnik grupe za "
+    },
+    {
+      "article_number": "251",
+      "title": "Izvršenje krivičnopravnih sankcija",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0251.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0251.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ministarstvo pravde Bosne i Hercegovine i nadležna ministarstva entiteta odnosno nadležni\norgan Brčko  Distrikta Bosne  i Hercegovine  postići će sporazum u pogledu  izvršenja\nkrivičnopravnih sankcija u institucijama u nadležnosti entita odnosno Dist"
+    },
+    {
+      "article_number": "252",
+      "title": "Stupanje na snagu ovog zakona",
+      "json_file": "jpis-datasets\\laws\\criminal_code_bih\\articles\\0252.json",
+      "text_file": "jpis-datasets\\laws\\criminal_code_bih\\article-text\\0252.txt",
+      "paragraph_count": 1,
+      "content_preview": "Ovaj zakon stupa na snagu 1. marta 2003. godine."
+    }
+  ]
+}

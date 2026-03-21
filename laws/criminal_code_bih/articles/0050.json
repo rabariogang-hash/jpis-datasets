@@ -1,0 +1,24 @@
+{
+  "id": "criminal_code_bih:50",
+  "law_id": "criminal_code_bih",
+  "article_number": "50",
+  "title": "Granice ublažavanja kazne",
+  "content_path": "../article-text/0050.txt",
+  "paragraphs": [
+    "(1) Kad postoje uvjeti za ublažavanje kazne iz člana 49. (Ublažavanje kazne) ovog zakona,\nsud će ublažiti kaznu u ovim granicama:",
+    "a) ako je za krivično djelo kao najmanja mjera kazne propisana kazna zatvora od deset ili\n       više godina, kazna se može ublažiti do pet godina zatvora;",
+    "b) ako je za krivično djelo kao najmanja mjera kazne propisana kazna zatvora od tri ili\n       više godina, kazna se može ublažiti do jedne godine zatvora;",
+    "c) ako je za krivično djelo kao najmanja mjera kazne propisana kazna zatvora od dvije\n       godine, kazna se može ublažiti do šest mjeseci zatvora;",
+    "d) ako je za krivično djelo kao najmanja mjera kazne propisana kazna zatvora od jedne\n       godine, kazna se može ublažiti do tri mjeseca zatvora;",
+    "e) ako je za krivično djelo propisana kazna zatvora od najviše jedne godine, kazna se može\n        ublažiti do trideset dana zatvora;",
+    "f) ako je za krivično djelo propisana kazna zatvora bez naznake najmanje mjere, umjesto\n      kazne zatvora može se izreći novčana kazna;",
+    "g) ako je za krivično djelo propisana novčana kazna s naznakom najmanje mjere, kazna se\n      može ublažiti do pet dnevnih iznosa a ako se izriče u određenom iznosu do 500 KM.",
+    "(2) Pri odlučivanju koliko će kaznu ublažiti prema pravilima iz stava 1. ovog člana, sud će\nposebno uzeti u obzir najmanju i najveću mjeru kazne propisane za to krivično djelo."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0050",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

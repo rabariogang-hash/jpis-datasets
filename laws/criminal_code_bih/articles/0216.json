@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:216",
+  "law_id": "criminal_code_bih",
+  "article_number": "216",
+  "title": "Carinska prijevara",
+  "content_path": "../article-text/0216.txt",
+  "paragraphs": [
+    "(1) Ko u namjeri da on ili ko drugi izbjegne plaćanje carine ili drugih dadžbina koje se plaćaju\nprigodom uvoza robe a čiji iznos prelazi 5.000 KM, načini  ili podnese carinskom organu\nkrivotvorenu carinsku ispravu, uvjerenje ili drugi dokument koji je lažan, kaznit će se novčanom\nkaznom ili kaznom zatvora do tri godine.",
+    "(2) Ako obaveza iz stava 1. ovog člana prelazi iznos od 20.000 KM, učinitelj će se kazniti\nkaznom zatvora od jedne do deset godina.",
+    "(3) Ako obaveza iz stava 1. ovog člana prelazi iznos od 80.000 KM, učinitelj će se kazniti\nkaznom zatvora najmanje tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0216",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

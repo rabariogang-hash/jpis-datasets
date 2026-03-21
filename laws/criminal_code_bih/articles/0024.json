@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:24",
+  "law_id": "criminal_code_bih",
+  "article_number": "24",
+  "title": "Nužna odbrana",
+  "content_path": "../article-text/0024.txt",
+  "paragraphs": [
+    "(1) Nije krivično djelo ono djelo koje je učinjeno u nužnoj odbrani.",
+    "(2) Nužna je ona odbrana koja je neophodno potrebna da učinitelj od sebe ili drugog odbije\nistovremeni ili direktno predstojeći protupravni napad, a koja je srazmjerna napadu.",
+    "(3)  Učinitelj koji prekorači granice nužne odbrane može se blaže kazniti, a ako je prekoračenje\nučinio zbog jake razdraženosti ili straha izazvanog napadom, može se i osloboditi od kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0024",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

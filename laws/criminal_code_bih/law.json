@@ -6,16 +6,23 @@
   "type": "law",
   "official_gazette": "Službeni glasnik BiH",
   "status": "active",
+  "effective_from": "2003-03-01",
   "source": {
     "type": "official_gazette",
     "name": "Parlamentarna skupština Bosne i Hercegovine",
     "url": "https://www.parlament.ba/law/DownloadDocument?langTag=bs&lawDocumentId=ddc77cbe-f364-4a43-a7a5-96a72fe85ae3",
-    "notes": "Neslužbeni prečišćeni tekst"
+    "notes": "Parlamentarna stranica označava dokument kao 'Neslužbeni prečišćeni tekst (maj 2023.)', ali sadržaj PDF-a eksplicitno navodi izmjene do 35/18; potrebna dodatna verifikacija kasnijih izmjena."
   },
   "metadata": {
     "language": "bs",
     "document_kind": "consolidated_text",
     "source_pages": 112,
-    "dataset_stage": "metadata_ready"
+    "dataset_stage": "article_segmented",
+    "article_count": 277,
+    "source_file": "criminal_code_bih.pdf",
+    "processed_source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "needs_latest_verification",
+    "source_label": "Neslužbeni prečišćeni tekst (maj 2023.)",
+    "content_explicitly_lists_amendments_through": "35/18"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "id": "criminal_code_bih:32",
+  "law_id": "criminal_code_bih",
+  "article_number": "32",
+  "title": "Granice krivice i kažnjivosti saučesnika",
+  "content_path": "../article-text/0032.txt",
+  "paragraphs": [
+    "(1)  Saučinitelj je kriv u granicama svojeg umišljaja  ili nehata, a podstrekač  i pomagač u\ngranicama svog umišljaja.",
+    "(2) Saučinitelja, podstrekača ili pomagača koji dobrovoljno spriječi učinjenje krivičnog djela\nsud će oslobodit od kazne.",
+    "(3) Osobni odnosi, svojstva  i okolnosti zbog kojih zakon isključuje krivicu  ili dopušta\noslobođenje od kazne ili ublažavanje kazne, mogu se uzeti u obzir samo onom učinitelju,\nsaučinitelju, podstrekaču ili pomagaču kod kojega takvi odnosi, svojstva i okolnosti postoje."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0032",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:106",
+  "law_id": "criminal_code_bih",
+  "article_number": "106",
+  "title": "Izvršenje kazne zatvora i kazne dugotrajnog zatvora",
+  "content_path": "../article-text/0106.txt",
+  "paragraphs": [
+    "(1) Kazna zatvora i kazna maloljetničkog zatvora izvršavaju se u zatvorenim, poluotvorenim\nili otvorenim ustanovama za izdržavanje kazne.",
+    "(2) Kazna dugotrajnog zatvora izvršava se u zatvorenim ustanovama za izdržavanje kazne."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0106",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

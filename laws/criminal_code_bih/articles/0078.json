@@ -1,0 +1,25 @@
+{
+  "id": "criminal_code_bih:78",
+  "law_id": "criminal_code_bih",
+  "article_number": "78",
+  "title": "Vrste odgojnih preporuka",
+  "content_path": "../article-text/0078.txt",
+  "paragraphs": [
+    "(1) Odgojne preporuke su:",
+    "a) osobno izvinjenje oštećenom;",
+    "b) naknada štete oštećenom;",
+    "c) redovno pohađanje škole;",
+    "d) rad u korist humanitarne organizacije ili lokalne zajednice;",
+    "e) prihvaćanje odgovarajućeg zaposlenja;",
+    "f) smještaj u drugu obitelj, dom ili ustanovu;",
+    "g) liječenje u odgovarajućoj zdravstvenoj ustanovi;",
+    "h) posjećivanje odgojnih, obrazovnih, psiholoških i drugih savjetovališta.",
+    "(2) Odgojne preporuke iz stava 1. tačke a. do c. i h. ovog člana primjenjuje ovlašteni tužitelj, a\nodgojne preporuke iz tačke d. do g. primjenjuje sud za maloljetnike."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0078",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

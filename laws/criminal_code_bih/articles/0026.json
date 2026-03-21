@@ -1,0 +1,17 @@
+{
+  "id": "criminal_code_bih:26",
+  "law_id": "criminal_code_bih",
+  "article_number": "26",
+  "title": "Pokušaj",
+  "content_path": "../article-text/0026.txt",
+  "paragraphs": [
+    "(1) Ko s umišljajem započne činjenje krivičnog djela, ali ga ne dovrši, kaznit će se za pokušaj\nkrivičnog djela ako se za to krivično djelo može izreći kazna zatvora tri godine ili teža kazna, a\nza pokušaj drugog krivičnog djela kad zakon izričito propisuje kažnjavanje i za pokušaj.",
+    "(2) Učinitelj će se za pokušaj krivičnog djela kazniti u granicama kazne propisane za to\nkrivično djelo, a može se i blaže kazniti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0026",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

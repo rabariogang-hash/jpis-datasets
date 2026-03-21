@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:210",
+  "law_id": "criminal_code_bih",
+  "article_number": "210",
+  "title": "Porezna utaja ili prevara",
+  "content_path": "../article-text/0210.txt",
+  "paragraphs": [
+    "(1) Ko izbjegne da plati davanja propisana poreznim zakonodavstvom Bosne i Hercegovine\nnepružanjem  zahtijevanih  podataka  ili pružanjem  lažnih  podataka o  svojim  stečenim\noporezivim prihodima  ili o drugim činjenicama koje su od uticaja na utvrđivanje iznosa\nobaveza, a iznos poreza čije se plaćanje izbjegava prelazi iznos od 10.000 KM, kaznit će se\nkaznom zatvora od šest mjeseci do pet godina.",
+    "(2) Kaznom iz stava (1) ovog člana kaznit će se i onaj ko, u namjeri da ostvari pravo na povrat\nili  kredit po osnovu  indirektnih poreza propisanih poreznim zakonodavstvom Bosne  i\nHercegovine, podnese poreznu prijavu neistinitog sadržaja sa iskazanim iznosom za povrat ili\nkredit indirektnih poreza koji prelazi 10.000 KM.",
+    "(3) Ko počini krivično djelo iz stava (1) ovog člana, a iznos obaveze čije se plaćanje izbjegava\nprelazi 50.000 KM, ili ko počini krivično djelo iz stava (2) ovog člana, a iskazani iznos povrata\nili kredita po osnovu indirektnih poreza prelazi 50.000 KM, kaznit će se kaznom zatvora od\njedne do deset godina.",
+    "(4) Ko počini krivično djelo iz stava (1) ovog člana, a iznos obaveze čije se plaćanje izbjegava\nprelazi 200.000 KM, ili ko počini krivično djelo iz stava (2) ovog člana, a iskazani iznos povrata\nili kredita po osnovu indirektnih poreza prelazi 200.000 KM, kaznit će se kaznom zatvora od\nnajmanje tri godine."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0210",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

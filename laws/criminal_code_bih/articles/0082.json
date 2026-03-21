@@ -1,0 +1,22 @@
+{
+  "id": "criminal_code_bih:82",
+  "law_id": "criminal_code_bih",
+  "article_number": "82",
+  "title": "Vrste odgojnih mjera",
+  "content_path": "../article-text/0082.txt",
+  "paragraphs": [
+    "(1) Odgojne mjere su:",
+    "a) disciplinske mjere;",
+    "b) mjere pojačanog nadzora;",
+    "c) zavodske mjere.",
+    "(2) Disciplinske mjere izriču se maloljetnom učinitelju krivičnog djela kojem nije potrebno\nizreći trajnije mjere odgoja i preodgoja, naročito ako je učinio krivično djelo iz nepromišljenosti\nili lakomislenosti.",
+    "(3) Mjere pojačanog nadzora izriču se maloljetnom učinitelju krivičnog djela kojem treba izreći\ntrajnije mjere odgoja, preodgoja ili liječenja uz odgovarajući nadzor, a nije potrebno njegovo\npotpuno odvajanje iz dotadašnje sredine.",
+    "(4) Zavodske mjere izriču se maloljetnom učinitelju krivičnog djela kojem treba izreći trajnije\nmjere odgoja, preodgoja  ili liječenja uz njegovo potpuno odvajanje iz dotadašnje sredine.\nZavodske mjere ne mogu trajati duže od pet godina."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0082",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

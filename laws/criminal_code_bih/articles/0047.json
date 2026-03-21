@@ -1,0 +1,19 @@
+{
+  "id": "criminal_code_bih:47",
+  "law_id": "criminal_code_bih",
+  "article_number": "47",
+  "title": "Zamjena novčane kazne",
+  "content_path": "../article-text/0047.txt",
+  "paragraphs": [
+    "(1) Novčana kazna se ne naplaćuje prinudno.",
+    "(2) Ako se novčana kazna ne plati u roku koji je utvrđen presudom, sud će bez odlaganja\ndonijeti odluku da se novčana kazna zamijeni kaznom zatvora.",
+    "(3) Novčana kazna će se zamijeniti kaznom zatvora tako što će se za svaki započeti dnevni\niznos novčane kazne, odnosno ako je novčana kazna bila izrečena u određenom iznosu, za\nsvakih započetih 100 KM novčane kazne odrediti jedan dan zatvora, s tim da ne može\nprekoračiti propisanu kaznu za to djelo.",
+    "(4) Ako osuđeni isplati samo dio novčane kazne, ostatak će se srazmjerno pretvoriti u zatvor, a\nako osuđeni isplati ostatak novčane kazne, izvršenje zatvora će se obustaviti."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0047",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}

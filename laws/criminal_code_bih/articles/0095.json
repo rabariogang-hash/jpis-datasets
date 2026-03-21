@@ -1,0 +1,16 @@
+{
+  "id": "criminal_code_bih:95",
+  "law_id": "criminal_code_bih",
+  "article_number": "95",
+  "title": "Kažnjavanje starijih maloljetnika",
+  "content_path": "../article-text/0095.txt",
+  "paragraphs": [
+    "Kazniti se može samo stariji maloljetnik koji je učinio krivično djelo s propisanom kaznom\nzatvora težom od pet godina, a zbog teških posljedica djela  i stepena krivice ne bi bilo\nopravdano izreći odgojnu mjeru."
+  ],
+  "keywords": [],
+  "metadata": {
+    "sort_key": "0095",
+    "source_file": "criminal_code_bih.main-law.final.txt",
+    "review_status": "draft_generated"
+  }
+}
